@@ -308,9 +308,9 @@ void run(vector<string> *arr, alloc_strategies strategy, string outFile)
     // loop counter
     int i = 0;
     // free limit => 500
-    int maxLength = 500;
+    int deletionLength = 500;
     // iteration length => 1000
-    int iterationLength = 1000;
+    int insertionLength = 1000;
     // total allocated bytes
     int totalAllocatedMemoryInByte = 0, totalAllocatedMemoryTime = 0;
 
@@ -318,9 +318,9 @@ void run(vector<string> *arr, alloc_strategies strategy, string outFile)
     while (i < length)
     {
         // each 1000 allocations in allocMBList
-        if (i % iterationLength == 0 && i > 0)
+        if (i % insertionLength == 0 && i > 0)
         {
-            deallocateMemory(length, maxLength, i, &allocMBList, &freedMBList);
+            deallocateMemory(length, deletionLength, i, &allocMBList, &freedMBList);
         }
 
         // flag if memory block is found in freedMBList
@@ -363,7 +363,7 @@ int main(int argc, char *argv[])
     vector<string> arguments(argv + 1, argv + argc);
 
     // // help menu
-    string help_menu = "Choose one of the following strategies as an argument:\n\t-ff\t\tFirst-Fit\n\t-bf\t\nBest-Fit\n\t-wf\t\tWorst-Fit";
+    string help_menu = "Choose one of the following strategies as an argument:\n\t-ff \t<source file> <destination file>\tFirst-Fit\n\t-bf \t<source file> <destination file>\tBest-Fit\n\t-wf \t<source file> <destination file>\tWorst-Fit";
 
     // check if argument are given then enter the switch statement
     if (arguments.size() == 3)
