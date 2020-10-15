@@ -1,0 +1,3404 @@
+***[Memory Allocated Size: 18554 Bytes]***
+***[Memory Allocations: 2819 Allocations]***
+***[Nodes in Free List: 449 Nodes]***
+
+freedMBList
+Address			Node Size
+0x1089a6004			1
+0x1089a6023			3
+0x1089a6038			3
+0x1089a606e			3
+0x1089a6097			2
+0x1089a60a6			1
+0x1089a60b9			3
+0x1089a60c1			1
+0x1089a6106			3
+0x1089a6164			1
+0x1089a6181			1
+0x1089a619f			2
+0x1089a61df			1
+0x1089a61ed			3
+0x1089a6204			1
+0x1089a621d			1
+0x1089a6246			1
+0x1089a6276			1
+0x1089a6284			1
+0x1089a62cc			2
+0x1089a62ef			1
+0x1089a630b			2
+0x1089a631b			2
+0x1089a6336			1
+0x1089a634f			1
+0x1089a6354			2
+0x1089a636d			2
+0x1089a6392			2
+0x1089a63ca			1
+0x1089a63da			1
+0x1089a63e5			2
+0x1089a6404			1
+0x1089a640d			1
+0x1089a6423			2
+0x1089a643d			1
+0x1089a6460			2
+0x1089a6474			2
+0x1089a6480			1
+0x1089a64a3			1
+0x1089a64ab			3
+0x1089a64be			1
+0x1089a64c8			2
+0x1089a64d5			1
+0x1089a64e0			2
+0x1089a64e7			3
+0x1089a64fe			1
+0x1089a6511			3
+0x1089a6578			1
+0x1089a65ae			2
+0x1089a660f			1
+0x1089a6616			1
+0x1089a6623			1
+0x1089a6654			1
+0x1089a6663			3
+0x1089a6682			2
+0x1089a6694			2
+0x1089a6764			1
+0x1089a676b			1
+0x1089a677f			2
+0x1089a678b			3
+0x1089a679c			1
+0x1089a67c8			2
+0x1089a67cf			3
+0x1089a6806			2
+0x1089a6831			2
+0x1089a6844			1
+0x1089a6849			3
+0x1089a6866			2
+0x1089a68a0			1
+0x1089a68a6			1
+0x1089a68da			1
+0x1089a68f2			2
+0x1089a6900			2
+0x1089a691d			1
+0x1089a693c			1
+0x1089a695c			2
+0x1089a6965			2
+0x1089a697b			1
+0x1089a6991			1
+0x1089a69c5			3
+0x1089a69fe			2
+0x1089a6a36			2
+0x1089a6a48			1
+0x1089a6a77			1
+0x1089a6a88			2
+0x1089a6aa6			2
+0x1089a6aac			3
+0x1089a6ac3			1
+0x1089a6ad7			1
+0x1089a6ae7			1
+0x1089a6aec			3
+0x1089a6b07			1
+0x1089a6b13			1
+0x1089a6b24			2
+0x1089a6b2c			1
+0x1089a6b36			1
+0x1089a6b40			2
+0x1089a6b50			3
+0x1089a6b58			2
+0x1089a6b6e			2
+0x1089a6b79			1
+0x1089a6ba3			1
+0x1089a6bb2			2
+0x1089a6bc6			2
+0x1089a6bd0			3
+0x1089a6bd6			2
+0x1089a6be9			1
+0x1089a6c18			1
+0x1089a6c1f			2
+0x1089a6c32			3
+0x1089a6c67			1
+0x1089a6cd9			1
+0x1089a6ce5			1
+0x1089a6d12			1
+0x1089a6d35			1
+0x1089a6d4f			1
+0x1089a6da4			2
+0x1089a6dba			2
+0x1089a6de1			2
+0x1089a6df3			3
+0x1089a6e0b			3
+0x1089a6e3a			1
+0x1089a6e50			1
+0x1089a6e65			2
+0x1089a6e78			2
+0x1089a6eb5			3
+0x1089a6ebd			3
+0x1089a6edc			1
+0x1089a6ee4			3
+0x1089a6ef2			2
+0x1089a6f15			2
+0x1089a6f22			1
+0x1089a6f3f			3
+0x1089a6f5d			2
+0x1089a6f69			2
+0x1089a6f81			1
+0x1089a6f94			1
+0x1089a6f9e			1
+0x1089a6fac			1
+0x1089a6fcf			1
+0x1089a6fd5			2
+0x1089a7032			3
+0x1089a703b			3
+0x1089a7042			2
+0x1089a705c			2
+0x1089a707d			1
+0x1089a708c			1
+0x1089a7098			1
+0x1089a70ce			2
+0x1089a70d3			1
+0x1089a70de			1
+0x1089a70f1			3
+0x1089a710f			2
+0x1089a7158			1
+0x1089a716a			1
+0x1089a7172			3
+0x1089a717e			2
+0x1089a71b2			1
+0x1089a71e9			1
+0x1089a71f4			2
+0x1089a721a			2
+0x1089a7220			2
+0x1089a7226			1
+0x1089a725c			2
+0x1089a7279			1
+0x1089a7280			2
+0x1089a7295			2
+0x1089a72ae			1
+0x1089a72c8			1
+0x1089a72d4			1
+0x1089a72e7			3
+0x1089a730e			3
+0x1089a733d			1
+0x1089a735a			1
+0x1089a7370			1
+0x1089a7375			1
+0x1089a7399			1
+0x1089a73b4			1
+0x1089a73d2			1
+0x1089a73f6			1
+0x1089a7400			2
+0x1089a7417			3
+0x1089a7423			1
+0x1089a7431			1
+0x1089a7440			1
+0x1089a744c			2
+0x1089a749d			1
+0x1089a74ae			1
+0x1089a74eb			2
+0x1089a7513			2
+0x1089a752d			3
+0x1089a7546			1
+0x1089a755b			1
+0x1089a75a5			1
+0x1089a75d3			1
+0x1089a75fa			3
+0x1089a7608			2
+0x1089a7620			1
+0x1089a762b			1
+0x1089a763d			1
+0x1089a7643			3
+0x1089a7671			1
+0x1089a7680			2
+0x1089a7696			3
+0x1089a76d1			1
+0x1089a7716			2
+0x1089a7724			2
+0x1089a7748			2
+0x1089a774f			2
+0x1089a7760			1
+0x1089a777d			2
+0x1089a7797			2
+0x1089a77bd			1
+0x1089a77c3			3
+0x1089a77d4			3
+0x1089a7820			1
+0x1089a782e			3
+0x1089a784c			1
+0x1089a7851			3
+0x1089a785c			1
+0x1089a786c			2
+0x1089a7885			1
+0x1089a788e			1
+0x1089a78ac			1
+0x1089a790c			3
+0x1089a793c			1
+0x1089a7969			1
+0x1089a7982			1
+0x1089a7989			1
+0x1089a79f9			2
+0x1089a7a17			3
+0x1089a7a25			2
+0x1089a7a33			2
+0x1089a7a46			3
+0x1089a7a4f			1
+0x1089a7a85			1
+0x1089a7aa9			2
+0x1089a7acb			1
+0x1089a7ad1			1
+0x1089a7b06			1
+0x1089a7b15			2
+0x1089a7b1d			2
+0x1089a7b50			1
+0x1089a7b83			1
+0x1089a7b88			2
+0x1089a7bbb			1
+0x1089a7c06			3
+0x1089a7c53			1
+0x1089a7c6e			1
+0x1089a7c97			1
+0x1089a7caf			1
+0x1089a7cd0			1
+0x1089a7cee			1
+0x1089a7d1b			1
+0x1089a7d5b			3
+0x1089a7d62			2
+0x1089a7dad			3
+0x1089a7de5			1
+0x1089a7e20			1
+0x1089a7e34			2
+0x1089a7e40			2
+0x1089a7e9f			2
+0x1089a7ecf			1
+0x1089a7ee9			1
+0x1089a7ef4			3
+0x1089a7f0f			1
+0x1089a7f27			2
+0x1089a7f2d			1
+0x1089a7f41			1
+0x1089a7f6a			2
+0x1089a7f74			2
+0x1089a7f91			1
+0x1089a7fa9			2
+0x1089a7fb8			2
+0x1089a7fcb			2
+0x1089a7fdc			1
+0x1089a7fea			1
+0x1089a8006			1
+0x1089a809c			3
+0x1089a80ab			1
+0x1089a80dc			1
+0x1089a80e9			1
+0x1089a8138			1
+0x1089a8153			1
+0x1089a817c			1
+0x1089a8188			1
+0x1089a819d			2
+0x1089a81c3			1
+0x1089a81c8			1
+0x1089a81d9			3
+0x1089a8219			3
+0x1089a8240			1
+0x1089a8254			1
+0x1089a826a			1
+0x1089a827c			2
+0x1089a8283			1
+0x1089a8291			2
+0x1089a82b7			2
+0x1089a82cd			1
+0x1089a82f3			1
+0x1089a82fd			3
+0x1089a8322			1
+0x1089a8332			1
+0x1089a8361			1
+0x1089a836d			3
+0x1089a8377			1
+0x1089a8385			3
+0x1089a83c1			3
+0x1089a83e6			1
+0x1089a8423			2
+0x1089a8439			2
+0x1089a8445			1
+0x1089a8453			1
+0x1089a8472			2
+0x1089a8490			2
+0x1089a84ab			1
+0x1089a84b7			1
+0x1089a84d8			1
+0x1089a84e9			3
+0x1089a853b			1
+0x1089a8554			2
+0x1089a8566			3
+0x1089a85b1			1
+0x1089a8623			3
+0x1089a8662			1
+0x1089a8678			2
+0x1089a8688			2
+0x1089a868f			3
+0x1089a86ef			2
+0x1089a8740			1
+0x1089a879b			3
+0x1089a87d0			1
+0x1089a8810			2
+0x1089a8851			2
+0x1089a8886			1
+0x1089a8891			3
+0x1089a88bd			2
+0x1089a88d3			1
+0x1089a8917			1
+0x1089a892b			1
+0x1089a8953			3
+0x1089a897c			3
+0x1089a898e			1
+0x1089a89df			1
+0x1089a89f8			3
+0x1089a8a13			1
+0x1089a8a23			1
+0x1089a8a2f			3
+0x1089a8a3d			3
+0x1089a8a61			1
+0x1089a8aa6			2
+0x1089a8ad9			1
+0x1089a8b04			1
+0x1089a8b13			1
+0x1089a8b3e			1
+0x1089a8b59			1
+0x1089a8b5f			3
+0x1089a8b74			1
+0x1089a8bca			1
+0x1089a8bec			1
+0x1089a8c0b			3
+0x1089a8c34			2
+0x1089a8c3d			1
+0x1089a8c6b			3
+0x1089a8c7f			1
+0x1089a8ca9			1
+0x1089a8cfa			1
+0x1089a8d32			2
+0x1089a8d51			1
+0x1089a8d62			1
+0x1089a8d7d			3
+0x1089a8da7			1
+0x1089a8dff			1
+0x1089a8e31			1
+0x1089a8e3f			3
+0x1089a8e6d			1
+0x1089a8e92			1
+0x1089a8eb3			1
+0x1089a8eb8			2
+0x1089a8ef7			1
+0x1089a8f7c			3
+0x1089a8fa4			2
+0x1089a8fb1			2
+0x1089a8fec			3
+0x1089a8ff4			1
+0x1089a9006			1
+0x1089a9010			1
+0x1089a9018			3
+0x1089a9025			1
+0x1089a904b			1
+0x1089a9055			3
+0x1089a9067			2
+0x1089a9080			2
+0x1089a9091			3
+0x1089a90a1			1
+0x1089a90d5			1
+0x1089a90db			1
+0x1089a90f2			1
+0x1089a9100			1
+0x1089a9117			1
+0x1089a9137			1
+0x1089a917b			2
+0x1089a91ab			1
+0x1089a91ef			3
+0x1089a91ff			3
+0x1089a9276			2
+0x1089a9288			1
+0x1089a929a			3
+0x1089a9313			1
+0x1089a9390			4
+0x1089a9419			2
+0x1089a943f			1
+0x1089a945b			3
+0x1089a9496			1
+0x1089a94ea			3
+0x1089a952c			3
+0x1089a9553			2
+0x1089a9595			3
+0x1089a95be			1
+0x1089a9606			1
+0x1089a9632			2
+0x1089a9700			2
+0x1089a971d			1
+0x1089a97a9			1
+0x1089a97ce			2
+0x1089a9811			3
+0x1089a985d			1
+0x1089a98d7			1
+0x1089a98f8			2
+0x1089a9953			1
+0x1089a99d9			1
+0x1089a9a21			3
+0x1089a9a4d			2
+0x1089a9b31			2
+0x1089a9b63			3
+0x1089a9b98			1
+0x1089a9baf			4
+0x1089a9bfa			1
+0x1089a9c2b			1
+0x1089a9c40			1
+0x1089a9c70			3
+0x1089a9cac			3
+0x1089a9cc1			3
+0x1089a9cd3			3
+0x1089a9cea			1
+0x1089a9d13			2
+0x1089a9d28			1
+0x1089a9d4e			1
+0x1089a9d75			2
+
+
+allocMBList
+Address			Node Size		Content
+0x1089a6005			6			Aarika
+0x1089a600b			7			Abagael
+0x1089a6012			7			Abagail
+0x1089a6019			4			Abbe
+0x1089a6071			5			Addie
+0x1089a60c2			6			Adelle
+0x1089a60c8			5			Adena
+0x1089a60e4			5			Adore
+0x1089a6155			5			Agace
+0x1089a6165			6			Agathe
+0x1089a6174			4			Aggy
+0x1089a61a1			7			Agretha
+0x1089a61b1			7			Aigneis
+0x1089a61f4			5			Aimee
+0x1089a6205			7			Ainslee
+0x1089a622b			5			Alana
+0x1089a6247			7			Alberta
+0x1089a6260			6			Albina
+0x1089a626c			5			Aleda
+0x1089a629a			10			Alessandra
+0x1089a62a4			5			Aleta
+0x1089a62a9			7			Alethea
+0x1089a62b4			5			Alexa
+0x1089a62b9			9			Alexandra
+0x1089a62d2			6			Alexia
+0x1089a62f0			5			Alfie
+0x1089a6300			3			Ali
+0x1089a6303			4			Alia
+0x1089a631d			5			Alida
+0x1089a6328			4			Alie
+0x1089a6337			5			Alina
+0x1089a6356			6			Alissa
+0x1089a635c			6			Alisun
+0x1089a636f			6			Alleen
+0x1089a6382			4			Alli
+0x1089a6394			6			Allina
+0x1089a639a			5			Allis
+0x1089a63ad			5			Allix
+0x1089a63b2			6			Allsun
+0x1089a63bc			4			Ally
+0x1089a63c0			6			Allyce
+0x1089a63cb			5			Allys
+0x1089a63fa			6			Aloise
+0x1089a640e			4			Alta
+0x1089a6418			6			Alvera
+0x1089a6442			4			Alys
+0x1089a6481			7			Amaleta
+0x1089a64ca			5			Amber
+0x1089a64d6			5			Ambur
+0x1089a64ea			7			Amelina
+0x1089a64ff			3			Ami
+0x1089a6506			4			Amii
+0x1089a6514			5			Amity
+0x1089a6522			3			Amy
+0x1089a6532			6			Anabel
+0x1089a6548			8			Analiese
+0x1089a6550			7			Analise
+0x1089a6579			10			Anastassia
+0x1089a6583			7			Anatola
+0x1089a65b0			8			Andreana
+0x1089a6617			6			Angele
+0x1089a6624			8			Angelica
+0x1089a663c			8			Angeline
+0x1089a6655			7			Angelle
+0x1089a6666			4			Angy
+0x1089a6679			5			Anita
+0x1089a66a3			10			Anna-Diana
+0x1089a66c8			7			Annabel
+0x1089a66d7			8			Annabell
+0x1089a66f1			9			Annadiana
+0x1089a6703			7			Annalee
+0x1089a673d			10			Anne-Marie
+0x1089a676c			7			Annetta
+0x1089a67ca			5			Anthe
+0x1089a680f			10			Antonietta
+0x1089a684c			7			Arabele
+0x1089a68b2			6			Ardith
+0x1089a68c8			6			Ardyth
+0x1089a68f4			7			Ariella
+0x1089a6902			6			Arlana
+0x1089a690d			6			Arleen
+0x1089a691e			6			Arlene
+0x1089a693d			7			Arliene
+0x1089a6944			6			Arlina
+0x1089a6967			6			Arlyne
+0x1089a697c			6			Ashien
+0x1089a6992			6			Ashlee
+0x1089a69e5			7			Atlanta
+0x1089a69f3			7			Auberta
+0x1089a6a00			6			Aubree
+0x1089a6a38			6			Audrie
+0x1089a6a64			9			Augustine
+0x1089a6a78			5			Aurea
+0x1089a6a90			7			Aurelie
+0x1089a6a9c			5			Aurie
+0x1089a6ab5			6			Aurora
+0x1089a6aef			4			Avis
+0x1089a6b08			3			Ayn
+0x1089a6b0b			3			Bab
+0x1089a6b14			4			Babb
+0x1089a6b37			5			Bambi
+0x1089a6b5a			12			Barbara-Anne
+0x1089a6ba4			6			Barrie
+0x1089a6bb4			9			Bathsheba
+0x1089a6bc8			8			Beatrice
+0x1089a6bd8			7			Beatrix
+0x1089a6bea			5			Becca
+0x1089a6bef			5			Becka
+0x1089a6bff			5			Becky
+0x1089a6c21			7			Belicia
+0x1089a6c35			4			Bell
+0x1089a6c39			5			Bella
+0x1089a6c3e			8			Bellanca
+0x1089a6c46			5			Belle
+0x1089a6c7f			7			Benetta
+0x1089a6cc4			10			Bernadette
+0x1089a6cea			10			Bernardine
+0x1089a6d60			6			Bertie
+0x1089a6d66			7			Bertina
+0x1089a6da6			7			Bethena
+0x1089a6de3			5			Betti
+0x1089a6dfb			6			Bettye
+0x1089a6e01			6			Beulah
+0x1089a6e29			7			Beverly
+0x1089a6e3b			6			Bianka
+0x1089a6e5c			5			Biddy
+0x1089a6e67			4			Bili
+0x1089a6e6f			5			Billi
+0x1089a6e7a			5			Billy
+0x1089a6e90			5			Binny
+0x1089a6eb8			5			Blake
+0x1089a6eff			6			Blisse
+0x1089a6f05			6			Blithe
+0x1089a6f29			6			Blythe
+0x1089a6f42			5			Bobbi
+0x1089a6f4d			5			Bobby
+0x1089a6f5f			6			Bobina
+0x1089a6f6b			9			Bobinette
+0x1089a6f9f			8			Brandais
+0x1089a6fba			8			Brandice
+0x1089a6fd7			7			Breanne
+0x1089a6ffc			5			Brenn
+0x1089a7001			6			Brenna
+0x1089a7010			6			Briana
+0x1089a704b			6			Brigid
+0x1089a705e			8			Brigitta
+0x1089a707e			6			Brinna
+0x1089a708d			5			Brita
+0x1089a7099			6			Britni
+0x1089a70df			8			Brittney
+0x1089a70f9			6			Brooks
+0x1089a70ff			9			Brunhilda
+0x1089a7111			6			Bryana
+0x1089a7120			5			Brynn
+0x1089a712b			6			Brynne
+0x1089a7159			11			Cairistiona
+0x1089a716b			7			Caitrin
+0x1089a7180			6			Calley
+0x1089a71a7			6			Camala
+0x1089a71c5			6			Camila
+0x1089a71ea			5			Cammy
+0x1089a71f6			5			Candi
+0x1089a7202			7			Candida
+0x1089a7209			7			Candide
+0x1089a7210			6			Candie
+0x1089a7227			7			Caprice
+0x1089a722e			4			Cara
+0x1089a7244			6			Caresa
+0x1089a7282			6			Carine
+0x1089a7297			6			Carita
+0x1089a72af			7			Carleen
+0x1089a72b6			6			Carlen
+0x1089a72c9			6			Carlie
+0x1089a72dc			7			Carline
+0x1089a72fe			6			Carlye
+0x1089a7304			6			Carlyn
+0x1089a7311			8			Carlynne
+0x1089a731e			6			Carmel
+0x1089a7345			8			Carmella
+0x1089a734d			8			Carmelle
+0x1089a735b			10			Carmencita
+0x1089a7365			7			Carmina
+0x1089a7384			5			Carol
+0x1089a7389			10			Carol-Jean
+0x1089a73a8			6			Carole
+0x1089a73b5			7			Carolin
+0x1089a73c4			8			Caroline
+0x1089a7402			8			Carrissa
+0x1089a7463			6			Cassey
+0x1089a746e			6			Cassie
+0x1089a7503			5			Cathy
+0x1089a7534			7			Catrina
+0x1089a755c			6			Cecile
+0x1089a7581			4			Cele
+0x1089a75db			6			Celine
+0x1089a75e1			7			Celinka
+0x1089a760f			7			Chandra
+0x1089a7646			8			Charisse
+0x1089a7672			8			Charlena
+0x1089a76bc			8			Charmian
+0x1089a76c4			8			Charmine
+0x1089a7726			7			Cherice
+0x1089a7734			6			Cherie
+0x1089a7774			6			Cherry
+0x1089a7799			7			Chickie
+0x1089a77c6			7			Chloris
+0x1089a7821			8			Christel
+0x1089a7831			7			Christi
+0x1089a785d			8			Christin
+0x1089a786e			9			Christine
+0x1089a788f			6			Chrysa
+0x1089a65d2			7			Chryste
+0x1089a6b70			5			Cinda
+0x1089a65ec			10			Cinderella
+0x1089a6c4b			6			Cindie
+0x1089a76d2			6			Cindra
+0x1089a6dbc			8			Cinnamon
+0x1089a6b7a			5			Cissy
+0x1089a724a			5			Clair
+0x1089a76d8			5			Clara
+0x1089a65f6			5			Clare
+0x1089a67a4			8			Clarette
+0x1089a6cf4			5			Clari
+0x1089a7515			6			Clarie
+0x1089a758b			8			Clarinda
+0x1089a76dd			7			Clarine
+0x1089a65fb			7			Clarita
+0x1089a67e5			5			Clary
+0x1089a658a			6			Claude
+0x1089a7751			9			Claudelle
+0x1089a6b87			8			Claudine
+0x1089a6ee7			7			Clemmie
+0x1089a67ea			8			Clerissa
+0x1089a7029			5			Codee
+0x1089a7616			5			Codie
+0x1089a77e8			4			Cody
+0x1089a6140			6			Coleen
+0x1089a6285			6			Colene
+0x1089a6590			7			Coletta
+0x1089a6998			3			Con
+0x1089a69b1			10			Concettina
+0x1089a72ea			8			Conchita
+0x1089a749e			5			Conni
+0x1089a6f2f			10			Constantia
+0x1089a6fe3			11			Constantina
+0x1089a7066			11			Constantine
+0x1089a725e			9			Corabelle
+0x1089a77ec			8			Cordelia
+0x1089a699b			5			Cordi
+0x1089a6ac4			7			Cordula
+0x1089a70b9			7			Corenda
+0x1089a773a			7			Coretta
+0x1089a7810			7			Corette
+0x1089a6c8c			6			Corina
+0x1089a6d50			6			Corine
+0x1089a628b			7			Corissa
+0x1089a674c			5			Corly
+0x1089a7288			5			Corny
+0x1089a603b			9			Corrianne
+0x1089a6252			6			Corrie
+0x1089a62e2			7			Corrina
+0x1089a6386			7			Corrine
+0x1089a67b5			4			Cory
+0x1089a6881			7			Cosetta
+0x1089a6c68			8			Courtnay
+0x1089a739a			4			Crin
+0x1089a621e			9			Cristabel
+0x1089a7424			7			Cristie
+0x1089a754f			8			Cristina
+0x1089a6182			8			Cristine
+0x1089a6195			10			Cristionna
+0x1089a61c5			6			Cristy
+0x1089a63ee			7			Crystal
+0x1089a653c			7			Cthrine
+0x1089a6819			3			Cyb
+0x1089a69a0			6			Cybill
+0x1089a777f			6			Cyndia
+0x1089a61e0			6			Cyndie
+0x1089a6230			5			Cyndy
+0x1089a62f5			7			Cynthia
+0x1089a6462			7			Cynthie
+0x1089a64bf			6			Cynthy
+0x1089a6858			5			Dacia
+0x1089a69da			4			Dacy
+0x1089a6e7f			6			Daffie
+0x1089a6ef4			5			Daffy
+0x1089a7175			5			Daile
+0x1089a7192			6			Daisey
+0x1089a73f7			5			Daisy
+0x1089a7621			6			Dallas
+0x1089a7761			7			Daloris
+0x1089a665c			7			Danella
+0x1089a6acb			6			Danice
+0x1089a6c92			8			Daniella
+0x1089a6d09			6			Danika
+0x1089a6e95			5			Danna
+0x1089a6f95			5			Danni
+0x1089a7035			6			Dannie
+0x1089a70c0			5			Danny
+0x1089a7699			6			Daphne
+0x1089a77d7			4			Darb
+0x1089a77f4			6			Darbie
+0x1089a7817			5			Darby
+0x1089a601d			6			Darcee
+0x1089a6519			5			Darda
+0x1089a6684			7			Darelle
+0x1089a66fa			4			Dari
+0x1089a681c			5			Darla
+0x1089a695e			7			Darleen
+0x1089a6a2f			7			Darlene
+0x1089a6b42			7			Darline
+0x1089a6c04			8			Darlleen
+0x1089a6d3c			5			Daron
+0x1089a6f39			6			Darsey
+0x1089a7007			5			Darya
+0x1089a7084			5			Daryl
+0x1089a7117			5			Daryn
+0x1089a71bc			5			Dasha
+0x1089a7267			4			Dasi
+0x1089a73d3			5			Dasie
+0x1089a6083			6			Davina
+0x1089a6123			6			Davine
+0x1089a64e2			5			Dayle
+0x1089a66cf			2			De
+0x1089a6781			5			Deana
+0x1089a6a06			5			Deane
+0x1089a6c19			6			Deanna
+0x1089a6ea5			6			Deanne
+0x1089a7071			6			Debbie
+0x1089a732b			5			Debby
+0x1089a7829			5			Debra
+0x1089a784d			4			Dede
+0x1089a60cd			3			Dee
+0x1089a620c			7			Deeanne
+0x1089a638d			5			Deena
+0x1089a6610			6			Dehlia
+0x1089a678e			6			Deidre
+0x1089a6808			7			Deirdre
+0x1089a6845			4			Dela
+0x1089a68fb			5			Delia
+0x1089a69de			7			Delilah
+0x1089a69ec			7			Delinda
+0x1089a6a54			4			Dell
+0x1089a6ad8			5			Della
+0x1089a6af7			5			Delly
+0x1089a6fad			7			Deloris
+0x1089a78ad			9			Delphinia
+0x1089a7044			7			Demetra
+0x1089a78b6			8			Demetria
+0x1089a78be			8			Demetris
+0x1089a70d8			6			Denice
+0x1089a71ef			5			Denna
+0x1089a72bc			5			Denni
+0x1089a730a			4			Deny
+0x1089a745c			7			Desirae
+0x1089a74ed			7			Desiree
+0x1089a60bc			5			Devon
+0x1089a78d6			8			Devondra
+0x1089a60e9			6			Devora
+0x1089a61cb			5			Diana
+0x1089a6235			5			Diane
+0x1089a78fa			11			Diane-Marie
+0x1089a6322			6			Dianne
+0x1089a790f			7			Diannne
+0x1089a6350			4			Didi
+0x1089a6425			5			Diena
+0x1089a7916			7			Dierdre
+0x1089a644a			4			Dina
+0x1089a6488			5			Dinah
+0x1089a64ae			6			Dinnie
+0x1089a66d1			6			Dionis
+0x1089a685d			5			Dixie
+0x1089a69fa			4			Doll
+0x1089a6aaf			6			Dollie
+0x1089a792c			9			Doloritas
+0x1089a793d			7			Dominga
+0x1089a6b2d			6			Domini
+0x1089a7944			8			Dominica
+0x1089a794c			9			Dominique
+0x1089a7955			7			Donella
+0x1089a796a			8			Donielle
+0x1089a6caa			5			Donni
+0x1089a6e35			5			Donny
+0x1089a798a			7			Doralyn
+0x1089a7991			8			Doralynn
+0x1089a6ef9			6			Dorena
+0x1089a6f23			6			Dorene
+0x1089a6f65			4			Dori
+0x1089a79cd			8			Dorolisa
+0x1089a79e4			8			Dorothea
+0x1089a79ec			8			Dorothee
+0x1089a77db			5			Dorry
+0x1089a79fb			7			Dorthea
+0x1089a602f			4			Dory
+0x1089a6044			4			Dosi
+0x1089a61f9			5			Dotti
+0x1089a7a08			6			Dottie
+0x1089a7a0e			6			Dreddy
+0x1089a64c5			3			Dru
+0x1089a6543			5			Druci
+0x1089a67be			5			Drusi
+0x1089a7a27			8			Drusilla
+0x1089a68b8			5			Dulce
+0x1089a7a35			6			Dulcia
+0x1089a7a50			8			Dulcinea
+0x1089a6df6			5			Dyann
+0x1089a6e85			4			Dyna
+0x1089a6e9a			5			Dynah
+0x1089a6ec0			4			Eada
+0x1089a7a86			6			Easter
+0x1089a70a5			3			Eba
+0x1089a7a8c			6			Ebonee
+0x1089a70f4			5			Ebony
+0x1089a7222			4			Eddy
+0x1089a7a92			7			Edeline
+0x1089a741a			4			Edie
+0x1089a781c			4			Edna
+0x1089a7aab			5			Edyth
+0x1089a7abb			6			Eileen
+0x1089a7ad2			9			Ekaterina
+0x1089a7adb			6			Elaina
+0x1089a7ae7			5			Elana
+0x1089a7b07			9			Elbertine
+0x1089a7b2e			5			Eleen
+0x1089a7b33			5			Elena
+0x1089a7b38			5			Elene
+0x1089a7b5e			7			Elfreda
+0x1089a7b8a			6			Elinor
+0x1089a7ba4			9			Elisabeth
+0x1089a7bad			10			Elisabetta
+0x1089a7bbc			6			Elisha
+0x1089a7bc2			6			Elissa
+0x1089a7bc8			5			Elita
+0x1089a7bd2			8			Elizabet
+0x1089a7bda			9			Elizabeth
+0x1089a60d0			4			Elka
+0x1089a6109			4			Ella
+0x1089a7be3			8			Elladine
+0x1089a616b			4			Elle
+0x1089a618a			4			Elli
+0x1089a7c09			5			Ellyn
+0x1089a61f0			4			Elna
+0x1089a7c1a			6			Elnora
+0x1089a7c20			6			Elnore
+0x1089a7c26			6			Eloisa
+0x1089a7c32			7			Elonore
+0x1089a62b0			4			Elsi
+0x1089a7c54			8			Elsinore
+0x1089a62ce			4			Elsy
+0x1089a62fc			4			Elva
+0x1089a7c6f			6			Elvira
+0x1089a6341			4			Elyn
+0x1089a7c7b			5			Elyse
+0x1089a7c8c			6			Elysia
+0x1089a7c98			6			Emalee
+0x1089a7cc5			7			Emelyne
+0x1089a7cd7			5			Emili
+0x1089a7cf4			5			Emlyn
+0x1089a7cf9			6			Emlynn
+0x1089a643e			4			Emma
+0x1089a7d1c			8			Emmalynn
+0x1089a7d24			9			Emmalynne
+0x1089a7d2d			8			Emmeline
+0x1089a7d3a			5			Emmie
+0x1089a7d3f			5			Emmye
+0x1089a7d44			7			Emogene
+0x1089a651e			4			Enid
+0x1089a7d64			10			Enrichetta
+0x1089a7d74			9			Enriqueta
+0x1089a7d7d			7			Eolanda
+0x1089a7d84			7			Eolande
+0x1089a7d90			5			Erica
+0x1089a7db0			6			Erinna
+0x1089a7dc0			10			Ermentrude
+0x1089a7dca			6			Ermina
+0x1089a7dd7			7			Erminie
+0x1089a7de6			7			Ernesta
+0x1089a7ded			9			Ernestine
+0x1089a683b			4			Eryn
+0x1089a69c1			4			Esma
+0x1089a7dfb			7			Esmaria
+0x1089a7e21			7			Estella
+0x1089a7e28			7			Estelle
+0x1089a7e42			10			Estrellita
+0x1089a7e4c			5			Ethel
+0x1089a7e51			7			Ethelda
+0x1089a6d41			4			Etta
+0x1089a6d5c			4			Etti
+0x1089a6e1d			4			Etty
+0x1089a7e80			6			Eudora
+0x1089a700c			4			Eula
+0x1089a7ea1			6			Eunice
+0x1089a7ed0			10			Evangelina
+0x1089a7eea			6			Evanne
+0x1089a7089			3			Eve
+0x1089a7ef7			7			Evelina
+0x1089a71c1			4			Evvy
+0x1089a7479			4			Eyde
+0x1089a7492			3			Fae
+0x1089a7f2e			5			Faith
+0x1089a7f42			7			Fanchon
+0x1089a7f49			6			Fancie
+0x1089a7f54			8			Fanechka
+0x1089a7f76			5			Farah
+0x1089a7f7b			6			Farand
+0x1089a7f81			6			Farica
+0x1089a7f92			7			Farrand
+0x1089a769f			4			Fawn
+0x1089a7feb			7			Felecia
+0x1089a7ff2			8			Felicdad
+0x1089a801c			7			Felisha
+0x1089a8023			6			Felita
+0x1089a8029			6			Feliza
+0x1089a8047			10			Ferdinande
+0x1089a77fa			4			Fern
+0x1089a8051			8			Fernanda
+0x1089a8059			8			Fernande
+0x1089a8061			10			Fernandina
+0x1089a8075			6			Fianna
+0x1089a8090			4			Fifi
+0x1089a80ac			4			Fina
+0x1089a80b0			5			Fiona
+0x1089a80b5			6			Fionna
+0x1089a80cb			5			Fleur
+0x1089a80d0			9			Fleurette
+0x1089a80dd			5			Flora
+0x1089a80ea			5			Flore
+0x1089a80ff			9			Florencia
+0x1089a8121			5			Flori
+0x1089a8126			6			Floria
+0x1089a8139			7			Florina
+0x1089a8140			8			Florinda
+0x1089a8148			6			Floris
+0x1089a8154			7			Florrie
+0x1089a815b			6			Florry
+0x1089a8166			6			Flossi
+0x1089a816c			7			Flossie
+0x1089a817d			4			Fran
+0x1089a8189			7			Frances
+0x1089a81c9			7			Frankie
+0x1089a81f3			5			Freda
+0x1089a81f8			6			Freddi
+0x1089a81fe			7			Freddie
+0x1089a8205			6			Freddy
+0x1089a820b			8			Fredelia
+0x1089a821c			10			Fredericka
+0x1089a8226			10			Frederique
+0x1089a8235			6			Fredia
+0x1089a8241			8			Fredrika
+0x1089a8255			10			Friederike
+0x1089a826b			5			Gabbi
+0x1089a8284			7			Gabriel
+0x1089a8293			8			Gabriell
+0x1089a829b			9			Gabriella
+0x1089a82e1			8			Garnette
+0x1089a82e9			5			Gates
+0x1089a8300			5			Gayel
+0x1089a830a			5			Gayle
+0x1089a830f			7			Gayleen
+0x1089a8316			7			Gaylene
+0x1089a8323			5			Gelya
+0x1089a834b			5			Genna
+0x1089a8350			5			Genni
+0x1089a8388			10			Georgeanne
+0x1089a8392			8			Georgena
+0x1089a83ab			9			Georgette
+0x1089a83b4			7			Georgia
+0x1089a83c4			10			Georgianna
+0x1089a83ce			10			Georgianne
+0x1089a83e7			8			Georgine
+0x1089a83ef			7			Geralda
+0x1089a83f6			9			Geraldine
+0x1089a83ff			5			Gerda
+0x1089a8404			10			Gerhardine
+0x1089a840e			4			Geri
+0x1089a8446			6			Gerrie
+0x1089a845d			5			Gerta
+0x1089a8474			8			Gertruda
+0x1089a847c			8			Gertrude
+0x1089a8492			8			Giacinta
+0x1089a849f			7			Gianina
+0x1089a84ac			4			Gigi
+0x1089a84b8			8			Gilberte
+0x1089a84c0			10			Gilbertina
+0x1089a84ca			10			Gilbertine
+0x1089a84d9			9			Gilemette
+0x1089a84f1			7			Gillian
+0x1089a84f8			6			Gillie
+0x1089a8506			5			Gilly
+0x1089a850b			4			Gina
+0x1089a850f			7			Ginelle
+0x1089a8516			7			Ginevra
+0x1089a8528			6			Ginnie
+0x1089a8542			8			Giovanna
+0x1089a854a			5			Gipsy
+0x1089a8556			6			Gisela
+0x1089a8570			8			Giuditta
+0x1089a8578			6			Giulia
+0x1089a670a			6			Gizela
+0x1089a82a4			4			Glad
+0x1089a6560			5			Gladi
+0x1089a8412			5			Gleda
+0x1089a6a0b			4			Glen
+0x1089a6d6d			6			Glenda
+0x1089a6d13			7			Glennie
+0x1089a6fc2			7			Glennis
+0x1089a7f5c			6			Gloria
+0x1089a644e			8			Gloriana
+0x1089a6565			8			Gloriane
+0x1089a6710			5			Glory
+0x1089a73d8			6			Glynis
+0x1089a7e86			6			Godiva
+0x1089a8417			5			Golda
+0x1089a6469			5			Goldi
+0x1089a68db			6			Goldie
+0x1089a6a7d			7			Goldina
+0x1089a7fba			6			Gracie
+0x1089a6add			5			Grata
+0x1089a6cce			6			Gratia
+0x1089a6d8d			8			Gratiana
+0x1089a74af			6			Grazia
+0x1089a75aa			5			Greer
+0x1089a76e4			6			Gretal
+0x1089a839a			5			Grete
+0x1089a6928			7			Grethel
+0x1089a6d73			6			Gretta
+0x1089a7131			7			Grissel
+0x1089a7af7			9			Guglielma
+0x1089a7d54			3			Gui
+0x1089a80ef			8			Guillema
+0x1089a8378			9			Guinevere
+0x1089a63d0			6			Guinna
+0x1089a6715			7			Gunilla
+0x1089a6ec4			3			Gus
+0x1089a7441			5			Gussi
+0x1089a79be			5			Gusta
+0x1089a79d5			5			Gusti
+0x1089a7b1f			6			Gustie
+0x1089a7f62			5			Gusty
+0x1089a83d8			4			Gwen
+0x1089a639f			9			Gwendolyn
+0x1089a642a			7			Gweneth
+0x1089a6602			8			Gwenneth
+0x1089a6a15			6			Gwenni
+0x1089a6d1a			6			Gwenny
+0x1089a6de8			7			Gwenora
+0x1089a7016			4			Gwyn
+0x1089a7376			5			Gypsy
+0x1089a747d			6			Hailee
+0x1089a764e			5			Haily
+0x1089a7a9d			7			Halette
+0x1089a7cb0			5			Haley
+0x1089a7cff			4			Hali
+0x1089a7fdd			8			Halimeda
+0x1089a61b8			5			Hally
+0x1089a623a			4			Hana
+0x1089a68e1			5			Hanni
+0x1089a6c0c			6			Hannis
+0x1089a6eab			5			Hanny
+0x1089a6f79			5			Happy
+0x1089a7051			7			Harlene
+0x1089a7508			6			Harley
+0x1089a7840			6			Harlie
+0x1089a7b51			8			Harmonia
+0x1089a7fc0			5			Harri
+0x1089a809f			6			Harrie
+0x1089a66df			7			Harriot
+0x1089a6731			8			Harriott
+0x1089a6a58			5			Hatti
+0x1089a6caf			5			Hatty
+0x1089a6ec7			5			Hazel
+0x1089a75af			5			Heath
+0x1089a762c			7			Heather
+0x1089a7a5e			5			Heddi
+0x1089a7b3d			6			Heddie
+0x1089a7c39			4			Hedi
+0x1089a7c9e			6			Hedvig
+0x1089a839f			6			Hedwig
+0x1089a6054			7			Hedwiga
+0x1089a64b4			5			Heida
+0x1089a6868			5			Heidi
+0x1089a68bd			6			Heidie
+0x1089a6bdf			7			Helaina
+0x1089a6e51			7			Helaine
+0x1089a72a4			5			Helen
+0x1089a857e			15			Helen-Elizabeth
+0x1089a74b5			6			Helena
+0x1089a83dc			5			Helga
+0x1089a8462			5			Helge
+0x1089a61d6			5			Helsa
+0x1089a630d			5			Helyn
+0x1089a6b66			8			Henrieta
+0x1089a6b9a			9			Henrietta
+0x1089a6d79			9			Hephzibah
+0x1089a7577			5			Herta
+0x1089a75c4			6			Hertha
+0x1089a7922			6			Hestia
+0x1089a7972			5			Hetti
+0x1089a79c3			6			Hettie
+0x1089a7d03			6			Hilary
+0x1089a7f16			10			Hildagarde
+0x1089a803d			10			Hildegaard
+0x1089a806b			10			Hildegarde
+0x1089a6026			5			Hildy
+0x1089a623e			8			Hilliary
+0x1089a6362			5			Hinda
+0x1089a6644			6			Hollie
+0x1089a6696			5			Holly
+0x1089a858d			10			Holly-Anne
+0x1089a67ac			9			Hollyanne
+0x1089a692f			5			Honey
+0x1089a6b18			7			Honoria
+0x1089a6e0e			4			Hope
+0x1089a7108			7			Horatia
+0x1089a71b3			9			Hortensia
+0x1089a7653			9			Hyacintha
+0x1089a76fa			9			Hyacinthe
+0x1089a8597			10			Hyacinthia
+0x1089a85a1			10			Hyacinthie
+0x1089a7886			5			Ibbie
+0x1089a7cb5			6			Idalia
+0x1089a7e91			7			Idalina
+0x1089a8213			6			Idelle
+0x1089a83bb			6			Ileana
+0x1089a6033			5			Ilene
+0x1089a6258			4			Ilka
+0x1089a6292			4			Illa
+0x1089a652a			4			Ilsa
+0x1089a671c			5			Ilysa
+0x1089a6786			5			Ilyse
+0x1089a67f2			6			Ilyssa
+0x1089a68e6			6			Imelda
+0x1089a6956			6			Imogen
+0x1089a6d20			6			Indira
+0x1089a6f1b			4			Inez
+0x1089a70b1			8			Ingaborg
+0x1089a723c			8			Ingeborg
+0x1089a727a			6			Ingrid
+0x1089a7432			8			Iolanthe
+0x1089a7483			4			Iona
+0x1089a74dd			7			Iormina
+0x1089a7547			3			Ira
+0x1089a763e			5			Irena
+0x1089a7682			5			Irene
+0x1089a7691			5			Irina
+0x1089a76b4			4			Iris
+0x1089a77be			5			Irita
+0x1089a77e0			4			Irma
+0x1089a77fe			3			Isa
+0x1089a7895			6			Isabel
+0x1089a7b6c			8			Isabelle
+0x1089a7c3d			7			Isadora
+0x1089a82f4			4			Issi
+0x1089a84fe			4			Issy
+0x1089a6099			5			Ivett
+0x1089a60a7			6			Ivette
+0x1089a60b5			4			Ivie
+0x1089a60f5			6			Ivonne
+0x1089a610d			5			Ivory
+0x1089a618e			3			Ivy
+0x1089a6217			6			Izabel
+0x1089a63e7			7			Jacinta
+0x1089a85bc			8			Jacinthe
+0x1089a85c4			8			Jackelyn
+0x1089a85cc			10			Jackquelin
+0x1089a661d			6			Jaclin
+0x1089a6765			6			Jaclyn
+0x1089a85e1			9			Jacquelin
+0x1089a85fd			10			Jacquelynn
+0x1089a8607			11			Jacquenetta
+0x1089a8612			11			Jacquenette
+0x1089a8626			9			Jacquette
+0x1089a6a4d			7			Jacquie
+0x1089a6a5d			7			Jacynth
+0x1089a6aa8			4			Jada
+0x1089a6ae8			4			Jade
+0x1089a6afc			5			Jaime
+0x1089a6b26			6			Jaimie
+0x1089a6b53			5			Jaine
+0x1089a6c28			5			Jamie
+0x1089a6cf9			6			Jammie
+0x1089a6dad			3			Jan
+0x1089a6ecc			6			Janaya
+0x1089a6fd0			5			Jandy
+0x1089a702e			4			Jane
+0x1089a862f			8			Janeczka
+0x1089a7092			6			Janeen
+0x1089a714d			5			Janel
+0x1089a71d8			6			Janela
+0x1089a72d5			7			Janella
+0x1089a733e			7			Janelle
+0x1089a73ae			6			Janene
+0x1089a750e			5			Janet
+0x1089a75b4			6			Janeta
+0x1089a75d4			7			Janetta
+0x1089a75e8			7			Janette
+0x1089a75fd			6			Janeva
+0x1089a774a			5			Janey
+0x1089a7792			5			Jania
+0x1089a7983			6			Janina
+0x1089a7a1a			5			Janis
+0x1089a7a49			6			Janith
+0x1089a7a63			5			Janka
+0x1089a7aa4			5			Janna
+0x1089a8637			8			Jannelle
+0x1089a863f			8			Jaquelin
+0x1089a8647			8			Jaquelyn
+0x1089a864f			10			Jaquenetta
+0x1089a7dd0			7			Jaquith
+0x1089a7efe			7			Jasmina
+0x1089a800f			7			Jasmine
+0x1089a8081			5			Jayme
+0x1089a80a5			6			Jaymee
+0x1089a8381			4			Jean
+0x1089a854f			5			Jeana
+0x1089a8663			8			Jeanelle
+0x1089a866b			8			Jeanette
+0x1089a613a			6			Jeanie
+0x1089a6266			6			Jeanne
+0x1089a867a			9			Jeannette
+0x1089a8692			7			Jehanna
+0x1089a6476			6			Jelene
+0x1089a64b9			5			Jemie
+0x1089a8699			7			Jemimah
+0x1089a686d			4			Jena
+0x1089a6976			5			Jenda
+0x1089a86a0			7			Jenelle
+0x1089a86a7			7			Jeniece
+0x1089a86ae			7			Jenifer
+0x1089a86b5			8			Jeniffer
+0x1089a86bd			7			Jenilee
+0x1089a69d4			6			Jenine
+0x1089a6cda			5			Jenni
+0x1089a6d36			6			Jennie
+0x1089a86d3			8			Jennifer
+0x1089a86db			8			Jennilee
+0x1089a86e3			7			Jennine
+0x1089a6e41			5			Jenny
+0x1089a6e74			4			Jeri
+0x1089a86f1			8			Jermaine
+0x1089a86f9			8			Jerrilee
+0x1089a8701			8			Jerrilyn
+0x1089a8709			7			Jerrine
+0x1089a6fa7			5			Jerry
+0x1089a8710			8			Jerrylee
+0x1089a703e			4			Jess
+0x1089a8728			9			Jessamine
+0x1089a8741			7			Jessica
+0x1089a71cb			6			Jessie
+0x1089a8748			7			Jessika
+0x1089a73fc			4			Jill
+0x1089a8756			7			Jillana
+0x1089a8764			8			Jillayne
+0x1089a876c			7			Jilleen
+0x1089a7495			5			Jilli
+0x1089a7585			6			Jillie
+0x1089a7ab0			5			Jinny
+0x1089a7acc			2			Jo
+0x1089a7b84			4			Joan
+0x1089a7c0e			5			Joana
+0x1089a7c92			5			Joann
+0x1089a7cd1			6			Joanne
+0x1089a8788			7			Joannes
+0x1089a7ce2			5			Jobey
+0x1089a7d5e			4			Jobi
+0x1089a7fe5			5			Jobie
+0x1089a8173			4			Joby
+0x1089a81e9			5			Jobye
+0x1089a878f			7			Jocelin
+0x1089a879e			7			Jocelyn
+0x1089a87a5			8			Jocelyne
+0x1089a825f			5			Jodee
+0x1089a82ce			4			Jodi
+0x1089a831d			5			Jodie
+0x1089a8362			4			Jody
+0x1089a83a5			6			Joeann
+0x1089a83e1			5			Joela
+0x1089a8425			6			Joelie
+0x1089a843b			5			Joell
+0x1089a851d			6			Joelle
+0x1089a87ad			7			Joellen
+0x1089a853c			6			Joelly
+0x1089a87b4			7			Joellyn
+0x1089a855c			5			Joete
+0x1089a61db			4			Joey
+0x1089a6277			5			Johna
+0x1089a87d1			7			Johnath
+0x1089a87d8			8			Johnette
+0x1089a87e0			6			Johnna
+0x1089a632c			4			Jojo
+0x1089a87e6			6			Joleen
+0x1089a87f2			7			Joletta
+0x1089a6345			4			Joli
+0x1089a63a8			5			Jolie
+0x1089a87f9			6			Joline
+0x1089a63c6			4			Joly
+0x1089a87ff			6			Jolynn
+0x1089a8805			6			Jonell
+0x1089a65e7			5			Jonie
+0x1089a8812			6			Jordan
+0x1089a881f			8			Jordanna
+0x1089a66fe			5			Jorey
+0x1089a6833			4			Jori
+0x1089a68a7			5			Jorie
+0x1089a8835			6			Josefa
+0x1089a883b			8			Josefina
+0x1089a8843			7			Josepha
+0x1089a8853			9			Josephine
+0x1089a6987			5			Josey
+0x1089a6a3e			4			Josi
+0x1089a885c			8			Josselyn
+0x1089a6b75			4			Josy
+0x1089a8864			7			Jourdan
+0x1089a6bd3			3			Joy
+0x1089a6e12			5			Joyan
+0x1089a6e30			5			Joyce
+0x1089a6f9a			4			Joye
+0x1089a70c5			4			Judi
+0x1089a8887			6			Judith
+0x1089a740a			4			Judy
+0x1089a8894			6			Juieta
+0x1089a7474			5			Julee
+0x1089a74bb			4			Juli
+0x1089a754a			5			Julia
+0x1089a88af			8			Julianna
+0x1089a757c			5			Julie
+0x1089a88bf			8			Julienne
+0x1089a88d4			8			Julietta
+0x1089a88dc			8			Juliette
+0x1089a88e4			6			Julina
+0x1089a88ea			6			Juline
+0x1089a88f0			7			Julissa
+0x1089a88f7			6			Julita
+0x1089a88fd			7			Junette
+0x1089a760a			5			Junia
+0x1089a7633			5			Junie
+0x1089a8904			6			Junina
+0x1089a890a			7			Justina
+0x1089a76f0			5			Jyoti
+0x1089a7718			5			Kacey
+0x1089a7801			5			Kacie
+0x1089a7977			4			Kacy
+0x1089a799d			5			Kaela
+0x1089a7aec			5			Kaila
+0x1089a7b59			5			Kaile
+0x1089a892c			7			Kaitlyn
+0x1089a8933			8			Kaitlynn
+0x1089a7beb			4			Kaja
+0x1089a893b			8			Kakalina
+0x1089a7c4f			4			Kala
+0x1089a8943			7			Kaleena
+0x1089a7c6a			4			Kali
+0x1089a7cef			5			Kalie
+0x1089a896a			6			Kamila
+0x1089a8970			7			Kamilah
+0x1089a897f			7			Kandace
+0x1089a7e76			5			Kania
+0x1089a898f			7			Karalee
+0x1089a8996			8			Karalynn
+0x1089a7f6c			5			Karee
+0x1089a8230			5			Karen
+0x1089a82b9			5			Karia
+0x1089a8305			5			Karie
+0x1089a8454			5			Karil
+0x1089a849a			5			Karin
+0x1089a89ac			6			Karina
+0x1089a89b2			6			Karine
+0x1089a89b8			8			Kariotta
+0x1089a89c0			6			Karisa
+0x1089a89c6			7			Karissa
+0x1089a89cd			6			Karita
+0x1089a84ec			5			Karla
+0x1089a89d3			6			Karlee
+0x1089a89e0			6			Karlen
+0x1089a89e6			7			Karlene
+0x1089a89ed			6			Karlie
+0x1089a89fb			8			Karlotte
+0x1089a8a03			5			Karly
+0x1089a8a14			5			Karna
+0x1089a8a32			8			Karoline
+0x1089a8a40			5			Karon
+0x1089a8a45			6			Karrah
+0x1089a8a4b			6			Karrie
+0x1089a602b			4			Kary
+0x1089a8a56			5			Karyl
+0x1089a8a62			5			Karyn
+0x1089a8a67			5			Kasey
+0x1089a605b			4			Kass
+0x1089a8a6c			9			Kassandra
+0x1089a8a7b			5			Kassi
+0x1089a8a80			6			Kassia
+0x1089a8a86			6			Kassie
+0x1089a6191			4			Kata
+0x1089a8a98			8			Katerina
+0x1089a8aa8			5			Katey
+0x1089a625c			4			Kath
+0x1089a8ab2			9			Katharina
+0x1089a8abb			9			Katharine
+0x1089a8ac4			8			Katharyn
+0x1089a8ada			9			Katherine
+0x1089a8aeb			5			Kathi
+0x1089a8af0			6			Kathie
+0x1089a8af6			8			Kathleen
+0x1089a8b05			8			Kathrine
+0x1089a8b14			8			Kathryne
+0x1089a8b21			6			Kathye
+0x1089a6296			4			Kati
+0x1089a8b27			5			Katie
+0x1089a8b2c			6			Katina
+0x1089a8b32			6			Katine
+0x1089a8b3f			7			Katleen
+0x1089a8b62			5			Katti
+0x1089a8b67			6			Kattie
+0x1089a8b75			7			Katusha
+0x1089a8b7c			5			Katya
+0x1089a63db			3			Kay
+0x1089a6502			4			Kaye
+0x1089a8b87			5			Kayla
+0x1089a8b97			6			Kayley
+0x1089a8b9d			6			Kaylil
+0x1089a8ba9			6			Keeley
+0x1089a8baf			6			Keelia
+0x1089a8bb5			5			Keely
+0x1089a8bc0			5			Kelci
+0x1089a8bcb			5			Kelcy
+0x1089a8bd0			6			Kelila
+0x1089a8bd6			6			Kellen
+0x1089a8be2			5			Kelli
+0x1089a8bed			6			Kellie
+0x1089a8bf3			7			Kellina
+0x1089a8bfa			7			Kellsie
+0x1089a8c01			5			Kelly
+0x1089a8c0e			6			Kelsey
+0x1089a8c24			6			Kendre
+0x1089a8c2a			5			Kenna
+0x1089a8c3e			5			Kerri
+0x1089a8c43			6			Kerrie
+0x1089a8c50			6			Kerrin
+0x1089a8c56			5			Kerry
+0x1089a8c5b			7			Kerstin
+0x1089a8c62			6			Kesley
+0x1089a8c6e			6			Kessia
+0x1089a8c74			7			Kessiah
+0x1089a8c80			6			Kettie
+0x1089a8c86			5			Ketty
+0x1089a666a			4			Kial
+0x1089a8c96			5			Kiele
+0x1089a8c9b			8			Kiersten
+0x1089a8caa			5			Kiley
+0x1089a669b			3			Kim
+0x1089a8caf			9			Kimberlee
+0x1089a8cb8			9			Kimberley
+0x1089a8cda			6			Kimbra
+0x1089a8ce0			5			Kimmi
+0x1089a8ce5			6			Kimmie
+0x1089a8ceb			5			Kimmy
+0x1089a8cfb			5			Kippy
+0x1089a6934			4			Kira
+0x1089a8d00			6			Kirbee
+0x1089a8d0c			5			Kirby
+0x1089a8d26			7			Kirstin
+0x1089a8d34			6			Kissee
+0x1089a8d3a			7			Kissiah
+0x1089a8d41			6			Kissie
+0x1089a8d47			5			Kitti
+0x1089a8d52			5			Kitty
+0x1089a8d57			6			Kizzee
+0x1089a8d63			5			Klara
+0x1089a8d68			7			Klarika
+0x1089a8d80			9			Konstanze
+0x1089a6b33			3			Koo
+0x1089a8d89			5			Koral
+0x1089a8d8e			7			Koralle
+0x1089a8d95			7			Kordula
+0x1089a8d9c			7			Korella
+0x1089a8da8			7			Koressa
+0x1089a8db4			6			Korney
+0x1089a8dba			6			Korrie
+0x1089a8dc0			5			Korry
+0x1089a8dc5			7			Krissie
+0x1089a8dcc			6			Krissy
+0x1089a8dd2			6			Krista
+0x1089a8dd8			7			Kristal
+0x1089a8dec			7			Kristel
+0x1089a8e00			8			Kristien
+0x1089a8e0f			8			Kristina
+0x1089a8e17			8			Kristine
+0x1089a8e1f			6			Kristy
+0x1089a8e25			7			Kristyn
+0x1089a8e32			7			Krystal
+0x1089a8e42			7			Krystle
+0x1089a6e58			4			Kyla
+0x1089a6e6b			4			Kyle
+0x1089a8e51			5			Kylen
+0x1089a8e56			5			Kylie
+0x1089a8e61			6			Kylynn
+0x1089a6f1f			3			Kym
+0x1089a8e6e			7			Kyrstin
+0x1089a6f82			2			La
+0x1089a8e7a			5			Lacey
+0x1089a70d4			4			Lacy
+0x1089a8e84			7			Ladonna
+0x1089a8e93			5			Laina
+0x1089a8e98			6			Lainey
+0x1089a7380			4			Lane
+0x1089a8ea3			7			Lanette
+0x1089a73c0			4			Lani
+0x1089a8eba			5			Lanna
+0x1089a8ebf			5			Lanni
+0x1089a8ec4			5			Lanny
+0x1089a8ec9			7			Laraine
+0x1089a8ed6			6			Larine
+0x1089a8edc			6			Larisa
+0x1089a8ef8			5			Latia
+0x1089a8efd			7			Latisha
+0x1089a8f04			7			Latrena
+0x1089a8f0b			7			Latrina
+0x1089a8f12			5			Laura
+0x1089a8f17			8			Lauraine
+0x1089a8f1f			6			Laural
+0x1089a8f2d			5			Laure
+0x1089a8f32			6			Lauree
+0x1089a8f38			7			Laureen
+0x1089a8f3f			6			Laurel
+0x1089a8f45			8			Laurella
+0x1089a8f4d			6			Lauren
+0x1089a8f53			7			Laurena
+0x1089a8f5a			7			Laurene
+0x1089a8f69			8			Laurette
+0x1089a8f7f			7			Laurice
+0x1089a8f86			6			Laurie
+0x1089a8f8c			6			Lauryn
+0x1089a8f92			6			Lavena
+0x1089a8f98			7			Laverna
+0x1089a8fb3			7			Lavinie
+0x1089a8fbf			5			Layne
+0x1089a75ca			3			Lea
+0x1089a76b8			4			Leah
+0x1089a8fca			7			Leandra
+0x1089a8fd1			5			Leann
+0x1089a770e			4			Leda
+0x1089a8ff5			7			Leeanne
+0x1089a8ffc			5			Leela
+0x1089a9007			5			Leena
+0x1089a901b			5			Leigh
+0x1089a9031			6			Leisha
+0x1089a903c			6			Leland
+0x1089a9058			5			Lenna
+0x1089a9069			7			Leodora
+0x1089a9082			5			Leona
+0x1089a9094			8			Leonelle
+0x1089a90a2			7			Leonora
+0x1089a90dc			5			Lesly
+0x1089a90e1			5			Lesya
+0x1089a90e6			6			Lethia
+0x1089a90f3			7			Letisha
+0x1089a9101			7			Letizia
+0x1089a9118			5			Letty
+0x1089a79c9			4			Lexi
+0x1089a9122			6			Lexine
+0x1089a912d			5			Leyla
+0x1089a9138			5			Liana
+0x1089a913d			5			Liane
+0x1089a9142			6			Lianna
+0x1089a9148			6			Lianne
+0x1089a7e36			3			Lib
+0x1089a914e			6			Libbey
+0x1089a9154			5			Libbi
+0x1089a9159			6			Libbie
+0x1089a915f			5			Libby
+0x1089a7fab			4			Lida
+0x1089a9169			5			Lidia
+0x1089a80d9			3			Lil
+0x1089a917d			5			Lilia
+0x1089a9182			6			Lilian
+0x1089a9188			7			Liliane
+0x1089a918f			6			Lilias
+0x1089a9195			6			Lilith
+0x1089a919b			5			Lilla
+0x1089a91a0			5			Lilli
+0x1089a91ac			6			Lillis
+0x1089a819f			7			Lilllie
+0x1089a886b			5			Lilly
+0x1089a65b8			4			Lily
+0x1089a73de			6			Lilyan
+0x1089a74bf			3			Lin
+0x1089a77a6			4			Lina
+0x1089a7593			5			Linda
+0x1089a8870			5			Lindi
+0x1089a90a9			6			Lindie
+0x1089a65bc			7			Lindsay
+0x1089a765c			7			Lindsey
+0x1089a81a6			6			Lindsy
+0x1089a6ed2			5			Lindy
+0x1089a8773			6			Linell
+0x1089a77aa			5			Linet
+0x1089a8270			7			Linette
+0x1089a8918			4			Linn
+0x1089a67d2			6			Linnea
+0x1089a6c55			7			Linnell
+0x1089a73e4			6			Linnet
+0x1089a7d09			6			Linnie
+0x1089a8333			5			Linzy
+0x1089a6888			4			Lira
+0x1089a7446			4			Lisa
+0x1089a7598			8			Lisabeth
+0x1089a8875			7			Lisbeth
+0x1089a6f84			4			Lise
+0x1089a76a3			7			Lisetta
+0x1089a6c9a			5			Lishe
+0x1089a6cb4			5			Lissa
+0x1089a6d26			5			Lissi
+0x1089a6f0b			5			Lissy
+0x1089a74c7			4			Lita
+0x1089a751b			5			Liuka
+0x1089a80bb			3			Liv
+0x1089a81ac			4			Liva
+0x1089a8718			5			Livia
+0x1089a891c			6			Livvie
+0x1089a8cc1			5			Livvy
+0x1089a648d			6			Livvyy
+0x1089a65c3			4			Livy
+0x1089a701a			4			Liza
+0x1089a7198			8			Lizabeth
+0x1089a7663			7			Lizette
+0x1089a77af			6			Lizzie
+0x1089a7877			5			Lizzy
+0x1089a7e58			6			Loella
+0x1089a82d2			4			Lois
+0x1089a8779			5			Loise
+0x1089a8d11			4			Lola
+0x1089a60fb			6			Loleta
+0x1089a6751			6			Lolita
+0x1089a688c			5			Lolly
+0x1089a6fee			4			Lona
+0x1089a7330			5			Lonee
+0x1089a78de			5			Lonna
+0x1089a7a3b			6			Lonnie
+0x1089a7c5c			4			Lora
+0x1089a802f			6			Lorain
+0x1089a8338			7			Loraine
+0x1089a87bb			7			Loralee
+0x1089a8827			7			Loralie
+0x1089a889a			7			Loralyn
+0x1089a8956			5			Loree
+0x1089a8f71			6			Loreen
+0x1089a6076			7			Lorelei
+0x1089a6431			7			Lorelle
+0x1089a67d8			5			Loren
+0x1089a68ce			6			Lorena
+0x1089a6f88			7			Lorenza
+0x1089a70e7			7			Loretta
+0x1089a73ea			7			Lorette
+0x1089a7d0f			4			Lori
+0x1089a7e14			5			Loria
+0x1089a80be			8			Lorianne
+0x1089a812c			5			Lorie
+0x1089a81dc			7			Lorilee
+0x1089a8b46			7			Lorinda
+0x1089a6048			6			Lorine
+0x1089a60d4			6			Lorita
+0x1089a6456			5			Lorna
+0x1089a6721			5			Lorne
+0x1089a69c8			8			Lorraine
+0x1089a6c5c			8			Lorrayne
+0x1089a71de			5			Lorri
+0x1089a72f2			6			Lorrie
+0x1089a740e			6			Lorrin
+0x1089a74a3			5			Lorry
+0x1089a74cb			4			Lory
+0x1089a7b90			5			Lotta
+0x1089a7ca4			5			Lotti
+0x1089a7d95			6			Lottie
+0x1089a81b0			5			Lotty
+0x1089a82be			3			Lou
+0x1089a8a08			7			Louella
+0x1089a8a8c			6			Louisa
+0x1089a8fd6			6			Louise
+0x1089a904c			9			Louisette
+0x1089a90b4			8			Loutitia
+0x1089a65c7			2			Lu
+0x1089a668b			4			Luci
+0x1089a66e6			5			Lucia
+0x1089a6a6d			7			Luciana
+0x1089a6b8f			5			Lucie
+0x1089a6cb9			7			Lucilia
+0x1089a6d2b			6			Lucina
+0x1089a701e			6			Lucine
+0x1089a726f			6			Lucita
+0x1089a7520			5			Lucky
+0x1089a7faf			4			Lucy
+0x1089a8094			8			Ludovika
+0x1089a82d6			6			Luella
+0x1089a871d			6			Luelle
+0x1089a887c			5			Luisa
+0x1089a8cc6			5			Luise
+0x1089a9026			6			Lulita
+0x1089a9070			4			Lulu
+0x1089a910d			4			Lura
+0x1089a6067			7			Lurette
+0x1089a64a4			7			Lurlene
+0x1089a650a			7			Lurline
+0x1089a6c75			4			Lusa
+0x1089a6cff			3			Luz
+0x1089a6edd			4			Lyda
+0x1089a6ff2			5			Lydia
+0x1089a728d			3			Lyn
+0x1089a739e			5			Lynda
+0x1089a744e			5			Lynde
+0x1089a77cd			7			Lyndsay
+0x1089a7c60			5			Lyndy
+0x1089a7da6			7			Lynelle
+0x1089a7eda			6			Lynett
+0x1089a84e2			7			Lynette
+0x1089a85b2			4			Lynn
+0x1089a877e			5			Lynne
+0x1089a8922			6			Lynnea
+0x1089a9011			7			Lynnell
+0x1089a63de			7			Lynnett
+0x1089a6405			8			Lynnette
+0x1089a6493			6			Lynsey
+0x1089a6557			5			Lyssa
+0x1089a65c9			3			Mab
+0x1089a67f8			5			Mabel
+0x1089a6891			7			Mabelle
+0x1089a70a8			5			Mable
+0x1089a7138			4			Mada
+0x1089a7335			8			Madalena
+0x1089a74e4			7			Madalyn
+0x1089a7854			5			Maddi
+0x1089a78e3			5			Maddy
+0x1089a79b5			5			Madel
+0x1089a7b25			9			Madelaine
+0x1089a7e02			8			Madelena
+0x1089a7e5e			8			Madelene
+0x1089a7e98			7			Madelin
+0x1089a7ec7			8			Madeline
+0x1089a8190			7			Madella
+0x1089a82c1			7			Madelle
+0x1089a841c			7			Madelon
+0x1089a8432			7			Madelyn
+0x1089a8484			5			Madge
+0x1089a852e			6			Madlen
+0x1089a861d			6			Madlin
+0x1089a884a			7			Madonna
+0x1089a895b			4			Mady
+0x1089a8986			3			Mae
+0x1089a8e39			6			Maegan
+0x1089a60ad			3			Mag
+0x1089a6101			5			Magda
+0x1089a61bd			8			Magdalen
+0x1089a91b2			9			Magdalena
+0x1089a91bb			9			Magdalene
+0x1089a646e			6			Maggee
+0x1089a65a2			5			Maggi
+0x1089a6757			6			Maggie
+0x1089a68ec			6			Mahala
+0x1089a6a1b			7			Mahalia
+0x1089a6b7f			4			Maia
+0x1089a6dc4			6			Maible
+0x1089a6eb0			5			Maiga
+0x1089a91c4			9			Maighdiln
+0x1089a74cf			4			Mair
+0x1089a767a			6			Maisie
+0x1089a7838			8			Maitilde
+0x1089a78a5			4			Mala
+0x1089a797b			7			Malanie
+0x1089a7a1f			6			Malena
+0x1089a7a41			5			Malia
+0x1089a7b17			6			Malina
+0x1089a7ce7			7			Malinda
+0x1089a7dde			7			Malinde
+0x1089a7e19			7			Malissa
+0x1089a8007			8			Malissia
+0x1089a8035			8			Mallissa
+0x1089a8119			8			Mallorie
+0x1089a8131			7			Mallory
+0x1089a8181			7			Malorie
+0x1089a828b			6			Malory
+0x1089a82f8			5			Malva
+0x1089a8370			7			Malvina
+0x1089a844c			7			Malynda
+0x1089a84b0			4			Mame
+0x1089a868a			5			Mamie
+0x1089a8796			5			Mandi
+0x1089a88b7			6			Mandie
+0x1089a8977			5			Mandy
+0x1089a8b5a			5			Manon
+0x1089a8c06			5			Manya
+0x1089a8c36			4			Mara
+0x1089a8e8b			7			Marcela
+0x1089a8f25			8			Marcelia
+0x1089a8f61			8			Marcella
+0x1089a91cd			10			Marcellina
+0x1089a91e1			9			Marchelle
+0x1089a9087			5			Marci
+0x1089a61fe			6			Marcia
+0x1089a6330			6			Marcie
+0x1089a6375			7			Marcile
+0x1089a645b			5			Marcy
+0x1089a64db			5			Maren
+0x1089a64f1			6			Marena
+0x1089a6672			7			Maressa
+0x1089a668f			5			Marga
+0x1089a91f2			8			Margalit
+0x1089a66c1			7			Margalo
+0x1089a9202			9			Margareta
+0x1089a920b			9			Margarete
+0x1089a9214			10			Margaretha
+0x1089a9228			10			Margaretta
+0x1089a9232			10			Margarette
+0x1089a923c			9			Margarita
+0x1089a6726			7			Margaux
+0x1089a677a			5			Marge
+0x1089a9245			8			Margeaux
+0x1089a679d			7			Margery
+0x1089a68d4			6			Marget
+0x1089a924d			8			Margette
+0x1089a6aa1			5			Margi
+0x1089a6ad1			6			Margie
+0x1089a6b01			6			Margit
+0x1089a6b1f			5			Margo
+0x1089a6c12			6			Margot
+0x1089a6d02			7			Margret
+0x1089a9255			10			Marguerite
+0x1089a6d9f			5			Margy
+0x1089a6e07			4			Mari
+0x1089a6f58			5			Maria
+0x1089a6fc9			6			Mariam
+0x1089a7077			6			Marian
+0x1089a71a0			7			Mariann
+0x1089a925f			8			Marianna
+0x1089a9267			8			Marianne
+0x1089a71d1			7			Maribel
+0x1089a9278			8			Maribeth
+0x1089a71e3			6			Marice
+0x1089a71fb			7			Maridel
+0x1089a7290			5			Marie
+0x1089a9289			12			Marie-Jeanne
+0x1089a929d			11			Mariejeanne
+0x1089a7324			7			Mariele
+0x1089a92a8			8			Marielle
+0x1089a92b0			9			Mariellen
+0x1089a92b9			8			Marietta
+0x1089a92c1			8			Mariette
+0x1089a92c9			8			Marigold
+0x1089a7393			6			Marijo
+0x1089a743a			6			Marika
+0x1089a748b			7			Marilee
+0x1089a92d1			8			Marillin
+0x1089a75cd			6			Marina
+0x1089a772d			7			Marinna
+0x1089a7846			6			Marion
+0x1089a92d9			10			Mariquilla
+0x1089a79f4			5			Maris
+0x1089a7ac5			6			Marisa
+0x1089a7b65			7			Mariska
+0x1089a7b95			7			Marissa
+0x1089a7bef			6			Marita
+0x1089a7c85			7			Maritsa
+0x1089a7ca9			6			Mariya
+0x1089a7fb3			5			Marja
+0x1089a81b5			5			Marje
+0x1089a8249			5			Marji
+0x1089a92e3			8			Marjorie
+0x1089a833f			7			Marjory
+0x1089a846d			5			Marjy
+0x1089a8569			7			Marketa
+0x1089a8673			5			Marla
+0x1089a874f			7			Marlane
+0x1089a875d			7			Marleah
+0x1089a8818			7			Marleen
+0x1089a882e			7			Marlena
+0x1089a88a1			7			Marlene
+0x1089a8afe			6			Marlie
+0x1089a8c49			7			Marline
+0x1089a8d19			6			Marlyn
+0x1089a8d2d			5			Marna
+0x1089a8df3			5			Marne
+0x1089a9074			5			Marni
+0x1089a90fa			6			Marnia
+0x1089a9111			6			Marnie
+0x1089a92eb			8			Marquita
+0x1089a92f3			8			Marrilee
+0x1089a604e			6			Marris
+0x1089a92fb			8			Marrissa
+0x1089a607d			6			Marsha
+0x1089a9303			9			Marsiella
+0x1089a60da			5			Marta
+0x1089a9314			11			Martguerita
+0x1089a60ef			6			Martha
+0x1089a6412			6			Marthe
+0x1089a931f			8			Marthena
+0x1089a6438			5			Marti
+0x1089a9327			7			Martica
+0x1089a65cc			6			Martie
+0x1089a932e			7			Martina
+0x1089a660a			5			Marty
+0x1089a933c			8			Martynne
+0x1089a667e			4			Mary
+0x1089a66ad			5			Marya
+0x1089a9344			7			Maryann
+0x1089a934b			8			Maryanna
+0x1089a9353			8			Maryanne
+0x1089a935b			9			Marybelle
+0x1089a9364			8			Marybeth
+0x1089a936c			9			Maryellen
+0x1089a9375			8			Maryjane
+0x1089a66eb			6			Maryjo
+0x1089a683f			5			Maryl
+0x1089a937d			7			Marylee
+0x1089a9384			7			Marylin
+0x1089a9394			7			Marylou
+0x1089a939b			9			Marylynne
+0x1089a93a4			8			Maryrose
+0x1089a68a1			5			Marys
+0x1089a68ac			6			Marysa
+0x1089a93ac			7			Matelda
+0x1089a93b3			8			Mathilda
+0x1089a93bb			8			Mathilde
+0x1089a93c3			7			Matilda
+0x1089a93ca			7			Matilde
+0x1089a6a8a			6			Mattie
+0x1089a6ae2			5			Matty
+0x1089a6b3c			4			Maud
+0x1089a6c79			6			Maudie
+0x1089a6cd4			5			Maura
+0x1089a6d95			5			Maure
+0x1089a93d1			7			Maureen
+0x1089a93d8			8			Maureene
+0x1089a93e0			7			Maurene
+0x1089a93e7			7			Maurine
+0x1089a93f5			7			Maurita
+0x1089a93fc			8			Maurizia
+0x1089a6e46			5			Mavra
+0x1089a6ee1			3			Max
+0x1089a6eee			4			Maxi
+0x1089a6f8f			5			Maxie
+0x1089a6fb4			6			Maxine
+0x1089a7058			4			Maxy
+0x1089a70ee			3			May
+0x1089a9404			8			Maybelle
+0x1089a717a			4			Maye
+0x1089a721c			4			Mead
+0x1089a72cf			5			Meade
+0x1089a72f8			6			Meagan
+0x1089a940c			7			Meaghan
+0x1089a73f1			5			Meara
+0x1089a7414			3			Meg
+0x1089a741e			5			Megan
+0x1089a7525			5			Megen
+0x1089a761b			5			Meggi
+0x1089a76ea			6			Meggie
+0x1089a7785			6			Meghan
+0x1089a941b			7			Meghann
+0x1089a9422			9			Mehetabel
+0x1089a7a14			3			Mel
+0x1089a7a2f			4			Mela
+0x1089a942b			7			Melamie
+0x1089a9432			7			Melania
+0x1089a9440			8			Melantha
+0x1089a7a58			6			Melany
+0x1089a7af1			6			Melina
+0x1089a945e			7			Melinde
+0x1089a9465			9			Melisande
+0x1089a9478			9			Melisenda
+0x1089a9481			8			Melisent
+0x1089a9489			7			Melissa
+0x1089a7c2c			6			Melita
+0x1089a9497			7			Melitta
+0x1089a949e			9			Mellicent
+0x1089a7d6e			6			Mellie
+0x1089a94ae			9			Mellisent
+0x1089a94b7			8			Melloney
+0x1089a7d9b			5			Melly
+0x1089a94bf			7			Melodee
+0x1089a94c6			7			Melodie
+0x1089a7f05			6			Melody
+0x1089a94cd			7			Melonie
+0x1089a7f10			6			Melony
+0x1089a7f33			6			Melosa
+0x1089a7f8c			5			Melva
+0x1089a94d4			8			Mercedes
+0x1089a7fd7			5			Merci
+0x1089a8016			6			Mercie
+0x1089a81d0			5			Mercy
+0x1089a94dc			8			Meredith
+0x1089a94ed			7			Meridel
+0x1089a94f4			8			Meridith
+0x1089a94fc			7			Merilee
+0x1089a9503			7			Merilyn
+0x1089a827e			5			Meris
+0x1089a950a			7			Merissa
+0x1089a82a8			4			Merl
+0x1089a82ee			5			Merla
+0x1089a8355			5			Merle
+0x1089a9511			7			Merlina
+0x1089a9518			7			Merline
+0x1089a85b6			6			Merola
+0x1089a87ec			6			Merrie
+0x1089a952f			9			Merrielle
+0x1089a9538			7			Merrile
+0x1089a953f			8			Merrilee
+0x1089a9547			7			Merrili
+0x1089a9555			7			Merrily
+0x1089a8881			5			Merry
+0x1089a88c7			6			Mersey
+0x1089a8989			5			Meryl
+0x1089a8a24			4			Meta
+0x1089a8a3a			3			Mia
+0x1089a955c			7			Micaela
+0x1089a9563			8			Michaela
+0x1089a956b			10			Michaelina
+0x1089a9575			10			Michaeline
+0x1089a957f			9			Michaella
+0x1089a8a75			6			Michal
+0x1089a8a92			6			Michel
+0x1089a9588			7			Michele
+0x1089a9598			9			Micheline
+0x1089a95a1			7			Michell
+0x1089a95a8			8			Michelle
+0x1089a8b4d			5			Micki
+0x1089a8b81			6			Mickie
+0x1089a8bc5			5			Micky
+0x1089a95b0			8			Mignonne
+0x1089a95bf			9			Miguelita
+0x1089a95c8			7			Mikaela
+0x1089a8c68			3			Mil
+0x1089a95cf			7			Mildred
+0x1089a8ccb			6			Milena
+0x1089a8d4c			5			Milka
+0x1089a8d5d			5			Milli
+0x1089a8de6			6			Millie
+0x1089a8e2c			5			Milly
+0x1089a8e5b			6			Milzie
+0x1089a8eb4			4			Mimi
+0x1089a8fa6			3			Min
+0x1089a8fdc			4			Mina
+0x1089a8fef			5			Minda
+0x1089a9001			5			Mindy
+0x1089a9607			7			Minetta
+0x1089a960e			7			Minette
+0x1089a905d			5			Minna
+0x1089a909c			5			Minne
+0x1089a90d6			5			Minni
+0x1089a60b0			5			Minny
+0x1089a62c2			4			Miof
+0x1089a6312			4			Mira
+0x1089a9634			7			Mirabel
+0x1089a963b			9			Mirabella
+0x1089a9644			9			Mirabelle
+0x1089a633c			5			Miran
+0x1089a964d			7			Miranda
+0x1089a9654			9			Mireielle
+0x1089a965d			8			Mireille
+0x1089a9665			7			Mirella
+0x1089a966c			7			Mirelle
+0x1089a9673			6			Miriam
+0x1089a9679			7			Mirilla
+0x1089a6525			5			Misha
+0x1089a9680			6			Missie
+0x1089a669e			5			Missy
+0x1089a6747			5			Misti
+0x1089a67b9			5			Misty
+0x1089a6853			5			Mitzi
+0x1089a9686			7			Modesta
+0x1089a968d			8			Modestia
+0x1089a9695			9			Modestine
+0x1089a969e			7			Modesty
+0x1089a68c3			5			Moina
+0x1089a6908			5			Moira
+0x1089a96a5			6			Mollee
+0x1089a6971			5			Molli
+0x1089a96ab			6			Mollie
+0x1089a6a97			5			Molly
+0x1089a6ca5			5			Mommy
+0x1089a6d31			4			Mona
+0x1089a6d45			5			Monah
+0x1089a96b1			6			Monica
+0x1089a96b7			6			Monika
+0x1089a96bd			7			Monique
+0x1089a96c4			6			Moreen
+0x1089a96ca			6			Morena
+0x1089a96d0			6			Morgan
+0x1089a96d6			7			Morgana
+0x1089a96dd			9			Morganica
+0x1089a96e6			8			Morganne
+0x1089a96ee			6			Morgen
+0x1089a6ff7			5			Moria
+0x1089a96f4			7			Morissa
+0x1089a7024			5			Morna
+0x1089a713c			5			Moyna
+0x1089a7237			5			Moyra
+0x1089a9702			7			Mozelle
+0x1089a9709			6			Muffin
+0x1089a7275			4			Mufi
+0x1089a7319			5			Muire
+0x1089a971e			6			Murial
+0x1089a9724			6			Muriel
+0x1089a972a			8			Murielle
+0x1089a7371			4			Myra
+0x1089a737b			5			Myrah
+0x1089a9732			7			Myranda
+0x1089a973f			7			Myrilla
+0x1089a73a3			5			Myrle
+0x1089a9746			7			Myrlene
+0x1089a7453			5			Myrna
+0x1089a7469			5			Myrta
+0x1089a974d			6			Myrtia
+0x1089a9753			7			Myrtice
+0x1089a975a			6			Myrtie
+0x1089a9760			6			Myrtle
+0x1089a7557			4			Nada
+0x1089a9766			6			Nadean
+0x1089a976c			6			Nadeen
+0x1089a75ef			5			Nadia
+0x1089a9772			6			Nadine
+0x1089a9778			6			Nadiya
+0x1089a7627			4			Nady
+0x1089a7709			5			Nadya
+0x1089a977e			6			Nalani
+0x1089a777a			3			Nan
+0x1089a7bb7			4			Nana
+0x1089a9784			7			Nananne
+0x1089a7bcd			5			Nance
+0x1089a978b			6			Nancee
+0x1089a9791			6			Nancey
+0x1089a7c65			5			Nanci
+0x1089a9797			6			Nancie
+0x1089a7cc0			5			Nancy
+0x1089a97aa			6			Nanice
+0x1089a97b0			6			Nanine
+0x1089a97b6			8			Nannette
+0x1089a7d35			5			Nanni
+0x1089a7d4b			5			Nanny
+0x1089a7d8b			5			Nanon
+0x1089a7dbb			5			Naoma
+0x1089a7df6			5			Naomi
+0x1089a7f29			4			Nari
+0x1089a7f71			3			Nat
+0x1089a97d0			7			Natalee
+0x1089a97d7			7			Natalie
+0x1089a97de			8			Natalina
+0x1089a97e6			8			Nataline
+0x1089a97f5			7			Natasha
+0x1089a97fc			8			Natassia
+0x1089a9804			8			Nathalia
+0x1089a9814			9			Natividad
+0x1089a7fcd			5			Natka
+0x1089a80c6			5			Natty
+0x1089a8161			5			Neala
+0x1089a81c4			4			Neda
+0x1089a82dc			5			Nedda
+0x1089a8328			4			Nedi
+0x1089a8523			5			Neely
+0x1089a8723			5			Neile
+0x1089a8783			5			Nelia
+0x1089a895f			5			Nelie
+0x1089a8a0f			4			Nell
+0x1089a8a19			5			Nelle
+0x1089a8a51			5			Nelli
+0x1089a9829			6			Nellie
+0x1089a8c19			5			Nelly
+0x1089a982f			7			Nerissa
+0x1089a9836			6			Nerita
+0x1089a8c7b			4			Nert
+0x1089a8c91			5			Nerta
+0x1089a8cf0			5			Nerte
+0x1089a8e7f			5			Nerty
+0x1089a8eaa			5			Nessa
+0x1089a902c			5			Nessi
+0x1089a9842			6			Nessie
+0x1089a9037			5			Nessy
+0x1089a9042			5			Nesta
+0x1089a9848			5			Netta
+0x1089a984d			5			Netti
+0x1089a9852			6			Nettie
+0x1089a985e			5			Netty
+0x1089a9863			5			Nevsa
+0x1089a9868			5			Neysa
+0x1089a986d			6			Nichol
+0x1089a9873			7			Nichole
+0x1089a987a			8			Nicholle
+0x1089a9882			5			Nicki
+0x1089a9887			6			Nickie
+0x1089a988d			5			Nicky
+0x1089a9892			5			Nicol
+0x1089a9897			6			Nicola
+0x1089a989d			6			Nicole
+0x1089a98a3			7			Nicolea
+0x1089a98aa			9			Nicolette
+0x1089a98b9			8			Nicolina
+0x1089a98c1			8			Nicoline
+0x1089a98c9			7			Nicolle
+0x1089a624e			4			Nike
+0x1089a98d8			5			Nikki
+0x1089a98dd			6			Nikkie
+0x1089a98e3			9			Nikoletta
+0x1089a98ec			7			Nikolia
+0x1089a6446			4			Nina
+0x1089a98fa			7			Ninette
+0x1089a9901			8			Ninnetta
+0x1089a9909			8			Ninnette
+0x1089a9911			5			Ninon
+0x1089a9916			5			Nissa
+0x1089a991b			5			Nisse
+0x1089a9920			6			Nissie
+0x1089a9926			5			Nissy
+0x1089a652e			4			Nita
+0x1089a992b			5			Nixie
+0x1089a655c			4			Noel
+0x1089a9935			7			Noelani
+0x1089a993c			5			Noell
+0x1089a9941			6			Noella
+0x1089a9947			6			Noelle
+0x1089a9954			6			Noelyn
+0x1089a995a			5			Noemi
+0x1089a995f			6			Nolana
+0x1089a9965			5			Nolie
+0x1089a996a			6			Nollie
+0x1089a67fd			4			Nomi
+0x1089a69d0			4			Nona
+0x1089a9970			5			Nonah
+0x1089a6a49			4			Noni
+0x1089a9975			5			Nonie
+0x1089a997f			6			Nonnah
+0x1089a9985			5			Norah
+0x1089a998a			6			Norean
+0x1089a9990			6			Noreen
+0x1089a9996			6			Norene
+0x1089a999c			6			Norina
+0x1089a99a2			6			Norine
+0x1089a99a8			5			Norma
+0x1089a99ad			5			Norri
+0x1089a99b2			6			Norrie
+0x1089a99b8			5			Norry
+0x1089a99bd			7			Novelia
+0x1089a99c4			5			Nydia
+0x1089a99c9			5			Nyssa
+0x1089a99da			6			Odelia
+0x1089a99e0			8			Odelinda
+0x1089a99e8			6			Odella
+0x1089a99ee			6			Odelle
+0x1089a99f4			6			Odessa
+0x1089a99fa			6			Odetta
+0x1089a9a00			6			Odette
+0x1089a9a06			6			Odilia
+0x1089a9a12			6			Ofelia
+0x1089a9a18			6			Ofella
+0x1089a9a24			6			Olenka
+0x1089a6b83			4			Olga
+0x1089a9a2a			7			Olimpia
+0x1089a9a31			5			Olive
+0x1089a9a36			8			Olivette
+0x1089a9a3e			6			Olivia
+0x1089a9a44			6			Olivie
+0x1089a6cc0			4			Oliy
+0x1089a6ce6			4			Olly
+0x1089a6db0			4			Olva
+0x1089a9a4f			5			Olwen
+0x1089a9a54			6			Olympe
+0x1089a9a5a			7			Olympia
+0x1089a9a61			7			Olympie
+0x1089a9a68			6			Ondrea
+0x1089a9a6e			6			Oneida
+0x1089a9a74			5			Onida
+0x1089a6f17			4			Oona
+0x1089a70ad			4			Opal
+0x1089a9a79			7			Opalina
+0x1089a9a80			7			Opaline
+0x1089a9a87			7			Ophelia
+0x1089a70d0			3			Ora
+0x1089a9a95			6			Oralee
+0x1089a9a9b			6			Oralia
+0x1089a9aa1			6			Oralie
+0x1089a9aa7			6			Oralla
+0x1089a9aad			6			Oralle
+0x1089a9ab3			6			Orelee
+0x1089a9ab9			6			Orelia
+0x1089a9abf			6			Orelie
+0x1089a9ac5			6			Orella
+0x1089a9acb			6			Orelle
+0x1089a9ad1			6			Oriana
+0x1089a74d3			4			Orsa
+0x1089a9ad7			6			Orsola
+0x1089a9add			8			Ortensia
+0x1089a7530			4			Otha
+0x1089a9ae5			7			Othelia
+0x1089a9aec			7			Othella
+0x1089a9af3			7			Othilia
+0x1089a9afa			7			Othilie
+0x1089a9b01			7			Ottilie
+0x1089a75a6			4			Page
+0x1089a9b08			5			Paige
+0x1089a9b0d			6			Paloma
+0x1089a9b13			6			Pamela
+0x1089a9b19			8			Pamelina
+0x1089a9b21			7			Pamella
+0x1089a9b33			5			Pammy
+0x1089a9b38			7			Pandora
+0x1089a9b3f			6			Pansie
+0x1089a9b45			5			Pansy
+0x1089a9b4a			5			Paola
+0x1089a9b4f			7			Paolina
+0x1089a9b56			8			Papagena
+0x1089a9b66			7			Patrica
+0x1089a9b6d			7			Patrice
+0x1089a9b74			8			Patricia
+0x1089a9b7c			8			Patrizia
+0x1089a9b84			5			Patsy
+0x1089a9b89			5			Patti
+0x1089a9b8e			6			Pattie
+0x1089a9b99			5			Paula
+0x1089a9b9e			5			Paule
+0x1089a9ba3			8			Pauletta
+0x1089a9bb3			5			Pauli
+0x1089a9bb8			6			Paulie
+0x1089a9bbe			7			Paulina
+0x1089a9bc5			7			Pauline
+0x1089a9bcc			7			Paulita
+0x1089a9bd3			5			Pauly
+0x1089a9bdd			5			Pavla
+0x1089a9be7			6			Pearla
+0x1089a9bed			6			Pearle
+0x1089a7859			3			Peg
+0x1089a9bfb			6			Pegeen
+0x1089a9c01			5			Peggi
+0x1089a9c06			6			Peggie
+0x1089a9c0c			5			Peggy
+0x1089a78a9			3			Pen
+0x1089a9c11			8			Penelopa
+0x1089a9c19			8			Penelope
+0x1089a9c21			5			Penni
+0x1089a9c2c			5			Penny
+0x1089a9c31			6			Pepita
+0x1089a9c37			5			Peria
+0x1089a9c41			5			Perle
+0x1089a9c46			5			Perri
+0x1089a9c4b			7			Perrine
+0x1089a9c52			5			Perry
+0x1089a9c57			6			Persis
+0x1089a9c5d			5			Petra
+0x1089a9c62			7			Petrina
+0x1089a9c73			8			Petronia
+0x1089a9c7b			10			Petronilla
+0x1089a9c85			10			Petronille
+0x1089a9c8f			7			Petunia
+0x1089a9caf			6			Phelia
+0x1089a7a99			4			Phil
+0x1089a9cb5			7			Philipa
+0x1089a9cc4			8			Philippe
+0x1089a9cd6			6			Philis
+0x1089a9ceb			7			Phillis
+0x1089a9cf2			6			Philly
+0x1089a9cf8			9			Philomena
+0x1089a9d01			6			Phoebe
+0x1089a9d07			6			Phylis
+0x1089a9d15			7			Phyllis
+0x1089a7ace			3			Pia
+0x1089a7ee0			4			Pier
+0x1089a9d29			8			Pierette
+0x1089a9d31			9			Pierrette
+0x1089a9d3a			6			Pietra
+0x1089a9d40			5			Piper
+0x1089a9d45			5			Pippa
+0x1089a9d4f			5			Polly
+0x1089a80f7			4			Pooh
+0x1089a9d5d			5			Poppy
+0x1089a9d62			6			Portia
+0x1089a9d68			6			Prisca
+0x1089a9d77			9			Priscilla
+0x1089a9d80			7			Prissie
+0x1089a84b4			3			Pru
+0x1089a9d87			8			Prudence
+0x1089a9d8f			5			Prudi
+0x1089a9d94			5			Prudy
+0x1089a8502			4			Prue
+0x1089a9d99			7			Queenie
+0x1089a9da0			7			Quentin
+0x1089a9da7			7			Querida
+0x1089a9dae			5			Quinn
+0x1089a9db3			6			Quinta
+0x1089a9db9			8			Quintana
+0x1089a9dc1			9			Quintilla
+0x1089a9dca			8			Quintina
+0x1089a9ddf			7			Rachele
+0x1089a9de6			8			Rachelle
+0x1089a8928			3			Rae
+0x1089a9dee			6			Raeann
+0x1089a8c3a			3			Raf
+0x1089a90bc			4			Rafa
+0x1089a9df4			7			Rafaela
+0x1089a9dfb			8			Rafaelia
+0x1089a9e03			9			Rafaelita
+0x1089a9e0c			5			Rahal
+0x1089a9e11			5			Rahel
+0x1089a9e16			5			Raina
+0x1089a9e1b			5			Raine
+0x1089a9e20			5			Rakel
+0x1089a9e25			6			Ralina
+0x1089a95d6			6			Ramona
+0x1089a95dc			7			Ramonda
+0x1089a95e3			4			Rana
+0x1089a7ea7			5			Randa
+0x1089a95e7			6			Randee
+0x1089a9615			7			Randene
+0x1089a7a68			5			Randi
+0x1089a7eac			6			Randie
+0x1089a95ed			5			Randy
+0x1089a6dca			5			Ranee
+0x1089a7a6d			4			Rani
+0x1089a9c96			5			Rania
+0x1089a961c			6			Ranice
+0x1089a8ee2			7			Ranique
+0x1089a90c0			5			Ranna
+0x1089a9448			8			Raphaela
+0x1089a7562			6			Raquel
+0x1089a7a71			7			Raquela
+0x1089a7eb2			5			Rasia
+0x1089a95f2			5			Rasla
+0x1089a6dcf			5			Raven
+0x1089a7bf5			3			Ray
+0x1089a9c9b			7			Raychel
+0x1089a79a2			4			Raye
+0x1089a85ea			5			Rayna
+0x1089a6821			7			Raynell
+0x1089a78e8			8			Rayshell
+0x1089a7f99			3			Rea
+0x1089a9622			4			Reba
+0x1089a97be			8			Rebbecca
+0x1089a6112			4			Rebe
+0x1089a6129			6			Rebeca
+0x1089a7bf8			7			Rebecca
+0x1089a8108			7			Rebecka
+0x1089a8d6f			6			Rebeka
+0x1089a90c5			7			Rebekah
+0x1089a6089			8			Rebekkah
+0x1089a662c			3			Ree
+0x1089a6871			5			Reeba
+0x1089a78c6			5			Reena
+0x1089a7b74			5			Reeta
+0x1089a7e66			5			Reeva
+0x1089a7eb7			5			Regan
+0x1089a8731			5			Reggi
+0x1089a951f			6			Reggie
+0x1089a95f7			6			Regina
+0x1089a6146			6			Regine
+0x1089a66b2			5			Reiko
+0x1089a6dd4			5			Reina
+0x1089a724f			5			Reine
+0x1089a74f4			4			Remy
+0x1089a7568			4			Rena
+0x1089a79a6			5			Renae
+0x1089a7f9c			6			Renata
+0x1089a86c4			6			Renate
+0x1089a87c2			4			Rene
+0x1089a8ee9			5			Renee
+0x1089a8fe0			6			Renell
+0x1089a916e			7			Renelle
+0x1089a970f			5			Renie
+0x1089a9cdc			6			Rennie
+0x1089a65d9			4			Reta
+0x1089a795c			5			Retha
+0x1089a7a78			6			Revkah
+0x1089a7b43			3			Rey
+0x1089a85ef			5			Reyna
+0x1089a899e			4			Rhea
+0x1089a8acc			5			Rheba
+0x1089a9450			5			Rheta
+0x1089a9626			6			Rhetta
+0x1089a6116			7			Rhiamon
+0x1089a662f			7			Rhianna
+0x1089a6a22			7			Rhianon
+0x1089a7ffa			5			Rhoda
+0x1089a82ac			6			Rhodia
+0x1089a979d			6			Rhodie
+0x1089a9ca2			5			Rhody
+0x1089a9d1c			5			Rhona
+0x1089a9dd2			6			Rhonda
+0x1089a656d			5			Riane
+0x1089a694a			7			Riannon
+0x1089a7141			6			Rianon
+0x1089a7186			4			Rica
+0x1089a753b			5			Ricca
+0x1089a7768			4			Rici
+0x1089a894a			5			Ricki
+0x1089a981d			6			Rickie
+0x1089a99ce			5			Ricky
+0x1089a612f			4			Riki
+0x1089a615a			5			Rikki
+0x1089a6499			4			Rina
+0x1089a6597			4			Risa
+0x1089a664a			4			Rita
+0x1089a6828			4			Riva
+0x1089a6876			7			Rivalee
+0x1089a6913			4			Rivi
+0x1089a69a6			6			Rivkah
+0x1089a6bbd			4			Rivy
+0x1089a6bf4			5			Roana
+0x1089a6d82			6			Roanna
+0x1089a74f8			6			Roanne
+0x1089a756c			5			Robbi
+0x1089a78cb			6			Robbie
+0x1089a7b46			6			Robbin
+0x1089a7b79			5			Robby
+0x1089a7c44			6			Robbyn
+0x1089a7e6b			6			Robena
+0x1089a7ebc			7			Robenia
+0x1089a85d6			7			Roberta
+0x1089a8736			5			Robin
+0x1089a87c6			6			Robina
+0x1089a8b8c			7			Robinet
+0x1089a8d75			8			Robinett
+0x1089a9b28			9			Robinetta
+0x1089a6178			9			Robinette
+0x1089a61e6			7			Robinia
+0x1089a62d8			4			Roby
+0x1089a65dd			5			Robyn
+0x1089a66b7			4			Roch
+0x1089a6b49			7			Rochell
+0x1089a6baa			8			Rochella
+0x1089a6dd9			8			Rochelle
+0x1089a7254			8			Rochette
+0x1089a75ba			4			Roda
+0x1089a7687			4			Rodi
+0x1089a76aa			5			Rodie
+0x1089a7806			6			Rodina
+0x1089a787c			4			Rois
+0x1089a789b			6			Romola
+0x1089a78f0			6			Romona
+0x1089a7905			7			Romonda
+0x1089a79ab			4			Romy
+0x1089a79da			4			Rona
+0x1089a7bff			7			Ronalda
+0x1089a7e0a			5			Ronda
+0x1089a8086			6			Ronica
+0x1089a810f			5			Ronna
+0x1089a81ba			5			Ronni
+0x1089a8366			7			Ronnica
+0x1089a8659			6			Ronnie
+0x1089a89a2			5			Ronny
+0x1089a8a28			7			Roobbie
+0x1089a8eee			4			Rora
+0x1089a8fa9			4			Rori
+0x1089a90cc			5			Rorie
+0x1089a91d7			4			Rory
+0x1089a921e			3			Ros
+0x1089a946e			4			Rosa
+0x1089a9525			7			Rosabel
+0x1089a95fd			9			Rosabella
+0x1089a9714			9			Rosabelle
+0x1089a97c6			8			Rosaleen
+0x1089a9c69			7			Rosalia
+0x1089a9ccc			7			Rosalie
+0x1089a609e			8			Rosalind
+0x1089a614c			9			Rosalinda
+0x1089a61a8			9			Rosalinde
+0x1089a627c			8			Rosaline
+0x1089a65a7			7			Rosalyn
+0x1089a6794			8			Rosalynd
+0x1089a6898			8			Rosamond
+0x1089a6abb			8			Rosamund
+0x1089a75f4			6			Rosana
+0x1089a771d			7			Rosanna
+0x1089a7741			7			Rosanne
+0x1089a77b5			4			Rose
+0x1089a7865			7			Roseann
+0x1089a7961			8			Roseanna
+0x1089a7d13			8			Roseanne
+0x1089a7e39			7			Roselia
+0x1089a7f20			7			Roselin
+0x1089a7f39			8			Roseline
+0x1089a7fa2			7			Rosella
+0x1089a8489			7			Roselle
+0x1089a85f4			9			Rosemaria
+0x1089a86ca			9			Rosemarie
+0x1089a8ad1			8			Rosemary
+0x1089a8cd1			9			Rosemonde
+0x1089a8fe6			6			Rosene
+0x1089a9079			7			Rosetta
+0x1089a926f			7			Rosette
+0x1089a9280			8			Roshelle
+0x1089a938b			5			Rosie
+0x1089a9455			6			Rosina
+0x1089a94e4			6			Rosita
+0x1089a958f			6			Roslyn
+0x1089a9ce2			8			Rosmunda
+0x1089a9d54			4			Rosy
+0x1089a9d6e			3			Row
+0x1089a605f			4			Rowe
+0x1089a6091			6			Rowena
+0x1089a62c6			6			Roxana
+0x1089a6367			6			Roxane
+0x1089a64f7			7			Roxanna
+0x1089a675d			7			Roxanne
+0x1089a67dd			4			Roxi
+0x1089a6c2d			5			Roxie
+0x1089a6db4			6			Roxine
+0x1089a6e21			4			Roxy
+0x1089a718a			3			Roz
+0x1089a72c1			7			Rozalie
+0x1089a766a			7			Rozalin
+0x1089a776c			8			Rozamond
+0x1089a7935			7			Rozanna
+0x1089a7a7e			7			Rozanne
+0x1089a7b9c			4			Roze
+0x1089a7fc5			6			Rozele
+0x1089a7fff			7			Rozella
+0x1089a80e2			7			Rozelle
+0x1089a8197			6			Rozina
+0x1089a835a			7			Rubetta
+0x1089a8534			4			Rubi
+0x1089a8561			5			Rubia
+0x1089a89f3			5			Rubie
+0x1089a8aa0			6			Rubina
+0x1089a8ae3			4			Ruby
+0x1089a8b52			7			Ruperta
+0x1089a8b6d			4			Ruth
+0x1089a8df8			7			Ruthann
+0x1089a8e49			8			Ruthanne
+0x1089a8f77			5			Ruthe
+0x1089a908c			5			Ruthi
+0x1089a9175			6			Ruthie
+0x1089a91ea			5			Ruthy
+0x1089a91fa			5			Ryann
+0x1089a9295			5			Rycca
+0x1089a930c			4			Saba
+0x1089a9413			6			Sabina
+0x1089a962c			6			Sabine
+0x1089a980c			5			Sabra
+0x1089a98d0			7			Sabrina
+0x1089a9b5e			5			Sacha
+0x1089a9bab			4			Sada
+0x1089a9bf3			7			Sadella
+0x1089a9ca7			5			Sadie
+0x1089a9cbc			5			Sadye
+0x1089a9d0d			6			Saidee
+0x1089a9d21			3			Sal
+0x1089a6133			7			Salaidh
+0x1089a62e9			6			Sallee
+0x1089a6316			5			Salli
+0x1089a6349			6			Sallie
+0x1089a641e			5			Sally
+0x1089a9e2b			8			Sallyann
+0x1089a9e33			9			Sallyanne
+0x1089a649d			6			Saloma
+0x1089a64cf			6			Salome
+0x1089a6572			6			Salomi
+0x1089a659b			3			Sam
+0x1089a9e3c			8			Samantha
+0x1089a664e			6			Samara
+0x1089a6773			7			Samaria
+0x1089a67c3			5			Sammy
+0x1089a6801			5			Sande
+0x1089a682c			5			Sandi
+0x1089a6917			6			Sandie
+0x1089a6a42			6			Sandra
+0x1089a6bc1			5			Sandy
+0x1089a6cdf			6			Sandye
+0x1089a9e44			8			Sapphira
+0x1089a9e4c			8			Sapphire
+0x1089a6def			4			Sara
+0x1089a9e54			8			Sara-Ann
+0x1089a6e89			7			Saraann
+0x1089a6f10			5			Sarah
+0x1089a9e5c			8			Sarajane
+0x1089a70c9			5			Saree
+0x1089a7152			6			Sarena
+0x1089a7164			6			Sarene
+0x1089a729d			7			Sarette
+0x1089a72e3			4			Sari
+0x1089a73cc			6			Sarina
+0x1089a742b			6			Sarine
+0x1089a74a8			6			Sarita
+0x1089a7540			6			Sascha
+0x1089a7603			5			Sasha
+0x1089a9e64			8			Sashenka
+0x1089a775a			6			Saudra
+0x1089a778b			7			Saundra
+0x1089a7b00			6			Savina
+0x1089a7b10			5			Sayre
+0x1089a7c13			7			Scarlet
+0x1089a9e6c			8			Scarlett
+0x1089a7d57			4			Sean
+0x1089a7e2f			5			Seana
+0x1089a7ef0			4			Seka
+0x1089a81d5			4			Sela
+0x1089a824e			6			Selena
+0x1089a8264			6			Selene
+0x1089a9e74			9			Selestina
+0x1089a8277			5			Selia
+0x1089a82b2			5			Selie
+0x1089a832c			6			Selina
+0x1089a842b			7			Selinda
+0x1089a85ab			6			Seline
+0x1089a8683			5			Sella
+0x1089a86ea			5			Selle
+0x1089a880b			5			Selma
+0x1089a888d			4			Sena
+0x1089a88a8			7			Sephira
+0x1089a88cd			6			Serena
+0x1089a8911			6			Serene
+0x1089a894f			4			Shae
+0x1089a89d9			6			Shaina
+0x1089a8a5b			6			Shaine
+0x1089a8b0d			6			Shalna
+0x1089a8b38			6			Shalne
+0x1089a8c2f			5			Shana
+0x1089a8ca3			6			Shanda
+0x1089a8d1f			7			Shandee
+0x1089a9e7d			9			Shandeigh
+0x1089a8ddf			7			Shandie
+0x1089a8e08			7			Shandra
+0x1089a8e67			6			Shandy
+0x1089a8f9f			5			Shane
+0x1089a9062			5			Shani
+0x1089a90ec			6			Shanie
+0x1089a91a5			6			Shanna
+0x1089a9221			7			Shannah
+0x1089a9335			7			Shannen
+0x1089a93ee			7			Shannon
+0x1089a9439			6			Shanon
+0x1089a9490			6			Shanta
+0x1089a94a7			7			Shantee
+0x1089a954e			5			Shara
+0x1089a95b8			6			Sharai
+0x1089a96fb			5			Shari
+0x1089a97a3			6			Sharia
+0x1089a97ee			7			Sharity
+0x1089a98f3			5			Sharl
+0x1089a994d			6			Sharla
+0x1089a9e86			8			Sharleen
+0x1089a9e8e			8			Sharlene
+0x1089a9e96			8			Sharline
+0x1089a99d3			6			Sharon
+0x1089a9a8e			7			Sharona
+0x1089a9dd8			7			Sharron
+0x1089a611d			6			Sharyl
+0x1089a615f			5			Shaun
+0x1089a61d0			6			Shauna
+0x1089a6271			5			Shawn
+0x1089a62dc			6			Shawna
+0x1089a9e9e			7			Shawnee
+0x1089a6307			4			Shay
+0x1089a637c			6			Shayla
+0x1089a9ea5			7			Shaylah
+0x1089a9eac			7			Shaylyn
+0x1089a9eb3			8			Shaylynn
+0x1089a6636			6			Shayna
+0x1089a66bb			6			Shayne
+0x1089a6862			4			Shea
+0x1089a698c			5			Sheba
+0x1089a69bb			6			Sheela
+0x1089a9ebb			8			Sheelagh
+0x1089a9ec3			7			Sheelah
+0x1089a6a0f			6			Sheena
+0x1089a9eca			7			Sheeree
+0x1089a6a29			6			Sheila
+0x1089a9ed1			14			Sheila-Kathryn
+0x1089a9edf			7			Sheilah
+0x1089a6a84			4			Shel
+0x1089a6b0e			5			Shela
+0x1089a9ee6			7			Shelagh
+0x1089a6b94			6			Shelba
+0x1089a6bf9			6			Shelbi
+0x1089a6c86			6			Shelby
+0x1089a6c9f			6			Shelia
+0x1089a6d4a			5			Shell
+0x1089a9eed			7			Shelley
+0x1089a6d56			6			Shelli
+0x1089a9ef4			7			Shellie
+0x1089a6e17			6			Shelly
+0x1089a6e4b			5			Shena
+0x1089a6e61			4			Sher
+0x1089a6e9f			6			Sheree
+0x1089a6ed7			5			Sheri
+0x1089a6f47			6			Sherie
+0x1089a9efb			7			Sherill
+0x1089a9f02			8			Sherilyn
+0x1089a9f0a			8			Sherline
+0x1089a6f52			6			Sherri
+0x1089a9f12			7			Sherrie
+0x1089a709f			6			Sherry
+0x1089a7125			6			Sherye
+0x1089a7147			6			Sheryl
+0x1089a71ad			5			Shina
+0x1089a7216			4			Shir
+0x1089a72a9			5			Shirl
+0x1089a9f19			7			Shirlee
+0x1089a9f20			8			Shirleen
+0x1089a9f28			8			Shirlene
+0x1089a9f30			7			Shirley
+0x1089a9f37			8			Shirline
+0x1089a9f3f			8			Shoshana
+0x1089a9f47			9			Shoshanna
+0x1089a7355			5			Siana
+0x1089a74d7			6			Sianna
+0x1089a752a			3			Sib
+0x1089a7571			6			Sibbie
+0x1089a75a0			5			Sibby
+0x1089a75be			6			Sibeal
+0x1089a7638			5			Sibel
+0x1089a9f50			7			Sibella
+0x1089a9f57			7			Sibelle
+0x1089a9f5e			7			Sibilla
+0x1089a768b			6			Sibley
+0x1089a76cc			5			Sibyl
+0x1089a9f65			7			Sibylla
+0x1089a9f6c			7			Sibylle
+0x1089a9f73			7			Sidoney
+0x1089a9f7a			7			Sidonia
+0x1089a9f81			8			Sidonnie
+0x1089a7703			6			Sigrid
+0x1089a7712			4			Sile
+0x1089a77a0			6			Sileas
+0x1089a7880			5			Silva
+0x1089a9f89			7			Silvana
+0x1089a79af			6			Silvia
+0x1089a79de			6			Silvie
+0x1089a7a02			6			Simona
+0x1089a7ab5			6			Simone
+0x1089a9f90			9			Simonette
+0x1089a9f99			7			Simonne
+0x1089a7ae1			6			Sindee
+0x1089a9fa0			7			Siobhan
+0x1089a7b7e			5			Sioux
+0x1089a9fa7			7			Siouxie
+0x1089a7c75			6			Sisely
+0x1089a7cdc			6			Sisile
+0x1089a7da0			6			Sissie
+0x1089a7ee4			5			Sissy
+0x1089a807b			6			Siusan
+0x1089a814e			5			Sofia
+0x1089a8177			5			Sofie
+0x1089a81e3			6			Sondra
+0x1089a823b			5			Sonia
+0x1089a82c8			5			Sonja
+0x1089a8440			5			Sonni
+0x1089a8467			6			Sonnie
+0x1089a9fae			7			Sonnnie
+0x1089a84a6			5			Sonny
+0x1089a873b			5			Sonya
+0x1089a8964			6			Sophey
+0x1089a8a1e			5			Sophi
+0x1089a8ba3			6			Sophia
+0x1089a8bba			6			Sophie
+0x1089a9fb5			9			Sophronia
+0x1089a8bdc			6			Sorcha
+0x1089a9fbe			7			Sosanna
+0x1089a8be7			5			Stace
+0x1089a8c1e			6			Stacee
+0x1089a8c8b			6			Stacey
+0x1089a8cf5			5			Staci
+0x1089a8d06			6			Stacia
+0x1089a8ed0			6			Stacie
+0x1089a8ef2			5			Stacy
+0x1089a9fc5			7			Stafani
+0x1089a8fad			4			Star
+0x1089a8fc4			6			Starla
+0x1089a9fcc			8			Starlene
+0x1089a9fd4			7			Starlin
+0x1089a9020			5			Starr
+0x1089a9132			5			Stefa
+0x1089a9fdb			8			Stefania
+0x1089a9fe3			8			Stefanie
+0x1089a9feb			8			Steffane
+0x1089a91db			6			Steffi
+0x1089a9ff3			7			Steffie
+0x1089a9472			6			Stella
+0x1089a9739			6			Stepha
+0x1089a9ffa			8			Stephana
+0x1089aa002			8			Stephani
+0x1089aa00a			9			Stephanie
+0x1089aa013			10			Stephannie
+0x1089aa01d			9			Stephenie
+0x1089a9823			6			Stephi
+0x1089aa026			7			Stephie
+0x1089aa02d			8			Stephine
+0x1089a983c			6			Stesha
+0x1089aa035			7			Stevana
+0x1089aa03c			7			Stevena
+0x1089aa043			8			Stoddard
+0x1089a9858			5			Storm
+0x1089a98b3			6			Stormi
+0x1089aa04b			7			Stormie
+0x1089a9a0c			6			Stormy
+0x1089a9a1e			3			Sue
+0x1089aa052			7			Suellen
+0x1089a9c26			5			Sukey
+0x1089a9d71			4			Suki
+0x1089a6000			4			Sula
+0x1089a60df			5			Sunny
+0x1089aa059			8			Sunshine
+0x1089a616f			5			Susan
+0x1089aa061			6			Susana
+0x1089aa067			9			Susanetta
+0x1089aa070			6			Susann
+0x1089aa076			7			Susanna
+0x1089aa07d			8			Susannah
+0x1089aa085			7			Susanne
+0x1089aa08c			7			Susette
+0x1089a63d6			4			Susi
+0x1089a63f5			5			Susie
+0x1089a6400			4			Susy
+0x1089aa093			6			Suzann
+0x1089aa099			7			Suzanna
+0x1089aa0a0			7			Suzanne
+0x1089aa0a7			7			Suzette
+0x1089a647c			4			Suzi
+0x1089a65e2			5			Suzie
+0x1089a6938			4			Suzy
+0x1089a6951			5			Sybil
+0x1089aa0ae			6			Sybila
+0x1089aa0b4			7			Sybilla
+0x1089aa0bb			7			Sybille
+0x1089a6982			5			Sybyl
+0x1089a69ac			5			Sydel
+0x1089aa0c2			7			Sydelle
+0x1089aa0c9			6			Sydney
+0x1089aa0cf			6			Sylvia
+0x1089aa0d5			7			Tabatha
+0x1089aa0dc			8			Tabbatha
+0x1089a6c70			5			Tabbi
+0x1089aa0e4			6			Tabbie
+0x1089aa0ea			8			Tabbitha
+0x1089a6d88			5			Tabby
+0x1089aa0f2			6			Tabina
+0x1089aa0f8			7			Tabitha
+0x1089a6d9a			5			Taffy
+0x1089a6f74			5			Talia
+0x1089aa0ff			6			Tallia
+0x1089aa105			6			Tallie
+0x1089aa10b			6			Tallou
+0x1089aa111			8			Tallulah
+0x1089a6fde			5			Tally
+0x1089a718d			5			Talya
+0x1089aa119			6			Talyah
+0x1089a7232			5			Tamar
+0x1089aa11f			6			Tamara
+0x1089aa125			7			Tamarah
+0x1089aa12c			7			Tamarra
+0x1089aa133			6			Tamera
+0x1089a736c			4			Tami
+0x1089aa139			6			Tamiko
+0x1089a74c2			5			Tamma
+0x1089aa13f			7			Tammara
+0x1089a74fe			5			Tammi
+0x1089aa146			6			Tammie
+0x1089a76af			5			Tammy
+0x1089aa14c			7			Tamqrah
+0x1089a76f5			5			Tamra
+0x1089a77b9			4			Tana
+0x1089a78d1			5			Tandi
+0x1089aa153			6			Tandie
+0x1089a791d			5			Tandy
+0x1089aa159			6			Tanhya
+0x1089a7b4c			4			Tani
+0x1089a7c4a			5			Tania
+0x1089aa15f			9			Tanitansy
+0x1089a7c80			5			Tansy
+0x1089a7cbb			5			Tanya
+0x1089a7ccc			4			Tara
+0x1089a7db6			5			Tarah
+0x1089a7e0f			5			Tarra
+0x1089aa168			6			Tarrah
+0x1089a7e71			5			Taryn
+0x1089a7e7b			5			Tasha
+0x1089a7e8c			5			Tasia
+0x1089a7f0b			4			Tate
+0x1089aa16e			7			Tatiana
+0x1089aa175			8			Tatiania
+0x1089a7f4f			5			Tatum
+0x1089aa17d			6			Tawnya
+0x1089aa183			6			Tawsha
+0x1089a7f67			3			Ted
+0x1089a7f87			5			Tedda
+0x1089a7fd2			5			Teddi
+0x1089aa189			6			Teddie
+0x1089a8114			5			Teddy
+0x1089a81bf			4			Tedi
+0x1089a81ee			5			Tedra
+0x1089a8346			5			Teena
+0x1089aa18f			7			TEirtza
+0x1089aa196			7			Teodora
+0x1089a84d4			4			Tera
+0x1089aa19d			6			Teresa
+0x1089aa1a3			6			Terese
+0x1089aa1a9			8			Teresina
+0x1089aa1b1			8			Teresita
+0x1089aa1b9			7			Teressa
+0x1089a87cc			4			Teri
+0x1089aa1c0			7			Teriann
+0x1089a89a7			5			Terra
+0x1089a8aad			5			Terri
+0x1089aa1c7			6			Terrie
+0x1089aa1cd			7			Terrijo
+0x1089a8b1c			5			Terry
+0x1089aa1d4			6			Terrye
+0x1089aa1da			7			Tersina
+0x1089a8c14			5			Terza
+0x1089a8da3			4			Tess
+0x1089a8daf			5			Tessa
+0x1089a8e75			5			Tessi
+0x1089aa1e1			6			Tessie
+0x1089a8e9e			5			Tessy
+0x1089aa1e7			6			Thalia
+0x1089a8eaf			4			Thea
+0x1089aa1ed			8			Theadora
+0x1089a8fba			5			Theda
+0x1089aa1f5			6			Thekla
+0x1089aa1fb			6			Thelma
+0x1089a900c			4			Theo
+0x1089aa201			8			Theodora
+0x1089aa209			9			Theodosia
+0x1089aa212			7			Theresa
+0x1089aa219			7			Therese
+0x1089aa220			9			Theresina
+0x1089aa229			9			Theresita
+0x1089aa232			8			Theressa
+0x1089aa23a			7			Therine
+0x1089a9047			4			Thia
+0x1089aa241			7			Thomasa
+0x1089aa248			8			Thomasin
+0x1089aa250			9			Thomasina
+0x1089aa259			9			Thomasine
+0x1089a90af			5			Tiena
+0x1089aa262			7			Tierney
+0x1089aa269			7			Tiertza
+0x1089a90d1			4			Tiff
+0x1089aa270			7			Tiffani
+0x1089aa277			8			Tiffanie
+0x1089aa27f			7			Tiffany
+0x1089a9108			5			Tiffi
+0x1089aa286			6			Tiffie
+0x1089a911d			5			Tiffy
+0x1089a9128			5			Tilda
+0x1089a9164			5			Tildi
+0x1089aa28c			6			Tildie
+0x1089a9930			5			Tildy
+0x1089aa292			6			Tillie
+0x1089a997a			5			Tilly
+0x1089a9a4a			3			Tim
+0x1089a9b94			4			Timi
+0x1089a9bd8			5			Timmi
+0x1089aa298			6			Timmie
+0x1089a9be2			5			Timmy
+0x1089aa29e			8			Timothea
+0x1089a9c3c			4			Tina
+0x1089a9d24			4			Tine
+0x1089aa2a6			7			Tiphani
+0x1089aa2ad			8			Tiphanie
+0x1089aa2b5			7			Tiphany
+0x1089a9d4a			4			Tish
+0x1089a9d58			5			Tisha
+0x1089a6063			4			Tobe
+0x1089aa2bc			5			Tobey
+0x1089a6213			4			Tobi
+0x1089a6227			4			Toby
+0x1089aa2c1			5			Tobye
+0x1089aa2c6			8			Toinette
+0x1089a63b8			4			Toma
+0x1089aa2ce			8			Tomasina
+0x1089aa2d6			8			Tomasine
+0x1089a6538			4			Tomi
+0x1089aa2de			5			Tommi
+0x1089aa2e3			6			Tommie
+0x1089aa2e9			5			Tommy
+0x1089a659e			4			Toni
+0x1089aa2ee			5			Tonia
+0x1089aa2f3			5			Tonie
+0x1089a666e			4			Tony
+0x1089aa2f8			5			Tonya
+0x1089aa2fd			5			Tonye
+0x1089aa302			7			Tootsie
+0x1089aa309			5			Torey
+0x1089a672d			4			Tori
+0x1089aa30e			5			Torie
+0x1089aa313			6			Torrie
+0x1089a6739			4			Tory
+0x1089a67e1			4			Tova
+0x1089a6837			4			Tove
+0x1089aa319			6			Tracee
+0x1089aa31f			6			Tracey
+0x1089aa325			5			Traci
+0x1089aa32a			6			Tracie
+0x1089aa330			5			Tracy
+0x1089aa335			6			Trenna
+0x1089aa33b			5			Tresa
+0x1089aa340			7			Trescha
+0x1089aa347			6			Tressa
+0x1089aa34d			6			Tricia
+0x1089aa353			5			Trina
+0x1089aa358			5			Trish
+0x1089aa35d			6			Trisha
+0x1089aa363			6			Trista
+0x1089a687d			4			Trix
+0x1089aa369			5			Trixi
+0x1089aa36e			6			Trixie
+0x1089aa374			5			Trixy
+0x1089aa379			5			Truda
+0x1089aa37e			5			Trude
+0x1089aa383			6			Trudey
+0x1089aa389			5			Trudi
+0x1089aa38e			6			Trudie
+0x1089aa394			5			Trudy
+0x1089aa399			5			Trula
+0x1089aa39e			7			Tuesday
+0x1089aa3a5			5			Twila
+0x1089aa3aa			5			Twyla
+0x1089a6924			4			Tybi
+0x1089aa3af			5			Tybie
+0x1089a696d			4			Tyne
+0x1089a6a74			3			Ula
+0x1089a6af3			4			Ulla
+0x1089aa3b4			6			Ulrica
+0x1089aa3ba			6			Ulrika
+0x1089aa3c0			11			Ulrikaumeko
+0x1089aa3cb			6			Ulrike
+0x1089aa3d1			5			Umeko
+0x1089a6be6			3			Una
+0x1089a6c51			4			Ursa
+0x1089aa3d6			6			Ursala
+0x1089aa3dc			6			Ursola
+0x1089aa3e2			6			Ursula
+0x1089aa3e8			8			Ursulina
+0x1089aa3f0			8			Ursuline
+0x1089a6c64			3			Uta
+0x1089a6d0f			3			Val
+0x1089aa3f8			7			Valaree
+0x1089aa3ff			7			Valaria
+0x1089a6e25			4			Vale
+0x1089aa406			6			Valeda
+0x1089aa40c			8			Valencia
+0x1089aa414			6			Valene
+0x1089aa41a			7			Valenka
+0x1089aa421			8			Valentia
+0x1089aa429			9			Valentina
+0x1089aa432			9			Valentine
+0x1089aa43b			6			Valera
+0x1089aa441			7			Valeria
+0x1089aa448			7			Valerie
+0x1089aa44f			6			Valery
+0x1089aa455			7			Valerye
+0x1089aa45c			6			Valida
+0x1089aa462			6			Valina
+0x1089aa468			5			Valli
+0x1089aa46d			6			Vallie
+0x1089aa473			5			Vally
+0x1089aa478			5			Valma
+0x1089aa47d			5			Valry
+0x1089a6f7e			3			Van
+0x1089aa482			5			Vanda
+0x1089aa487			7			Vanessa
+0x1089aa48e			5			Vania
+0x1089aa493			5			Vanna
+0x1089aa498			5			Vanni
+0x1089aa49d			6			Vannie
+0x1089aa4a3			5			Vanny
+0x1089aa4a8			5			Vanya
+0x1089a711c			4			Veda
+0x1089aa4ad			5			Velma
+0x1089aa4b2			6			Velvet
+0x1089aa4b8			6			Venita
+0x1089aa4be			5			Venus
+0x1089a726b			4			Vera
+0x1089aa4c3			7			Veradis
+0x1089a73bc			4			Vere
+0x1089aa4ca			6			Verena
+0x1089aa4d0			6			Verene
+0x1089aa4d6			6			Veriee
+0x1089aa4dc			6			Verile
+0x1089aa4e2			6			Verina
+0x1089aa4e8			6			Verine
+0x1089aa4ee			5			Verla
+0x1089aa4f3			5			Verna
+0x1089aa4f8			7			Vernice
+0x1089aa4ff			8			Veronica
+0x1089aa507			8			Veronika
+0x1089aa50f			8			Veronike
+0x1089aa517			9			Veronique
+0x1089aa520			5			Vevay
+0x1089a744a			2			Vi
+0x1089aa525			5			Vicki
+0x1089aa52a			6			Vickie
+0x1089aa530			5			Vicky
+0x1089aa535			8			Victoria
+0x1089a7458			4			Vida
+0x1089a7487			4			Viki
+0x1089aa53d			5			Vikki
+0x1089aa542			5			Vikky
+0x1089aa547			10			Vilhelmina
+0x1089aa551			5			Vilma
+0x1089a749a			3			Vin
+0x1089a77e4			4			Vina
+0x1089aa556			6			Vinita
+0x1089aa55c			5			Vinni
+0x1089aa561			6			Vinnie
+0x1089aa567			5			Vinny
+0x1089aa56c			5			Viola
+0x1089aa571			8			Violante
+0x1089aa579			5			Viole
+0x1089aa57e			6			Violet
+0x1089aa584			8			Violetta
+0x1089aa58c			8			Violette
+0x1089aa594			6			Virgie
+0x1089aa59a			7			Virgina
+0x1089aa5a1			8			Virginia
+0x1089aa5a9			8			Virginie
+0x1089a780c			4			Vita
+0x1089aa5b1			5			Vitia
+0x1089aa5b6			7			Vitoria
+0x1089aa5bd			8			Vittoria
+0x1089a788b			3			Viv
+0x1089a78a1			4			Viva
+0x1089a78f6			4			Vivi
+0x1089aa5c5			5			Vivia
+0x1089aa5ca			6			Vivian
+0x1089aa5d0			7			Viviana
+0x1089aa5d7			8			Vivianna
+0x1089aa5df			8			Vivianne
+0x1089aa5e7			5			Vivie
+0x1089aa5ec			6			Vivien
+0x1089aa5f2			7			Viviene
+0x1089aa5f9			8			Vivienne
+0x1089aa601			7			Viviyan
+0x1089aa608			6			Vivyan
+0x1089aa60e			8			Vivyanne
+0x1089aa616			5			Vonni
+0x1089aa61b			6			Vonnie
+0x1089aa621			5			Vonny
+0x1089a7928			4			Vyky
+0x1089aa626			6			Wallie
+0x1089aa62c			6			Wallis
+0x1089aa632			6			Walliw
+0x1089aa638			5			Wally
+0x1089a7999			4			Waly
+0x1089aa63d			5			Wanda
+0x1089aa642			6			Wandie
+0x1089aa648			6			Wandis
+0x1089aa64e			6			Waneta
+0x1089aa654			6			Wanids
+0x1089aa65a			5			Wenda
+0x1089aa65f			9			Wendeline
+0x1089aa668			5			Wendi
+0x1089aa66d			6			Wendie
+0x1089aa673			5			Wendy
+0x1089aa678			6			Wendye
+0x1089aa67e			6			Wenona
+0x1089aa684			7			Wenonah
+0x1089aa68b			7			Whitney
+0x1089aa692			6			Wileen
+0x1089aa698			10			Wilhelmina
+0x1089aa6a2			10			Wilhelmine
+0x1089aa6ac			5			Wilie
+0x1089aa6b1			5			Willa
+0x1089aa6b6			10			Willabella
+0x1089aa6c0			9			Willamina
+0x1089aa6c9			8			Willetta
+0x1089aa6d1			8			Willette
+0x1089aa6d9			5			Willi
+0x1089aa6de			6			Willie
+0x1089aa6e4			6			Willow
+0x1089aa6ea			5			Willy
+0x1089aa6ef			6			Willyt
+0x1089aa6f5			5			Wilma
+0x1089aa6fa			8			Wilmette
+0x1089aa702			6			Wilona
+0x1089aa708			6			Wilone
+0x1089aa70e			5			Wilow
+0x1089aa713			5			Windy
+0x1089a79ba			4			Wini
+0x1089aa718			8			Winifred
+0x1089aa720			5			Winna
+0x1089aa725			6			Winnah
+0x1089aa72b			5			Winne
+0x1089aa730			5			Winni
+0x1089aa735			6			Winnie
+0x1089aa73b			9			Winnifred
+0x1089aa744			5			Winny
+0x1089aa749			6			Winona
+0x1089aa74f			7			Winonah
+0x1089a7ac1			4			Wren
+0x1089aa756			7			Wrennie
+0x1089aa75d			5			Wylma
+0x1089a7ba0			4			Wynn
+0x1089aa762			5			Wynne
+0x1089aa767			6			Wynnie
+0x1089aa76d			5			Wynny
+0x1089aa772			7			Xaviera
+0x1089a7d50			4			Xena
+0x1089aa779			5			Xenia
+0x1089aa77e			5			Xylia
+0x1089aa783			6			Xylina
+0x1089aa789			7			Yalonda
+0x1089aa790			7			Yasmeen
+0x1089aa797			6			Yasmin
+0x1089aa79d			6			Yelena
+0x1089aa7a3			5			Yetta
+0x1089aa7a8			6			Yettie
+0x1089aa7ae			5			Yetty
+0x1089aa7b3			7			Yevette
+0x1089a7ec3			4			Ynes
+0x1089a808c			4			Ynez
+0x1089a80fb			4			Yoko
+0x1089aa7ba			7			Yolanda
+0x1089aa7c1			7			Yolande
+0x1089aa7c8			6			Yolane
+0x1089aa7ce			8			Yolanthe
+0x1089aa7d6			5			Yoshi
+0x1089aa7db			7			Yoshiko
+0x1089aa7e2			8			Yovonnda
+0x1089aa7ea			6			Ysabel
+0x1089aa7f0			6			Yvette
+0x1089aa7f6			6			Yvonne
+0x1089aa7fc			7			Zabrina
+0x1089aa803			6			Zahara
+0x1089aa809			6			Zandra
+0x1089aa80f			6			Zaneta
+0x1089a8459			4			Zara
+0x1089aa815			5			Zarah
+0x1089aa81a			5			Zaria
+0x1089aa81f			5			Zarla
+0x1089a8538			3			Zea
+0x1089aa824			5			Zelda
+0x1089aa829			5			Zelma
+0x1089a85dd			4			Zena
+0x1089aa82e			5			Zenia
+0x1089a865f			3			Zia
+0x1089aa833			6			Zilvia
+0x1089a8ae7			4			Zita
+0x1089aa839			7			Zitella
+0x1089a8b71			3			Zoe
+0x1089a8b93			4			Zola
+0x1089aa840			5			Zonda
+0x1089aa845			6			Zondra
+0x1089aa84b			6			Zonnya
+0x1089a8d15			4			Zora
+0x1089aa851			5			Zorah
+0x1089aa856			6			Zorana
+0x1089aa85c			6			Zorina
+0x1089aa862			6			Zorine
+0x1089a9310			3			Zsa
+0x1089aa868			6			Zsazsa
+0x1089aa86e			6			Zulema
+0x1089aa874			6			Zuzana

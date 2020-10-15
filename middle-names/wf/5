@@ -1,0 +1,2767 @@
+***[Memory Allocated Size: 14750 Bytes]***
+***[Memory Allocations: 2356 Allocations]***
+***[Nodes in Free List: 360 Nodes]***
+
+freedMBList
+Address			Node Size
+0x1049fb00d			2
+0x1049fb01c			2
+0x1049fb02f			3
+0x1049fb062			2
+0x1049fb08c			1
+0x1049fb09a			1
+0x1049fb0b3			2
+0x1049fb0be			2
+0x1049fb0f9			1
+0x1049fb100			2
+0x1049fb113			1
+0x1049fb149			1
+0x1049fb156			3
+0x1049fb170			2
+0x1049fb180			1
+0x1049fb1ca			1
+0x1049fb1de			1
+0x1049fb1ee			1
+0x1049fb1fa			2
+0x1049fb21c			1
+0x1049fb23d			2
+0x1049fb24c			3
+0x1049fb299			2
+0x1049fb2aa			1
+0x1049fb2f0			2
+0x1049fb2fd			1
+0x1049fb30b			1
+0x1049fb318			1
+0x1049fb336			1
+0x1049fb33e			2
+0x1049fb37e			1
+0x1049fb3a0			3
+0x1049fb3a7			2
+0x1049fb3c0			1
+0x1049fb3cc			2
+0x1049fb3d2			2
+0x1049fb436			1
+0x1049fb45d			2
+0x1049fb488			1
+0x1049fb49e			2
+0x1049fb4bd			3
+0x1049fb50a			3
+0x1049fb51d			1
+0x1049fb52b			2
+0x1049fb53f			3
+0x1049fb560			1
+0x1049fb573			3
+0x1049fb57e			2
+0x1049fb591			2
+0x1049fb5c4			2
+0x1049fb5da			3
+0x1049fb5e5			1
+0x1049fb622			2
+0x1049fb642			2
+0x1049fb668			3
+0x1049fb67b			3
+0x1049fb689			1
+0x1049fb6a3			1
+0x1049fb6bd			3
+0x1049fb6d3			2
+0x1049fb6e6			1
+0x1049fb6f4			3
+0x1049fb726			3
+0x1049fb72d			3
+0x1049fb74a			1
+0x1049fb770			1
+0x1049fb783			3
+0x1049fb7d0			1
+0x1049fb7e1			1
+0x1049fb7fc			2
+0x1049fb817			1
+0x1049fb82d			1
+0x1049fb838			1
+0x1049fb850			1
+0x1049fb86d			2
+0x1049fb876			1
+0x1049fb885			2
+0x1049fb8a5			2
+0x1049fb8cc			3
+0x1049fb8d4			2
+0x1049fb8f3			3
+0x1049fb904			3
+0x1049fb910			2
+0x1049fb966			2
+0x1049fb974			1
+0x1049fb984			1
+0x1049fb99b			2
+0x1049fb9d3			1
+0x1049fb9e6			1
+0x1049fb9f6			3
+0x1049fba1b			3
+0x1049fba26			2
+0x1049fba32			1
+0x1049fba3b			2
+0x1049fba43			2
+0x1049fba71			3
+0x1049fba78			1
+0x1049fba89			1
+0x1049fbab3			1
+0x1049fbab8			1
+0x1049fbad4			3
+0x1049fbadf			1
+0x1049fbae9			1
+0x1049fbafd			2
+0x1049fbb48			1
+0x1049fbb4e			3
+0x1049fbb5c			1
+0x1049fbb82			1
+0x1049fbb9b			3
+0x1049fbba2			2
+0x1049fbbb4			3
+0x1049fbbcb			1
+0x1049fbbd4			1
+0x1049fbbe8			1
+0x1049fbbf6			3
+0x1049fbc1b			2
+0x1049fbcba			1
+0x1049fbcc9			3
+0x1049fbcef			1
+0x1049fbd04			2
+0x1049fbd3a			1
+0x1049fbd47			2
+0x1049fbd4d			2
+0x1049fbd74			3
+0x1049fbd81			3
+0x1049fbd88			3
+0x1049fbdc8			2
+0x1049fbdcf			1
+0x1049fbde2			1
+0x1049fbdfe			1
+0x1049fbe13			3
+0x1049fbe23			1
+0x1049fbe41			2
+0x1049fbe54			3
+0x1049fbe73			2
+0x1049fbe85			1
+0x1049fbe9b			1
+0x1049fbeca			1
+0x1049fbee4			1
+0x1049fbf28			3
+0x1049fbf3c			2
+0x1049fbf53			1
+0x1049fbf5f			1
+0x1049fbfa1			3
+0x1049fbfb6			1
+0x1049fbfdc			3
+0x1049fc01d			1
+0x1049fc029			3
+0x1049fc049			3
+0x1049fc05a			3
+0x1049fc07a			2
+0x1049fc092			3
+0x1049fc09c			2
+0x1049fc0b2			1
+0x1049fc0b7			2
+0x1049fc0d3			3
+0x1049fc0de			2
+0x1049fc0e9			1
+0x1049fc0fe			3
+0x1049fc15f			2
+0x1049fc16e			2
+0x1049fc182			2
+0x1049fc1b8			2
+0x1049fc1c1			1
+0x1049fc1d7			1
+0x1049fc1e1			1
+0x1049fc1e6			3
+0x1049fc20e			1
+0x1049fc21d			2
+0x1049fc22d			2
+0x1049fc268			3
+0x1049fc28e			1
+0x1049fc2b9			3
+0x1049fc2d5			1
+0x1049fc2e5			1
+0x1049fc2fd			2
+0x1049fc303			2
+0x1049fc316			1
+0x1049fc33e			3
+0x1049fc370			3
+0x1049fc3b7			1
+0x1049fc3c9			3
+0x1049fc3d5			1
+0x1049fc3fd			2
+0x1049fc434			1
+0x1049fc444			2
+0x1049fc44f			1
+0x1049fc491			1
+0x1049fc4ac			3
+0x1049fc4c0			1
+0x1049fc4ea			2
+0x1049fc540			2
+0x1049fc54b			2
+0x1049fc559			1
+0x1049fc57b			3
+0x1049fc585			3
+0x1049fc5b3			2
+0x1049fc5e7			2
+0x1049fc605			3
+0x1049fc626			1
+0x1049fc63e			2
+0x1049fc665			2
+0x1049fc677			3
+0x1049fc6a6			1
+0x1049fc6cf			3
+0x1049fc716			2
+0x1049fc759			3
+0x1049fc792			1
+0x1049fc7a9			1
+0x1049fc7c8			3
+0x1049fc7d9			2
+0x1049fc7f1			2
+0x1049fc800			2
+0x1049fc816			1
+0x1049fc831			2
+0x1049fc850			1
+0x1049fc8a7			2
+0x1049fc8bf			3
+0x1049fc91d			1
+0x1049fc92a			1
+0x1049fc93b			3
+0x1049fc95e			1
+0x1049fc96d			1
+0x1049fc978			2
+0x1049fc996			1
+0x1049fc9b0			3
+0x1049fc9da			3
+0x1049fca18			1
+0x1049fca1e			2
+0x1049fca42			3
+0x1049fca62			1
+0x1049fca6e			1
+0x1049fca7a			2
+0x1049fca97			2
+0x1049fcaa7			3
+0x1049fcab1			1
+0x1049fcace			1
+0x1049fcaed			2
+0x1049fcb03			1
+0x1049fcb3b			3
+0x1049fcb6f			2
+0x1049fcb9b			1
+0x1049fcbb2			1
+0x1049fcbbe			1
+0x1049fcc03			1
+0x1049fcc53			3
+0x1049fcc7d			3
+0x1049fcc99			3
+0x1049fccc2			1
+0x1049fccd1			1
+0x1049fcced			3
+0x1049fcd01			1
+0x1049fcd0e			1
+0x1049fcd19			2
+0x1049fcd52			3
+0x1049fcd65			1
+0x1049fcd82			1
+0x1049fce05			1
+0x1049fce17			1
+0x1049fce36			1
+0x1049fce65			2
+0x1049fce82			1
+0x1049fce97			3
+0x1049fcec6			1
+0x1049fced6			3
+0x1049fcee3			3
+0x1049fcf21			2
+0x1049fcf2a			3
+0x1049fcf4e			2
+0x1049fcf5a			4
+0x1049fcf92			2
+0x1049fcfac			2
+0x1049fcfdb			2
+0x1049fcfe1			2
+0x1049fcfea			4
+0x1049fcffc			3
+0x1049fd00d			1
+0x1049fd02d			1
+0x1049fd05c			1
+0x1049fd0b7			2
+0x1049fd0cb			1
+0x1049fd10f			1
+0x1049fd119			4
+0x1049fd134			3
+0x1049fd157			2
+0x1049fd196			3
+0x1049fd1a5			1
+0x1049fd1c1			2
+0x1049fd21a			1
+0x1049fd242			2
+0x1049fd257			1
+0x1049fd267			2
+0x1049fd275			1
+0x1049fd28b			2
+0x1049fd292			3
+0x1049fd29f			1
+0x1049fd2c6			2
+0x1049fd2f9			4
+0x1049fd30e			3
+0x1049fd31f			1
+0x1049fd33d			4
+0x1049fd3ab			2
+0x1049fd496			1
+0x1049fd4af			4
+0x1049fd518			1
+0x1049fd53c			3
+0x1049fd59a			1
+0x1049fd5bf			3
+0x1049fd5f5			1
+0x1049fd626			1
+0x1049fd676			4
+0x1049fd68c			2
+0x1049fd69f			1
+0x1049fd6aa			2
+0x1049fd6e3			3
+0x1049fd70e			4
+0x1049fd7af			1
+0x1049fd7d0			3
+0x1049fd806			1
+0x1049fd812			1
+0x1049fd83b			1
+0x1049fd861			2
+0x1049fd898			1
+0x1049fd8a6			3
+0x1049fd927			2
+0x1049fda0f			1
+0x1049fda2a			1
+0x1049fda4c			2
+0x1049fda7e			3
+0x1049fdabe			3
+0x1049fdae8			1
+0x1049fdb1a			2
+0x1049fdb5b			1
+0x1049fdb7f			3
+0x1049fdb8c			2
+0x1049fdbc6			3
+0x1049fdbf6			1
+0x1049fdc16			1
+0x1049fdc27			4
+0x1049fdc57			4
+0x1049fdc66			1
+0x1049fdc73			1
+0x1049fdc80			1
+0x1049fdc97			2
+0x1049fdca7			4
+0x1049fdcbb			1
+0x1049fdcdc			3
+0x1049fdd0d			1
+0x1049fdd2f			1
+0x1049fdd94			2
+0x1049fddab			4
+0x1049fddbf			4
+0x1049fddde			2
+0x1049fddec			1
+0x1049fddf7			4
+0x1049fde12			1
+0x1049fde23			1
+0x1049fde65			2
+0x1049fde87			2
+0x1049fdec2			1
+
+
+allocMBList
+Address			Node Size		Content
+0x1049fb000			5			Aaron
+0x1049fb01e			6			Abbott
+0x1049fb04c			5			Abner
+0x1049fb051			7			Abraham
+0x1049fb058			7			Abrahan
+0x1049fb064			6			Abramo
+0x1049fb06a			5			Abran
+0x1049fb06f			2			Ad
+0x1049fb071			5			Adair
+0x1049fb076			4			Adam
+0x1049fb084			4			Adan
+0x1049fb08d			7			Addison
+0x1049fb09b			8			Adelbert
+0x1049fb0a3			5			Adham
+0x1049fb0b5			5			Adolf
+0x1049fb0c0			7			Adolphe
+0x1049fb0ce			8			Adolphus
+0x1049fb0d6			6			Adrian
+0x1049fb114			5			Ahmed
+0x1049fb124			5			Aksel
+0x1049fb135			4			Alan
+0x1049fb14a			5			Alard
+0x1049fb181			7			Alberto
+0x1049fb19a			5			Aldin
+0x1049fb220			10			Alexandros
+0x1049fb23f			5			Alfie
+0x1049fb27e			5			Alick
+0x1049fb29b			4			Alix
+0x1049fb2c6			5			Allin
+0x1049fb2cb			8			Allister
+0x1049fb2d3			8			Allistir
+0x1049fb30c			8			Alphonso
+0x1049fb319			5			Aluin
+0x1049fb340			5			Alwin
+0x1049fb35c			7			Ambrose
+0x1049fb37f			7			Amerigo
+0x1049fb3a9			6			Ancell
+0x1049fb3d4			6			Andrea
+0x1049fb3da			7			Andreas
+0x1049fb3f9			6			Andris
+0x1049fb3ff			6			Andros
+0x1049fb426			6			Angelo
+0x1049fb42c			5			Angie
+0x1049fb447			5			Anson
+0x1049fb44c			7			Anthony
+0x1049fb45f			5			Anton
+0x1049fb48e			6			Antons
+0x1049fb4a0			6			Araldo
+0x1049fb4aa			11			Archaimbaud
+0x1049fb4c6			9			Archibald
+0x1049fb4d9			9			Archibold
+0x1049fb4f4			4			Arie
+0x1049fb4fd			4			Arin
+0x1049fb52d			7			Armando
+0x1049fb542			7			Arnaldo
+0x1049fb561			7			Arnoldo
+0x1049fb576			4			Arri
+0x1049fb593			7			Artemis
+0x1049fb5c6			3			Arv
+0x1049fb5ce			5			Arvin
+0x1049fb5dd			3			Ash
+0x1049fb5eb			5			Asher
+0x1049fb5f6			6			Ashlin
+0x1049fb619			5			Augie
+0x1049fb624			8			Augustin
+0x1049fb62c			9			Augustine
+0x1049fb635			7			Augusto
+0x1049fb66b			7			Averill
+0x1049fb67e			7			Avigdor
+0x1049fb68a			5			Avrom
+0x1049fb68f			2			Ax
+0x1049fb691			3			Axe
+0x1049fb6a4			5			Aymer
+0x1049fb6a9			4			Bail
+0x1049fb6c5			5			Baird
+0x1049fb6ef			5			Banky
+0x1049fb6f7			8			Barbabas
+0x1049fb70a			5			Barde
+0x1049fb713			8			Barnabas
+0x1049fb730			8			Barnebas
+0x1049fb74b			5			Barny
+0x1049fb755			4			Barr
+0x1049fb759			6			Barret
+0x1049fb771			6			Barris
+0x1049fb786			6			Bartel
+0x1049fb791			7			Barthel
+0x1049fb798			10			Bartholemy
+0x1049fb7d1			8			Bartlett
+0x1049fb82e			7			Bastien
+0x1049fb86f			4			Bear
+0x1049fb891			4			Beck
+0x1049fb8d6			8			Benedikt
+0x1049fb8e3			9			Beniamino
+0x1049fb907			6			Benjie
+0x1049fb912			4			Benn
+0x1049fb916			7			Bennett
+0x1049fb92e			6			Benson
+0x1049fb954			3			Ber
+0x1049fb957			4			Berk
+0x1049fb95b			5			Berke
+0x1049fb968			6			Berkie
+0x1049fb975			6			Berkly
+0x1049fb9b2			4			Bert
+0x1049fb9c7			7			Bertram
+0x1049fb9e7			5			Bevan
+0x1049fb9f1			5			Bevon
+0x1049fb9f9			4			Bill
+0x1049fb9fd			6			Billie
+0x1049fba08			4			Bing
+0x1049fba10			5			Binky
+0x1049fba1e			5			Biron
+0x1049fba28			6			Blaine
+0x1049fba3d			6			Blayne
+0x1049fba45			3			Bob
+0x1049fba48			6			Bobbie
+0x1049fba59			5			Bogey
+0x1049fba5e			6			Boigie
+0x1049fba79			4			Bone
+0x1049fba8a			6			Boonie
+0x1049fba95			4			Boot
+0x1049fba99			5			Boote
+0x1049fba9e			5			Booth
+0x1049fbab9			5			Bordy
+0x1049fbabe			4			Borg
+0x1049fbac7			6			Bourke
+0x1049fbaee			6			Bradan
+0x1049fbb07			7			Bradley
+0x1049fbb28			5			Brand
+0x1049fbb2d			7			Branden
+0x1049fbb5d			5			Brant
+0x1049fbb62			8			Brantley
+0x1049fbbad			4			Brew
+0x1049fbbb7			8			Brewster
+0x1049fbbd5			5			Brien
+0x1049fbbf9			5			Britt
+0x1049fbc0a			5			Brock
+0x1049fbc0f			7			Brockie
+0x1049fbc2d			8			Broderic
+0x1049fbc7b			5			Bruce
+0x1049fbc80			6			Brucie
+0x1049fbc8b			5			Bruno
+0x1049fbc95			6			Bryant
+0x1049fbca2			5			Bryce
+0x1049fbca7			4			Bryn
+0x1049fbcb0			4			Buck
+0x1049fbcbf			3			Bud
+0x1049fbcc2			4			Budd
+0x1049fbccc			5			Buddy
+0x1049fbce0			7			Burgess
+0x1049fbce7			4			Burk
+0x1049fbd10			6			Burtie
+0x1049fbd30			6			Byrann
+0x1049fbd4f			6			Caesar
+0x1049fbd55			3			Cal
+0x1049fbd58			8			Caldwell
+0x1049fbd60			4			Cale
+0x1049fbd69			7			Calhoun
+0x1049fbd77			4			Calv
+0x1049fbd8b			5			Camey
+0x1049fbdb8			6			Carlin
+0x1049fbdd0			5			Carly
+0x1049fbde3			6			Carney
+0x1049fbdff			7			Carroll
+0x1049fbe0c			4			Cart
+0x1049fbe2e			5			Casey
+0x1049fbe43			4			Cass
+0x1049fbe47			6			Cassie
+0x1049fbe57			6			Cazzie
+0x1049fbe75			8			Cecilius
+0x1049fbe7d			3			Ced
+0x1049fbe86			5			Cello
+0x1049fbe8b			5			Cesar
+0x1049fbea0			5			Chadd
+0x1049fbeb2			8			Chadwick
+0x1049fbeba			5			Chaim
+0x1049fbee5			7			Chariot
+0x1049fbf01			8			Charlton
+0x1049fbf24			4			Chen
+0x1049fbf3e			4			Chev
+0x1049fbf42			9			Chevalier
+0x1049fbf4b			5			Chevy
+0x1049fbf60			6			Chicky
+0x1049fbf8a			7			Chrissy
+0x1049fbfb7			11			Christoforo
+0x1049fbfdf			11			Christopher
+0x1049fbfea			13			Christophorus
+0x1049fc00c			8			Chrotoem
+0x1049fc014			6			Chucho
+0x1049fc02c			4			Ciro
+0x1049fc030			8			Claiborn
+0x1049fc07c			10			Claudianus
+0x1049fc086			7			Claudio
+0x1049fc095			5			Claus
+0x1049fc09e			8			Clayborn
+0x1049fc0b9			7			Clayson
+0x1049fc101			5			Cleon
+0x1049fc106			5			Clerc
+0x1049fc10b			6			Cletis
+0x1049fc111			6			Cletus
+0x1049fc117			5			Cleve
+0x1049fc12b			6			Clevie
+0x1049fc131			5			Cliff
+0x1049fc161			4			Cobb
+0x1049fc184			5			Colan
+0x1049fc189			5			Colas
+0x1049fc197			7			Coleman
+0x1049fc1ae			6			Colman
+0x1049fc1ba			3			Con
+0x1049fc1c2			6			Conant
+0x1049fc1e9			7			Conrade
+0x1049fc1f0			7			Conrado
+0x1049fc1f7			6			Conroy
+0x1049fc1fd			8			Consalve
+0x1049fc20f			11			Constantine
+0x1049fc22f			6			Cooper
+0x1049fc235			6			Corbet
+0x1049fc272			7			Cornall
+0x1049fc28f			6			Cornie
+0x1049fc295			5			Corny
+0x1049fc29a			6			Correy
+0x1049fc2aa			6			Cortie
+0x1049fc2b5			4			Cory
+0x1049fc2c7			5			Cosmo
+0x1049fc2e6			5			Cozmo
+0x1049fc2eb			7			Craggie
+0x1049fc2f2			6			Craggy
+0x1049fc305			6			Creigh
+0x1049fc32f			9			Cristiano
+0x1049fc341			6			Crosby
+0x1049fc373			6			Culver
+0x1049fc3ee			6			Dallas
+0x1049fc3f4			5			Dalli
+0x1049fc3ff			6			Dallon
+0x1049fc416			4			Dame
+0x1049fc435			4			Dana
+0x1049fc43d			4			Dani
+0x1049fc446			6			Daniel
+0x1049fc462			5			Danya
+0x1049fc474			5			Darby
+0x1049fc487			6			Darill
+0x1049fc4b4			6			Darrel
+0x1049fc4c1			6			Darren
+0x1049fc4e0			5			Daryl
+0x1049fc4f2			5			Daven
+0x1049fc51b			5			Davin
+0x1049fc520			5			Davis
+0x1049fc525			5			Davon
+0x1049fc52a			4			Davy
+0x1049fc52e			2			De
+0x1049fc542			3			Del
+0x1049fc54d			7			Delaney
+0x1049fc55a			7			Delbert
+0x1049fc565			6			Delmar
+0x1049fc571			6			Delmor
+0x1049fc57e			7			Demetre
+0x1049fc594			9			Demetrius
+0x1049fc59d			6			Demott
+0x1049fc5b5			6			Denney
+0x1049fc5bb			6			Dennie
+0x1049fc5e2			5			Derby
+0x1049fc627			6			Derwin
+0x1049fc67a			3			Dex
+0x1049fc640			4			Dill
+0x1049fc644			6			Dillie
+0x1049fc64a			5			Dilly
+0x1049fb14f			7			Dimitri
+0x1049fb2e0			7			Dimitry
+0x1049fc0d6			4			Dino
+0x1049fc64f			4			Dion
+0x1049fbd90			8			Dionysus
+0x1049fb29f			4			Dirk
+0x1049fb159			7			Dominic
+0x1049fb258			8			Dominick
+0x1049fc492			9			Dominique
+0x1049fc0e0			5			Donal
+0x1049fb50d			6			Donalt
+0x1049fb1ef			7			Donavon
+0x1049fb8a7			7			Donnell
+0x1049fb2ab			5			Dorey
+0x1049fc41a			4			Dory
+0x1049fb2f2			6			Dougie
+0x1049fb513			7			Douglas
+0x1049fbecb			8			Douglass
+0x1049fc04c			5			Dougy
+0x1049fb390			3			Dov
+0x1049fbd9f			3			Doy
+0x1049fc4c7			5			Drake
+0x1049fb363			4			Drud
+0x1049fb164			3			Dud
+0x1049fb644			6			Dudley
+0x1049fb8ae			4			Duff
+0x1049fc0ea			5			Duffy
+0x1049fc41e			6			Dugald
+0x1049fb264			4			Duke
+0x1049fb2b0			5			Dukey
+0x1049fb818			4			Duky
+0x1049fbbbf			3			Dun
+0x1049fbde9			7			Dunstan
+0x1049fc279			6			Durand
+0x1049fb22a			5			Dwain
+0x1049fb471			6			Dwayne
+0x1049fbd16			5			Dylan
+0x1049fbff7			7			Eadmund
+0x1049fc051			3			Eal
+0x1049fb0e0			6			Earlie
+0x1049fb167			5			Early
+0x1049fb367			2			Eb
+0x1049fc4a0			8			Eberhard
+0x1049fc4cc			6			Eberto
+0x1049fbf2b			5			Edgar
+0x1049fbf77			6			Edgard
+0x1049fbfa4			7			Edgardo
+0x1049fc23b			4			Edik
+0x1049fb102			5			Edmon
+0x1049fb34a			7			Edouard
+0x1049fb81c			6			Eduino
+0x1049fbb6a			6			Edward
+0x1049fbc53			5			Edwin
+0x1049fbda6			5			Efrem
+0x1049fbed3			5			Efren
+0x1049fc054			6			Egbert
+0x1049fc257			4			Egor
+0x1049fc5a3			6			Elbert
+0x1049fb398			8			Eldredge
+0x1049fb64a			8			Eldridge
+0x1049fb91d			3			Eli
+0x1049fc1d8			5			Elias
+0x1049fb22f			5			Eliot
+0x1049fb5b6			6			Ellary
+0x1049fbd1b			7			Elliott
+0x1049fc21f			9			Ellswerth
+0x1049fc27f			9			Ellsworth
+0x1049fc35e			7			Ellwood
+0x1049fb4e2			6			Elston
+0x1049fb51e			8			Elsworth
+0x1049fbdf0			5			Elvyn
+0x1049fb2fe			7			Emerson
+0x1049fbef3			8			Emmanuel
+0x1049fbf30			8			Emmerich
+0x1049fbffe			6			Emmery
+0x1049fc01e			5			Emmet
+0x1049fc038			6			Emmett
+0x1049fc0f3			5			Emmit
+0x1049fc5c6			5			Emory
+0x1049fb107			9			Engelbert
+0x1049fb18d			9			Englebert
+0x1049fb36e			5			Ennis
+0x1049fb65e			5			Enoch
+0x1049fbdab			7			Enrique
+0x1049fbed8			7			Ephraim
+0x1049fbf7d			6			Ephrem
+0x1049fc5e9			4			Erek
+0x1049fc5fc			6			Erhard
+0x1049fb129			5			Erich
+0x1049fb26e			4			Erie
+0x1049fb3ed			3			Erl
+0x1049fb580			7			Ermanno
+0x1049fb6ad			5			Ermin
+0x1049fb7ad			6			Ernest
+0x1049fb993			8			Ernestus
+0x1049fbb51			5			Ernst
+0x1049fbbfe			6			Errick
+0x1049fbf54			6			Erroll
+0x1049fbfab			7			Erskine
+0x1049fc323			5			Erwin
+0x1049fc3a6			6			Esdras
+0x1049fc429			4			Esme
+0x1049fc588			7			Estevan
+0x1049fc5a9			4			Etan
+0x1049fc66e			5			Ethan
+0x1049fb1a8			4			Ethe
+0x1049fb351			8			Ethelred
+0x1049fb766			5			Euell
+0x1049fb7fe			5			Eugen
+0x1049fb9a7			7			Eugenio
+0x1049fbcd1			2			Ev
+0x1049fbe38			4			Evan
+0x1049fb1be			7			Everard
+0x1049fb437			6			Evered
+0x1049fb851			5			Eward
+0x1049fb887			5			Ewart
+0x1049fba33			8			Ezechiel
+0x1049fbd06			10			Eziechiele
+0x1049fbdf5			4			Ezri
+0x1049fbe16			4			Fabe
+0x1049fbfd5			7			Fabiano
+0x1049fc154			6			Fabien
+0x1049fc205			5			Fabio
+0x1049fb172			7			Fairlie
+0x1049fb324			7			Falkner
+0x1049fb3f0			6			Farlay
+0x1049fb4e8			8			Farleigh
+0x1049fba15			6			Farris
+0x1049fbba4			3			Fax
+0x1049fbbcc			8			Federico
+0x1049fbcd3			3			Fee
+0x1049fbd22			5			Felic
+0x1049fbf91			6			Felice
+0x1049fc05d			6			Felike
+0x1049fc0f8			6			Felipe
+0x1049fc18e			5			Felix
+0x1049fc365			6			Feodor
+0x1049fc5ed			6			Ferdie
+0x1049fb044			5			Ferdy
+0x1049fb0ad			6			Fergus
+0x1049fb206			8			Ferguson
+0x1049fb272			8			Fernando
+0x1049fb3c1			6			Ferris
+0x1049fb663			5			Fidel
+0x1049fbaff			8			Fielding
+0x1049fc03e			8			Filberto
+0x1049fc08d			5			Filip
+0x1049fc136			7			Filippo
+0x1049fc2d6			3			Fin
+0x1049fc450			7			Findley
+0x1049fc545			6			Finlay
+0x1049fb032			4			Finn
+0x1049fb12e			7			Fleming
+0x1049fc6b1			8			Flemming
+0x1049fb1ac			6			Fletch
+0x1049fb1df			4			Flin
+0x1049fb294			5			Flint
+0x1049fb526			5			Flory
+0x1049fb59a			5			Floyd
+0x1049fb6b2			5			Flynn
+0x1049fb71b			6			Fonsie
+0x1049fb729			4			Fonz
+0x1049fb738			6			Fonzie
+0x1049fb842			6			Forbes
+0x1049fb895			4			Ford
+0x1049fb96e			6			Forest
+0x1049fc6c1			8			Forester
+0x1049fbb19			7			Forrest
+0x1049fbb83			4			Foss
+0x1049fbbe9			6			Foster
+0x1049fbd84			4			Fran
+0x1049fc6d2			9			Francesco
+0x1049fc6db			8			Franchot
+0x1049fbdbe			7			Francis
+0x1049fc6ec			10			Franciskus
+0x1049fc708			8			Francois
+0x1049fbe3c			5			Frank
+0x1049fc718			8			Franklyn
+0x1049fc228			5			Frans
+0x1049fc720			9			Fransisco
+0x1049fc288			6			Frants
+0x1049fc30b			5			Franz
+0x1049fc328			7			Franzen
+0x1049fc729			9			Frasquito
+0x1049fc620			6			Frazer
+0x1049fb0ba			4			Fred
+0x1049fc732			7			Freddie
+0x1049fb0ee			6			Freddy
+0x1049fb13d			6			Fredek
+0x1049fc739			8			Frederic
+0x1049fc741			9			Frederich
+0x1049fc75c			9			Frederigo
+0x1049fc765			8			Frederik
+0x1049fb3a3			4			Free
+0x1049fc793			7			Freemon
+0x1049fc7aa			9			Friedrick
+0x1049fb3af			5			Fritz
+0x1049fb568			6			Gabbie
+0x1049fb5a7			5			Gabby
+0x1049fb5c0			4			Gabe
+0x1049fb5fc			5			Gabie
+0x1049fc7b3			7			Gabriel
+0x1049fb61e			4			Gaby
+0x1049fb7c4			5			Gaile
+0x1049fb985			4			Gale
+0x1049fc7cb			9			Gallagher
+0x1049fba53			6			Galvan
+0x1049fbae0			6			Galven
+0x1049fbba7			6			Galvin
+0x1049fc7db			8			Gamaliel
+0x1049fbbb1			3			Gan
+0x1049fbc04			6			Gannie
+0x1049fbc3e			6			Gannon
+0x1049fbcc6			3			Gar
+0x1049fbcd6			6			Garald
+0x1049fbd49			4			Gard
+0x1049fc7e3			8			Gardener
+0x1049fc7f3			7			Gardner
+0x1049fbdf9			5			Garek
+0x1049fbe06			6			Gareth
+0x1049fbedf			5			Garik
+0x1049fbefb			6			Garner
+0x1049fc809			7			Garreth
+0x1049fc817			7			Garrick
+0x1049fc1a8			6			Garrik
+0x1049fc81e			7			Garrott
+0x1049fc2a0			5			Garth
+0x1049fc2ff			4			Garv
+0x1049fc3cc			5			Garvy
+0x1049fc825			7			Garwood
+0x1049fc833			7			Gasparo
+0x1049fc67d			6			Gaston
+0x1049fc83a			9			Gaultiero
+0x1049fc843			8			Gauthier
+0x1049fb019			3			Gav
+0x1049fb19f			5			Gavin
+0x1049fb386			3			Gay
+0x1049fc851			8			Gayelord
+0x1049fc859			6			Gayler
+0x1049fc85f			6			Gaylor
+0x1049fc865			7			Gaylord
+0x1049fc86c			7			Gearalt
+0x1049fc873			7			Gearard
+0x1049fc87a			8			Geoffrey
+0x1049fc89c			7			Georges
+0x1049fc8a9			7			Georgie
+0x1049fc8c2			7			Gerardo
+0x1049fb5e6			5			Gerek
+0x1049fc8c9			7			Gerhard
+0x1049fb672			4			Geri
+0x1049fc8de			7			Germain
+0x1049fc8e5			8			Germaine
+0x1049fc8ed			8			Germayne
+0x1049fc8fb			7			Gerrard
+0x1049fb6c0			5			Gerri
+0x1049fb750			5			Gerry
+0x1049fc908			8			Gherardo
+0x1049fc91e			7			Giacopo
+0x1049fc92b			7			Giavani
+0x1049fb856			3			Gib
+0x1049fb88c			5			Gibby
+0x1049fc93e			7			Giffard
+0x1049fc945			6			Giffer
+0x1049fc94b			6			Giffie
+0x1049fc951			7			Gifford
+0x1049fc95f			8			Gilberto
+0x1049fc96e			6			Gilles
+0x1049fc97a			8			Giordano
+0x1049fc982			6			Giorgi
+0x1049fc988			7			Giorgio
+0x1049fc997			7			Giraldo
+0x1049fc99e			6			Giraud
+0x1049fc9b3			8			Giuseppe
+0x1049fc9bb			8			Giustino
+0x1049fc9c3			6			Giusto
+0x1049fc9c9			7			Glenden
+0x1049fc9d0			7			Glendon
+0x1049fba03			5			Glenn
+0x1049fc9dd			6			Godart
+0x1049fc9f8			7			Godfrey
+0x1049fca05			6			Godwin
+0x1049fca0b			8			Gonzales
+0x1049fbd3b			5			Goran
+0x1049fca20			6			Goraud
+0x1049fca32			6			Gordie
+0x1049fbd64			5			Gordy
+0x1049fca45			9			Gottfried
+0x1049fca4e			8			Gradeigh
+0x1049fca56			6			Gradey
+0x1049fca63			6			Graeme
+0x1049fbf66			5			Graig
+0x1049fbfb2			4			Gram
+0x1049fca6f			6			Grange
+0x1049fca7c			7			Grannie
+0x1049fca83			6			Granny
+0x1049fc19e			5			Grant
+0x1049fca89			8			Grantham
+0x1049fc1bd			4			Gray
+0x1049fcab2			8			Gregoire
+0x1049fcaba			7			Gregoor
+0x1049fcac1			6			Gregor
+0x1049fcacf			9			Gregorius
+0x1049fcad8			7			Gregory
+0x1049fcadf			9			Grenville
+0x1049fc2c2			5			Griff
+0x1049fcaef			7			Griffin
+0x1049fc2cc			4			Gris
+0x1049fcb04			8			Griswold
+0x1049fc2d9			4			Griz
+0x1049fc347			5			Grove
+0x1049fcb0c			6			Grover
+0x1049fc395			5			Guido
+0x1049fcb2c			9			Guillaume
+0x1049fc441			3			Gun
+0x1049fcb4a			6			Gunter
+0x1049fcb50			7			Gunther
+0x1049fcb57			6			Gustaf
+0x1049fcb5d			6			Gustav
+0x1049fcb63			7			Gustave
+0x1049fcb71			8			Gustavus
+0x1049fcb8d			6			Hadlee
+0x1049fcba1			7			Hadrian
+0x1049fc694			5			Hagen
+0x1049fcba8			6			Hailey
+0x1049fcbb3			6			Hakeem
+0x1049fcbc5			5			Haley
+0x1049fcbca			6			Hallsy
+0x1049fcbd0			6			Halsey
+0x1049fcbd6			5			Halsy
+0x1049fcbdb			5			Hamel
+0x1049fcbe0			5			Hamid
+0x1049fcbea			8			Hamilton
+0x1049fcbf2			6			Hamish
+0x1049fcbf8			6			Hamlen
+0x1049fcc04			6			Hammad
+0x1049fcc0a			6			Hamnet
+0x1049fcc10			5			Hanan
+0x1049fb41a			4			Hank
+0x1049fb43d			4			Hans
+0x1049fcc1d			6			Hanson
+0x1049fcc23			6			Harald
+0x1049fcc3d			6			Harlan
+0x1049fcc43			7			Harland
+0x1049fcc5c			6			Harman
+0x1049fcc62			6			Harmon
+0x1049fcc80			8			Harrison
+0x1049fcc8d			7			Hartley
+0x1049fb694			4			Harv
+0x1049fcc9c			6			Harvey
+0x1049fcca2			7			Harwell
+0x1049fcca9			8			Harwilll
+0x1049fccd2			6			Hastie
+0x1049fccf0			6			Haydon
+0x1049fcd02			7			Haywood
+0x1049fcd0f			5			Hazel
+0x1049fcd1b			5			Heall
+0x1049fcd20			5			Heath
+0x1049fcd25			6			Hebert
+0x1049fcd2b			6			Hector
+0x1049fcd31			9			Heindrick
+0x1049fcd49			9			Henderson
+0x1049fcd5a			7			Hendrik
+0x1049fcd6c			5			Henry
+0x1049fb6eb			4			Herb
+0x1049fcd78			6			Herbie
+0x1049fcd83			7			Hercule
+0x1049fcd92			8			Herculie
+0x1049fcd9a			9			Heriberto
+0x1049fcda3			6			Herman
+0x1049fcda9			7			Hermann
+0x1049fcdbc			5			Hermy
+0x1049fcdc1			8			Hernando
+0x1049fcdcf			7			Herrick
+0x1049fcdd6			6			Hersch
+0x1049fcddc			8			Herschel
+0x1049fcdf0			5			Herve
+0x1049fcdf5			6			Hervey
+0x1049fb934			4			Hewe
+0x1049fcdfb			5			Hewet
+0x1049fce06			5			Hewie
+0x1049fce18			10			Hieronymus
+0x1049fce22			7			Hilario
+0x1049fce29			8			Hilarius
+0x1049fb9ae			4			Hill
+0x1049fce37			7			Hillard
+0x1049fce52			8			Hilliard
+0x1049fce67			5			Hilly
+0x1049fce6c			7			Hillyer
+0x1049fce73			6			Hilton
+0x1049fce79			5			Hinze
+0x1049fce83			6			Hirsch
+0x1049fce9a			5			Hobie
+0x1049fce9f			5			Hodge
+0x1049fcea4			7			Hoebart
+0x1049fcebc			5			Holly
+0x1049fcec7			5			Homer
+0x1049fced9			6			Horace
+0x1049fcee6			7			Horatio
+0x1049fcefa			6			Horten
+0x1049fcf00			6			Horton
+0x1049fcf06			6			Howard
+0x1049fcf0c			5			Howey
+0x1049fcf11			5			Howie
+0x1049fcf16			6			Hubert
+0x1049fcf23			5			Hubey
+0x1049fbcbb			4			Huey
+0x1049fbcf0			4			Hugh
+0x1049fcf2d			6			Hughie
+0x1049fcf33			8			Hugibert
+0x1049fcf41			7			Humbert
+0x1049fcf50			7			Humfrey
+0x1049fcf5e			8			Humfried
+0x1049fcf66			8			Humphrey
+0x1049fcf6e			8			Hunfredo
+0x1049fbfc8			4			Hunt
+0x1049fcf94			6			Hurlee
+0x1049fcf9a			8			Hurleigh
+0x1049fcfa2			6			Hurley
+0x1049fc09a			2			Hy
+0x1049fc193			4			Iain
+0x1049fcfe3			7			Ignacio
+0x1049fcfff			7			Ignazio
+0x1049fd006			4			Igor
+0x1049fb036			3			Ike
+0x1049fd00e			6			Ilaire
+0x1049fd01a			8			Immanuel
+0x1049fd022			7			Ingamar
+0x1049fd02e			9			Ingelbert
+0x1049fd05d			6			Ingram
+0x1049fd069			5			Inigo
+0x1049fd079			5			Iorgo
+0x1049fd084			5			Iosep
+0x1049fb049			3			Ira
+0x1049fd089			5			Irvin
+0x1049fd08e			6			Irvine
+0x1049fd09a			5			Irwin
+0x1049fd0a5			5			Isaac
+0x1049fd0aa			5			Isaak
+0x1049fd0b9			6			Isador
+0x1049fd0bf			7			Isadore
+0x1049fd0cc			4			Isak
+0x1049fd0d0			6			Isiahi
+0x1049fd0dc			7			Isidore
+0x1049fd0e3			7			Isidoro
+0x1049fd0f0			6			Israel
+0x1049fd0fc			4			Itch
+0x1049fd100			4			Ivan
+0x1049fd104			4			Ivar
+0x1049fd110			4			Ivor
+0x1049fd11d			4			Izzy
+0x1049fd121			5			Jabez
+0x1049fd137			5			Jacky
+0x1049fd141			6			Jacobo
+0x1049fd159			4			Jake
+0x1049fd15d			5			Jakie
+0x1049fd177			7			Jameson
+0x1049fd17e			6			Jamesy
+0x1049fd184			5			Jamey
+0x1049fd199			7			Jamison
+0x1049fb21d			3			Jan
+0x1049fd1a6			5			Janek
+0x1049fd1b5			4			Jard
+0x1049fd1c3			5			Jarib
+0x1049fd1cd			6			Jarrad
+0x1049fd1d3			6			Jarred
+0x1049fd1d9			6			Jarret
+0x1049fd1ec			6			Jarrod
+0x1049fd1f8			4			Jase
+0x1049fd206			6			Jasper
+0x1049fd20c			5			Jasun
+0x1049fb359			3			Jay
+0x1049fd21b			5			Jayme
+0x1049fd226			6			Jayson
+0x1049fd22c			6			Jdavie
+0x1049fd232			4			Jean
+0x1049fd236			5			Jecho
+0x1049fd23b			4			Jedd
+0x1049fd244			8			Jedediah
+0x1049fd258			8			Jefferey
+0x1049fd269			6			Jeffie
+0x1049fd276			6			Jeffry
+0x1049fd27c			5			Jeffy
+0x1049fd295			5			Jerad
+0x1049fd2a0			7			Jeramey
+0x1049fd2c8			7			Jeremie
+0x1049fd2dc			8			Jermaine
+0x1049fd2ec			6			Jerome
+0x1049fd2fd			6			Jerrie
+0x1049fd320			5			Jesse
+0x1049fd325			6			Jessee
+0x1049fd32b			6			Jessey
+0x1049fd331			6			Jessie
+0x1049fb7d9			5			Jesus
+0x1049fbc58			6			Jethro
+0x1049fb7e2			3			Jim
+0x1049fb7e5			6			Jimmie
+0x1049fd2a7			5			Jimmy
+0x1049fbc5e			2			Jo
+0x1049fb477			7			Joachim
+0x1049fb859			3			Job
+0x1049fb8c0			4			Jock
+0x1049fbaa3			4			Jodi
+0x1049fc379			4			Jody
+0x1049fcb35			3			Joe
+0x1049fbe1a			5			Johan
+0x1049fc170			6			Johann
+0x1049fce3e			8			Johannes
+0x1049fd2ac			4			John
+0x1049fb7eb			9			Johnathan
+0x1049fb85c			9			Johnathon
+0x1049fcfc5			5			Johny
+0x1049fbaa7			5			Jonas
+0x1049fc37d			8			Jonathan
+0x1049fc74a			8			Jonathon
+0x1049fcb12			4			Jone
+0x1049fcc4a			6			Jordon
+0x1049fccd8			6			Jorgan
+0x1049fcfae			5			Jorge
+0x1049fd147			4			Jory
+0x1049fb8f6			4			Jose
+0x1049fbc65			6			Joseph
+0x1049fc683			6			Joshia
+0x1049fceab			6			Joshua
+0x1049fcfee			7			Joshuah
+0x1049fb47e			6			Josias
+0x1049fb877			8			Jourdain
+0x1049fc06c			5			Jozef
+0x1049fc65e			3			Jud
+0x1049fd2b0			5			Judah
+0x1049fb005			5			Judas
+0x1049fb1cb			4			Judd
+0x1049fb20e			4			Jude
+0x1049fbbda			4			Jule
+0x1049fc11c			6			Julian
+0x1049fc76d			5			Julie
+0x1049fd311			6			Julius
+0x1049fb920			9			Justinian
+0x1049fc4d2			6			Justus
+0x1049fc534			8			Kahaleel
+0x1049fc9e3			6			Kahlil
+0x1049fcb16			4			Kain
+0x1049fcb93			5			Kaine
+0x1049fcfca			6			Kaiser
+0x1049fd14b			4			Kale
+0x1049fb3c7			5			Kaleb
+0x1049fb464			5			Kalil
+0x1049fb549			5			Kalle
+0x1049fb73e			6			Kalvin
+0x1049fba7d			5			Karim
+0x1049fc882			6			Karoly
+0x1049fca38			6			Kasper
+0x1049fce5a			4			Kean
+0x1049fcecc			5			Keane
+0x1049fcfb3			7			Kearney
+0x1049fb3e1			6			Keefer
+0x1049fb453			6			Keelby
+0x1049fb501			4			Keen
+0x1049fb587			6			Keenan
+0x1049fb601			5			Keene
+0x1049fb698			4			Keir
+0x1049fbb70			5			Keith
+0x1049fbcf4			5			Kelby
+0x1049fbebf			4			Kele
+0x1049fc317			6			Kellby
+0x1049fc39a			6			Kellen
+0x1049fc50f			6			Kelley
+0x1049fc8b6			5			Kelly
+0x1049fcb3e			6			Kelsey
+0x1049fcc74			3			Ken
+0x1049fccde			6			Kendal
+0x1049fce46			7			Kendall
+0x1049fd037			7			Kendell
+0x1049fd24c			8			Kendrick
+0x1049fb1cf			9			Kendricks
+0x1049fb212			4			Kenn
+0x1049fb234			6			Kennan
+0x1049fb7a2			7			Kenneth
+0x1049fb9d4			7			Kennett
+0x1049fbb0e			6			Kennie
+0x1049fbc44			5			Kenny
+0x1049fbc6b			5			Kenon
+0x1049fc071			4			Kent
+0x1049fc615			6			Kenton
+0x1049fc689			6			Kenyon
+0x1049fd06e			5			Kerby
+0x1049fd162			4			Kerk
+0x1049fd2b5			6			Kermit
+0x1049fb1fc			4			Kerr
+0x1049fb5ac			6			Kerwin
+0x1049fb77c			7			Kerwinn
+0x1049fb7f4			3			Kev
+0x1049fb803			5			Kevan
+0x1049fb865			5			Keven
+0x1049fb8b2			5			Kevin
+0x1049fb97b			5			Kevon
+0x1049fb99d			6			Khalil
+0x1049fbc1d			4			Kile
+0x1049fbe24			5			Kiley
+0x1049fc385			6			Killie
+0x1049fc6a7			3			Kim
+0x1049fc752			7			Kimball
+0x1049fcb1a			6			Kimble
+0x1049fcff5			7			Kincaid
+0x1049fd0af			4			King
+0x1049fd14f			8			Kingsley
+0x1049fd1fc			6			Kinnie
+0x1049fb24f			5			Kinny
+0x1049fb283			7			Kinsley
+0x1049fb337			3			Kip
+0x1049fb3b4			4			Kipp
+0x1049fb494			6			Kippar
+0x1049fb539			6			Kipper
+0x1049fb6b7			6			Kippie
+0x1049fb839			5			Kippy
+0x1049fb848			5			Kirby
+0x1049fbad7			3			Kit
+0x1049fbd40			7			Klement
+0x1049fbfcc			5			Kleon
+0x1049fc0c7			7			Kliment
+0x1049fc122			4			Knox
+0x1049fc2dd			8			Koenraad
+0x1049fc338			6			Konrad
+0x1049fd341			11			Konstantine
+0x1049fc5f3			5			Korey
+0x1049fc6e3			4			Kort
+0x1049fce5e			7			Krishna
+0x1049fb0fa			6			Kristo
+0x1049fd34c			9			Kristofer
+0x1049fd372			10			Kristopher
+0x1049fb2a3			7			Kristos
+0x1049fb2be			4			Kurt
+0x1049fb373			6			Kurtis
+0x1049fb41e			4			Kyle
+0x1049fb469			5			Kylie
+0x1049fb505			5			Laird
+0x1049fb69c			7			Lambert
+0x1049fb87f			6			Lamond
+0x1049fb89f			6			Lamont
+0x1049fb8ff			5			Lance
+0x1049fba82			4			Land
+0x1049fbb49			5			Laney
+0x1049fc004			8			Langston
+0x1049fc147			5			Lanie
+0x1049fc17c			6			Lannie
+0x1049fc36b			5			Lanny
+0x1049fc4d8			4			Lars
+0x1049fc6b9			8			Laughton
+0x1049fc710			6			Launce
+0x1049fc7eb			6			Lauren
+0x1049fc8d0			8			Laurence
+0x1049fc98f			7			Laurens
+0x1049fc9e9			7			Laurent
+0x1049fca99			6			Laurie
+0x1049fcaaa			7			Lauritz
+0x1049fcc15			8			Lawrence
+0x1049fcc94			5			Lawry
+0x1049fccc3			6			Lawton
+0x1049fced1			5			Lazar
+0x1049fcfd0			6			Lazaro
+0x1049fd108			7			Lazarus
+0x1049fd1e4			3			Lee
+0x1049fd28d			5			Lefty
+0x1049fd37c			9			Leicester
+0x1049fd2e4			4			Leif
+0x1049fd385			8			Leighton
+0x1049fb039			3			Lek
+0x1049fb094			6			Leland
+0x1049fb0c7			3			Lem
+0x1049fb2e7			6			Lemuel
+0x1049fb32b			5			Lenci
+0x1049fb389			7			Lennard
+0x1049fb5d3			3			Leo
+0x1049fb6d5			7			Leonard
+0x1049fd38d			8			Leonardo
+0x1049fb6ff			7			Leonerd
+0x1049fd395			8			Leonhard
+0x1049fb744			6			Leonid
+0x1049fd39d			8			Leonidas
+0x1049fb75f			7			Leopold
+0x1049fb7f7			5			Leroi
+0x1049fb8cf			5			Leroy
+0x1049fbb75			3			Les
+0x1049fbcf9			6			Leslie
+0x1049fbddc			6			Lester
+0x1049fbe4d			7			Leupold
+0x1049fbea5			3			Lev
+0x1049fc075			5			Levin
+0x1049fc15a			5			Levon
+0x1049fc1e2			4			Levy
+0x1049fc26b			3			Lew
+0x1049fc2f8			5			Lewes
+0x1049fc3b8			5			Lewie
+0x1049fc405			6			Lewiss
+0x1049fc4ba			6			Lezley
+0x1049fc577			4			Liam
+0x1049fc608			4			Lief
+0x1049fc667			3			Lin
+0x1049fc673			4			Linc
+0x1049fc6aa			7			Lincoln
+0x1049fc79a			4			Lind
+0x1049fc802			7			Lindsay
+0x1049fc8bb			4			Linn
+0x1049fc958			6			Linoel
+0x1049fca19			5			Linus
+0x1049fca3e			4			Lion
+0x1049fca5c			6			Lionel
+0x1049fca75			5			Lisle
+0x1049fd3ad			9			Llewellyn
+0x1049fcb6a			5			Lloyd
+0x1049fd3b6			9			Llywellyn
+0x1049fcb79			4			Lock
+0x1049fcc31			5			Locke
+0x1049fd3bf			8			Lockwood
+0x1049fd3c7			8			Lodovico
+0x1049fcd14			5			Logan
+0x1049fcd42			7			Lombard
+0x1049fcd71			3			Lon
+0x1049fcde9			7			Lonnard
+0x1049fcf1c			5			Lonny
+0x1049fd166			5			Loren
+0x1049fd26f			6			Lorens
+0x1049fd2d5			7			Lorenzo
+0x1049fd303			5			Lorin
+0x1049fb200			6			Lorrie
+0x1049fd3cf			8			Lothaire
+0x1049fd3d7			8			Lothario
+0x1049fb268			3			Lou
+0x1049fb2f8			5			Louie
+0x1049fb3ce			4			Lowe
+0x1049fb3e7			6			Lowell
+0x1049fd3df			8			Lowrance
+0x1049fb441			6			Loydie
+0x1049fb459			4			Luca
+0x1049fb4c0			6			Lucais
+0x1049fb55b			5			Lucas
+0x1049fb58d			4			Luce
+0x1049fb5f0			6			Lucian
+0x1049fd3e7			7			Luciano
+0x1049fb613			6			Lucias
+0x1049fb658			6			Lucien
+0x1049fb76b			5			Lucio
+0x1049fb7b3			6			Lucius
+0x1049fd3ee			8			Ludovico
+0x1049fb93f			6			Ludvig
+0x1049fbada			5			Luigi
+0x1049fbaf9			4			Luis
+0x1049fbb9e			4			Luke
+0x1049fbc70			2			Ly
+0x1049fbdca			5			Lydon
+0x1049fbe80			5			Lyell
+0x1049fbf38			4			Lyle
+0x1049fbf5a			5			Lyman
+0x1049fc046			3			Lyn
+0x1049fc0b3			4			Lynn
+0x1049fc0da			4			Lyon
+0x1049fc165			3			Mac
+0x1049fc1b4			4			Mace
+0x1049fc23f			4			Mack
+0x1049fd3f6			9			Mackenzie
+0x1049fc2bc			6			Maddie
+0x1049fc2d0			5			Maddy
+0x1049fd3ff			7			Madison
+0x1049fc31d			6			Magnum
+0x1049fd406			7			Mahmoud
+0x1049fc3a0			6			Mahmud
+0x1049fc3ac			6			Maison
+0x1049fc3f9			4			Maje
+0x1049fc457			5			Major
+0x1049fd40d			7			Malachi
+0x1049fc4ec			6			Malchy
+0x1049fd414			7			Malcolm
+0x1049fd41b			7			Mallory
+0x1049fc515			6			Malvin
+0x1049fc56b			6			Mandel
+0x1049fd422			7			Manfred
+0x1049fc62d			6			Mannie
+0x1049fc84b			5			Manny
+0x1049fc8a3			4			Mano
+0x1049fc8f5			6			Manolo
+0x1049fc902			6			Manuel
+0x1049fc938			3			Mar
+0x1049fc974			4			Marc
+0x1049fc9ff			6			Marcel
+0x1049fd429			8			Marcello
+0x1049fd431			9			Marcellus
+0x1049fd43a			7			Marcelo
+0x1049fd441			8			Marchall
+0x1049fca69			5			Marco
+0x1049fcb87			6			Marcus
+0x1049fcbbf			6			Marijn
+0x1049fcbfe			5			Mario
+0x1049fcc56			6			Marion
+0x1049fcc68			6			Marius
+0x1049fcce4			4			Mark
+0x1049fcd66			6			Markos
+0x1049fce0b			6			Marlin
+0x1049fce31			5			Marlo
+0x1049fcf3b			6			Marlow
+0x1049fd449			7			Marlowe
+0x1049fd450			9			Marmaduke
+0x1049fcfba			5			Marsh
+0x1049fd459			7			Marshal
+0x1049fd460			8			Marshall
+0x1049fcfdd			4			Mart
+0x1049fd468			8			Martainn
+0x1049fd063			6			Marten
+0x1049fd073			6			Martie
+0x1049fd07e			6			Martin
+0x1049fd470			7			Martino
+0x1049fd09f			6			Martyn
+0x1049fd0b3			4			Marv
+0x1049fd0c6			5			Marve
+0x1049fd0d6			6			Marven
+0x1049fd0ea			6			Marvin
+0x1049fd0f6			6			Marwin
+0x1049fd477			12			Massimiliano
+0x1049fd483			7			Massimo
+0x1049fd211			4			Mata
+0x1049fd29a			5			Mateo
+0x1049fb00f			5			Mathe
+0x1049fd48a			6			Mathew
+0x1049fd497			7			Mathias
+0x1049fd49e			6			Matias
+0x1049fd4a4			6			Matteo
+0x1049fd4b3			8			Mattheus
+0x1049fd4bb			7			Matthew
+0x1049fd4c2			8			Matthias
+0x1049fd4ca			8			Matthieu
+0x1049fd4d2			8			Matthiew
+0x1049fd4da			7			Matthus
+0x1049fd4e1			7			Mattias
+0x1049fd4e8			6			Mattie
+0x1049fb188			5			Matty
+0x1049fd4ee			7			Maurice
+0x1049fd503			7			Maurise
+0x1049fd50a			7			Maurits
+0x1049fb1b9			5			Maury
+0x1049fb23a			3			Max
+0x1049fb2b5			5			Maxie
+0x1049fb2db			5			Maxim
+0x1049fd519			10			Maximilian
+0x1049fd523			12			Maximilianus
+0x1049fd52f			10			Maximilien
+0x1049fd53f			7			Maxwell
+0x1049fb393			5			Mayer
+0x1049fd546			7			Maynard
+0x1049fb3b8			5			Mayne
+0x1049fd54d			7			Maynord
+0x1049fb489			5			Mayor
+0x1049fb78c			5			Meade
+0x1049fb808			5			Meier
+0x1049fb86a			3			Mel
+0x1049fd560			6			Menard
+0x1049fd566			6			Mendel
+0x1049fd56c			6			Mendie
+0x1049fb8b7			5			Mendy
+0x1049fd572			8			Meredeth
+0x1049fd588			6			Merill
+0x1049fb929			5			Merle
+0x1049fd58e			6			Merrel
+0x1049fd59b			7			Merrill
+0x1049fb94f			5			Merry
+0x1049fb980			4			Merv
+0x1049fd5a2			6			Mervin
+0x1049fd5a8			6			Merwin
+0x1049fd5ae			6			Merwyn
+0x1049fb9b6			5			Meryl
+0x1049fb9ec			5			Meyer
+0x1049fba23			3			Mic
+0x1049fba4e			5			Micah
+0x1049fd5b4			7			Michael
+0x1049fd5c2			6			Michal
+0x1049fd5c8			7			Michale
+0x1049fd5cf			7			Micheal
+0x1049fd5d6			7			Micheil
+0x1049fd5e3			7			Michele
+0x1049fba74			4			Mick
+0x1049fd5ea			6			Mickey
+0x1049fba90			5			Micky
+0x1049fd5f6			6			Miguel
+0x1049fd5fc			6			Mikael
+0x1049fbab4			4			Mike
+0x1049fbb14			5			Mikel
+0x1049fbc86			5			Mikey
+0x1049fd602			6			Mikkel
+0x1049fbcab			5			Mikol
+0x1049fbceb			4			Mile
+0x1049fbe29			5			Miles
+0x1049fd608			7			Millard
+0x1049fd615			6			Miltie
+0x1049fd61b			6			Milton
+0x1049fc126			5			Miner
+0x1049fc13d			5			Minor
+0x1049fc1a3			5			Mitch
+0x1049fd627			8			Mitchael
+0x1049fd62f			7			Mitchel
+0x1049fd636			8			Mitchell
+0x1049fc21a			3			Moe
+0x1049fd63e			8			Mohammed
+0x1049fd646			8			Mohandas
+0x1049fd64e			8			Mohandis
+0x1049fd656			6			Moises
+0x1049fc3d6			5			Monro
+0x1049fd662			6			Monroe
+0x1049fd668			8			Montague
+0x1049fc49b			5			Monty
+0x1049fc4af			5			Moore
+0x1049fd67a			8			Mordecai
+0x1049fc5c1			5			Mordy
+0x1049fc5cf			5			Morey
+0x1049fd682			6			Morgan
+0x1049fd68e			6			Morgun
+0x1049fd694			6			Moritz
+0x1049fd6a0			6			Morley
+0x1049fc68f			5			Morly
+0x1049fd6ac			6			Morris
+0x1049fc6e7			5			Morry
+0x1049fc703			5			Morse
+0x1049fd6b2			6			Morten
+0x1049fd6b8			6			Mortie
+0x1049fd6be			8			Mortimer
+0x1049fd6c6			6			Morton
+0x1049fcb9c			5			Morty
+0x1049fcbe5			5			Moses
+0x1049fcc88			5			Moshe
+0x1049fccf6			4			Moss
+0x1049fcd55			5			Mozes
+0x1049fd6cc			6			Muffin
+0x1049fd6da			6			Munmro
+0x1049fd6e6			7			Murdoch
+0x1049fd6ed			7			Murdock
+0x1049fd6f4			6			Murray
+0x1049fce4d			5			Murry
+0x1049fd6fa			6			Murvyn
+0x1049fce95			2			My
+0x1049fd029			4			Myca
+0x1049fd03e			5			Mycah
+0x1049fd700			6			Mychal
+0x1049fd058			4			Myer
+0x1049fd1c8			5			Myron
+0x1049fd23f			3			Nap
+0x1049fd712			8			Napoleon
+0x1049fd2bb			5			Nappy
+0x1049fb03c			3			Nat
+0x1049fd720			5			Natal
+0x1049fd725			6			Natale
+0x1049fb0ca			4			Nate
+0x1049fd733			6			Nathan
+0x1049fd739			9			Nathanael
+0x1049fd742			9			Nathanial
+0x1049fd74b			9			Nathaniel
+0x1049fd754			8			Nathanil
+0x1049fd75c			5			Natty
+0x1049fb0dc			4			Neal
+0x1049fd761			5			Neale
+0x1049fd766			5			Neall
+0x1049fd76b			6			Nealon
+0x1049fd771			7			Nealson
+0x1049fb119			3			Ned
+0x1049fd77d			6			Neddie
+0x1049fd783			5			Neddy
+0x1049fb120			4			Neel
+0x1049fd788			5			Nefen
+0x1049fd78d			8			Nehemiah
+0x1049fb139			4			Neil
+0x1049fd79a			5			Neils
+0x1049fb160			4			Nels
+0x1049fd79f			6			Nelson
+0x1049fb1a4			4			Nero
+0x1049fd7a5			5			Neron
+0x1049fd7b0			6			Nestor
+0x1049fd7b6			5			Nevil
+0x1049fd7bb			6			Nevile
+0x1049fd7c1			7			Neville
+0x1049fd7d3			6			Newton
+0x1049fb260			4			Nial
+0x1049fd7d9			5			Niall
+0x1049fd7de			7			Niccolo
+0x1049fd7e5			8			Nicholas
+0x1049fb27a			4			Nick
+0x1049fd7fb			6			Nickey
+0x1049fd807			5			Nicko
+0x1049fd813			8			Nickolai
+0x1049fd81b			8			Nickolas
+0x1049fd823			9			Nickolaus
+0x1049fd82c			5			Nicky
+0x1049fb2c2			4			Nico
+0x1049fd831			5			Nicol
+0x1049fd83c			7			Nicolai
+0x1049fd843			8			Nicolais
+0x1049fd84b			7			Nicolas
+0x1049fd852			7			Nicolis
+0x1049fb40b			4			Niel
+0x1049fd859			5			Niels
+0x1049fb422			4			Niki
+0x1049fd863			6			Nikita
+0x1049fd869			5			Nikki
+0x1049fd86e			6			Nikola
+0x1049fd874			7			Nikolai
+0x1049fd87b			8			Nikolaos
+0x1049fd883			7			Nikolas
+0x1049fd88a			8			Nikolaus
+0x1049fd899			5			Nikos
+0x1049fb51a			3			Nil
+0x1049fd89e			5			Niles
+0x1049fb552			4			Nils
+0x1049fd8a9			5			Niven
+0x1049fd8ae			5			Noach
+0x1049fb5d6			4			Nobe
+0x1049fd8b3			5			Nobie
+0x1049fb6e7			4			Noby
+0x1049fb7a9			4			Noel
+0x1049fd8bd			5			Nolan
+0x1049fd8c2			6			Noland
+0x1049fd8c8			6			Nollie
+0x1049fd8ce			5			Nolly
+0x1049fd8d3			7			Norbert
+0x1049fd8da			6			Norbie
+0x1049fd8e0			5			Norby
+0x1049fd8e5			6			Norman
+0x1049fd8eb			7			Normand
+0x1049fd8f2			6			Normie
+0x1049fd8f8			5			Normy
+0x1049fd8fd			6			Norrie
+0x1049fd903			6			Norris
+0x1049fd909			5			Norry
+0x1049fd90e			5			North
+0x1049fd913			8			Northrop
+0x1049fd91b			8			Northrup
+0x1049fd929			6			Nowell
+0x1049fb84d			3			Nye
+0x1049fd92f			5			Oates
+0x1049fd934			7			Obadiah
+0x1049fd93b			7			Obadias
+0x1049fb9a3			4			Obed
+0x1049fd942			7			Obediah
+0x1049fd949			6			Oberon
+0x1049fb9db			4			Obie
+0x1049fd956			8			Octavius
+0x1049fba86			3			Ode
+0x1049fd95e			5			Odell
+0x1049fbaea			4			Odey
+0x1049fbb78			3			Odo
+0x1049fbbe5			3			Ody
+0x1049fd963			5			Ogdan
+0x1049fd968			5			Ogden
+0x1049fd96d			5			Ogdon
+0x1049fbc72			3			Ole
+0x1049fd972			8			Olenolin
+0x1049fbcdc			4			Olin
+0x1049fd97a			6			Oliver
+0x1049fd980			7			Olivero
+0x1049fd987			7			Olivier
+0x1049fd98e			8			Oliviero
+0x1049fd996			5			Ollie
+0x1049fbda2			4			Olly
+0x1049fd9a0			5			Omero
+0x1049fd9a5			5			Onfre
+0x1049fd9b0			8			Onofredo
+0x1049fbe9c			4			Oran
+0x1049fd9b8			6			Orazio
+0x1049fd9be			8			Orbadiah
+0x1049fbea8			4			Oren
+0x1049fbfd1			4			Orin
+0x1049fd9cb			5			Orlan
+0x1049fd9d0			6			Orland
+0x1049fd9d6			7			Orlando
+0x1049fd9dd			5			Orran
+0x1049fd9e2			5			Orren
+0x1049fd9e7			5			Orrin
+0x1049fd9ec			5			Orson
+0x1049fc01a			3			Orv
+0x1049fd9f6			7			Orville
+0x1049fd9fd			6			Osbert
+0x1049fda03			6			Osborn
+0x1049fda10			7			Osbourn
+0x1049fda17			8			Osbourne
+0x1049fda1f			6			Osgood
+0x1049fda2b			6			Osmund
+0x1049fda31			5			Ossie
+0x1049fda36			6			Oswald
+0x1049fda3c			6			Oswell
+0x1049fc1c8			4			Otes
+0x1049fda42			7			Othello
+0x1049fc26e			4			Otis
+0x1049fc34c			4			Otto
+0x1049fc38b			4			Owen
+0x1049fc3ea			4			Ozzy
+0x1049fda4e			5			Pablo
+0x1049fc439			4			Pace
+0x1049fda53			8			Packston
+0x1049fc4dc			4			Paco
+0x1049fda5b			7			Pacorro
+0x1049fda62			6			Paddie
+0x1049fda68			5			Paddy
+0x1049fda6d			6			Padget
+0x1049fda73			7			Padgett
+0x1049fda81			7			Padraig
+0x1049fda88			7			Padriac
+0x1049fc561			4			Page
+0x1049fda8f			5			Paige
+0x1049fc66a			4			Pall
+0x1049fcb20			4			Palm
+0x1049fda94			6			Palmer
+0x1049fdaa2			6			Pancho
+0x1049fdaa8			5			Paolo
+0x1049fdaad			8			Papageno
+0x1049fcd74			4			Park
+0x1049fdac1			6			Parker
+0x1049fdac7			7			Parnell
+0x1049fdace			8			Parrnell
+0x1049fdad6			5			Parry
+0x1049fdadb			8			Parsifal
+0x1049fdae9			7			Pascale
+0x1049fdaf0			8			Pasquale
+0x1049fd00a			3			Pat
+0x1049fd126			4			Pate
+0x1049fdaf8			5			Paten
+0x1049fdafd			5			Patin
+0x1049fdb02			5			Paton
+0x1049fdb07			6			Patric
+0x1049fdb0d			7			Patrice
+0x1049fdb1c			7			Patrick
+0x1049fdb23			8			Patrizio
+0x1049fdb2b			9			Patrizius
+0x1049fdb34			5			Patsy
+0x1049fdb39			6			Patten
+0x1049fdb3f			6			Pattie
+0x1049fdb45			6			Pattin
+0x1049fdb4b			6			Patton
+0x1049fdb51			5			Patty
+0x1049fd202			4			Paul
+0x1049fdb5c			5			Paulo
+0x1049fdb66			5			Pavel
+0x1049fdb6b			6			Pavlov
+0x1049fdb71			5			Paxon
+0x1049fdb76			6			Paxton
+0x1049fdb82			6			Peadar
+0x1049fdb8e			7			Pebrook
+0x1049fdb9a			5			Pedro
+0x1049fdb9f			6			Peirce
+0x1049fdba5			8			Pembroke
+0x1049fd254			3			Pen
+0x1049fd2e8			4			Penn
+0x1049fdbc9			6			Pepito
+0x1049fdbcf			8			Perceval
+0x1049fdbd7			8			Percival
+0x1049fdbdf			5			Percy
+0x1049fdbea			6			Perkin
+0x1049fdbf7			6			Perren
+0x1049fdbfd			5			Perry
+0x1049fdc02			4			Pete
+0x1049fdc06			5			Peter
+0x1049fdc0b			7			Peterus
+0x1049fdc17			4			Petr
+0x1049fdc1b			6			Peyter
+0x1049fdc21			6			Peyton
+0x1049fdc2b			8			Philbert
+0x1049fdc39			7			Phillip
+0x1049fdc40			8			Phillipe
+0x1049fdc48			8			Phillipp
+0x1049fdc50			7			Phineas
+0x1049fdc5b			6			Pierce
+0x1049fdc67			7			Pierson
+0x1049fdc74			7			Pietrek
+0x1049fdc81			5			Piggy
+0x1049fdc99			5			Piotr
+0x1049fb26b			3			Pip
+0x1049fdc9e			5			Pippo
+0x1049fdca3			4			Pooh
+0x1049fdcab			6			Porter
+0x1049fdcb1			6			Portie
+0x1049fdcbc			4			Poul
+0x1049fdcc0			6			Powell
+0x1049fdcc6			4			Pren
+0x1049fdcdf			8			Prescott
+0x1049fdce7			7			Preston
+0x1049fdcf3			6			Prince
+0x1049fdcf9			5			Prinz
+0x1049fdcfe			5			Pryce
+0x1049fdd03			4			Puff
+0x1049fdd0e			6			Putnam
+0x1049fdd14			6			Putnem
+0x1049fdd1a			5			Pyotr
+0x1049fdd1f			5			Quent
+0x1049fdd30			7			Quillan
+0x1049fdd37			7			Quincey
+0x1049fdd44			7			Quinlan
+0x1049fdd4b			5			Quinn
+0x1049fdd50			5			Quint
+0x1049fdd55			7			Quintin
+0x1049fdd5c			7			Quinton
+0x1049fdd63			7			Quintus
+0x1049fb3f6			3			Rab
+0x1049fdd6a			5			Rabbi
+0x1049fdd6f			4			Rabi
+0x1049fdd73			9			Radcliffe
+0x1049fdd96			8			Rafaello
+0x1049fdd9e			4			Rafe
+0x1049fdda2			4			Raff
+0x1049fddaf			8			Raffarty
+0x1049fddb7			8			Rafferty
+0x1049fddc3			6			Ragnar
+0x1049fddc9			8			Raimondo
+0x1049fdde0			6			Rainer
+0x1049fdded			4			Ralf
+0x1049fb46e			3			Ram
+0x1049fddfb			6			Ramsay
+0x1049fde01			6			Ramsey
+0x1049fde13			4			Rand
+0x1049fde17			6			Randal
+0x1049fde24			7			Randell
+0x1049fde2b			5			Randi
+0x1049fde30			6			Randie
+0x1049fde36			7			Randolf
+0x1049fde3d			8			Randolph
+0x1049fde45			5			Randy
+0x1049fde4a			7			Ransell
+0x1049fde51			6			Ransom
+0x1049fde57			5			Raoul
+0x1049fde67			4			Ravi
+0x1049fde6b			5			Ravid
+0x1049fde70			5			Raviv
+0x1049fde75			6			Rawley
+0x1049fde7b			7			Raymond
+0x1049fde89			7			Raynard
+0x1049fde96			6			Raynor
+0x1049fde9c			4			Read
+0x1049fdea0			5			Reade
+0x1049fdea5			6			Reagan
+0x1049fdeb1			7			Reamonn
+0x1049fdec3			5			Reece
+0x1049fdec8			4			Reed
+0x1049fdecc			4			Rees
+0x1049fded0			5			Reese
+0x1049fc772			3			Reg
+0x1049fc775			5			Regan
+0x1049fcf76			5			Regen
+0x1049fd355			6			Reggie
+0x1049fdbad			6			Reggis
+0x1049fbf09			5			Reggy
+0x1049fdd7c			8			Reginald
+0x1049fc77a			9			Reginauld
+0x1049fcf7b			4			Reid
+0x1049fbe5d			6			Reidar
+0x1049fc4f7			6			Reider
+0x1049fbb87			6			Reilly
+0x1049fd35b			7			Reinald
+0x1049fbf0e			8			Reinaldo
+0x1049fdbb3			9			Reinaldos
+0x1049fbb34			8			Reinhard
+0x1049fcf7f			8			Reinhold
+0x1049fd043			7			Reinold
+0x1049fdcca			8			Reinwald
+0x1049fc243			3			Rem
+0x1049fc888			9			Remington
+0x1049fdc86			5			Remus
+0x1049fbe63			6			Renado
+0x1049fc4fd			7			Renaldo
+0x1049fccb1			6			Renard
+0x1049fdd84			6			Renato
+0x1049fbb8d			6			Renaud
+0x1049fc246			7			Renault
+0x1049fc7ba			4			Rene
+0x1049fba64			5			Reube
+0x1049fc25b			6			Reuben
+0x1049fc783			6			Reuven
+0x1049fd189			3			Rex
+0x1049fd362			3			Rey
+0x1049fc3bd			7			Reynard
+0x1049fc3db			7			Reynold
+0x1049fc9a4			8			Reynolds
+0x1049fddd1			5			Rhett
+0x1049fb024			4			Rhys
+0x1049fbf16			3			Ric
+0x1049fc350			6			Ricard
+0x1049fc479			7			Ricardo
+0x1049fc5d4			8			Riccardo
+0x1049fc699			4			Rice
+0x1049fc910			4			Rich
+0x1049fcaf6			7			Richard
+0x1049fd04a			8			Richardo
+0x1049fd4f5			7			Richart
+0x1049fd57a			6			Richie
+0x1049fd7ed			8			Richmond
+0x1049fdc8b			9			Richmound
+0x1049fb606			5			Richy
+0x1049fbb3c			4			Rick
+0x1049fbf97			7			Rickard
+0x1049fc0a6			7			Rickert
+0x1049fc467			6			Rickey
+0x1049fc633			5			Ricki
+0x1049fc6f6			6			Rickie
+0x1049fc7be			5			Ricky
+0x1049fceed			8			Ricoriki
+0x1049fcf87			3			Rik
+0x1049fd12a			5			Rikki
+0x1049fd18c			5			Riley
+0x1049fd365			7			Rinaldo
+0x1049fdbbc			4			Ring
+0x1049fdcd2			5			Ringo
+0x1049fb1e3			7			Riobard
+0x1049fb822			7			Riordan
+0x1049fb9bb			3			Rip
+0x1049fbc21			6			Ripley
+0x1049fbe69			7			Ritchie
+0x1049fbe90			6			Roarke
+0x1049fbf6b			3			Rob
+0x1049fc1cc			4			Robb
+0x1049fc79e			7			Robbert
+0x1049fca26			6			Robbie
+0x1049fccb7			5			Robby
+0x1049fcdb0			6			Robers
+0x1049fce89			6			Robert
+0x1049fd16b			7			Roberto
+0x1049fd281			5			Robin
+0x1049fd554			7			Robinet
+0x1049fd706			8			Robinson
+0x1049fdab5			9			Rochester
+0x1049fdd24			4			Rock
+0x1049fdd8a			6			Rockey
+0x1049fde07			6			Rockie
+0x1049fb244			8			Rockwell
+0x1049fb40f			5			Rocky
+0x1049fb4b5			3			Rod
+0x1049fb6ca			4			Rodd
+0x1049fb6dc			6			Roddie
+0x1049fb7b9			5			Roddy
+0x1049fb80d			7			Roderic
+0x1049fb8c4			8			Roderich
+0x1049fba69			8			Roderick
+0x1049fbb93			8			Roderigo
+0x1049fbf19			5			Rodge
+0x1049fc40b			6			Rodger
+0x1049fc504			6			Rodney
+0x1049fc653			7			Rodolfo
+0x1049fc891			7			Rodolph
+0x1049fca9f			8			Rodolphe
+0x1049fceb1			7			Rodrick
+0x1049fd2f2			7			Rodrigo
+0x1049fd7c8			8			Rodrique
+0x1049fde5c			3			Rog
+0x1049fdeb8			5			Roger
+0x1049fb028			7			Rogerio
+0x1049fb07a			6			Rogers
+0x1049fb28a			3			Roi
+0x1049fb4cf			6			Roland
+0x1049fb8ec			7			Rolando
+0x1049fb945			6			Roldan
+0x1049fb989			5			Roley
+0x1049fbacd			4			Rolf
+0x1049fbbc2			5			Rolfe
+0x1049fbbef			7			Rolland
+0x1049fbc49			6			Rollie
+0x1049fc24d			6			Rollin
+0x1049fc261			7			Rollins
+0x1049fc69d			5			Rollo
+0x1049fc789			5			Rolph
+0x1049fc914			4			Roma
+0x1049fcb7d			6			Romain
+0x1049fcf8a			5			Roman
+0x1049fd1ab			5			Romeo
+0x1049fd1b9			3			Ron
+0x1049fd337			6			Ronald
+0x1049fd670			6			Ronnie
+0x1049fddd6			5			Ronny
+0x1049fddf1			6			Rooney
+0x1049fb9be			9			Roosevelt
+0x1049fbb40			5			Rorke
+0x1049fbc35			4			Rory
+0x1049fbd27			5			Rosco
+0x1049fbd7b			6			Roscoe
+0x1049fbf6e			4			Ross
+0x1049fc023			6			Rossie
+0x1049fc063			5			Rossy
+0x1049fc60c			4			Roth
+0x1049fc6c9			6			Rourke
+0x1049fcc77			6			Rouvin
+0x1049fccc9			5			Rowan
+0x1049fd114			5			Rowen
+0x1049fd260			7			Rowland
+0x1049fd308			6			Rowney
+0x1049fd317			3			Roy
+0x1049fd4aa			5			Royal
+0x1049fdbc0			6			Royall
+0x1049fdda6			5			Royce
+0x1049fb0e6			8			Rriocard
+0x1049fb179			4			Rube
+0x1049fb4b8			5			Ruben
+0x1049fb56e			5			Rubin
+0x1049fb59f			4			Ruby
+0x1049fb60b			4			Rudd
+0x1049fb63c			6			Ruddie
+0x1049fb676			5			Ruddy
+0x1049fb721			5			Rudie
+0x1049fb7c9			7			Rudiger
+0x1049fb960			6			Rudolf
+0x1049fb9df			7			Rudolfo
+0x1049fbaac			7			Rudolph
+0x1049fbb20			4			Rudy
+0x1049fbb7b			7			Rudyard
+0x1049fbec3			4			Rufe
+0x1049fc0ce			5			Rufus
+0x1049fc14c			8			Ruggiero
+0x1049fc168			6			Rupert
+0x1049fc1d0			7			Ruperto
+0x1049fc356			8			Ruprecht
+0x1049fc3c4			5			Rurik
+0x1049fc3e2			4			Russ
+0x1049fc42d			7			Russell
+0x1049fc5ad			6			Rustie
+0x1049fc638			6			Rustin
+0x1049fc7c3			5			Rusty
+0x1049fc7fa			6			Rutger
+0x1049fded5			10			Rutherford
+0x1049fc9f0			8			Rutledge
+0x1049fca91			6			Rutter
+0x1049fcac7			7			Ruttger
+0x1049fcb24			3			Ruy
+0x1049fcc29			4			Ryan
+0x1049fcce8			5			Ryley
+0x1049fccfa			4			Ryon
+0x1049fcd3a			4			Ryun
+0x1049fcd8a			3			Sal
+0x1049fcf48			6			Saleem
+0x1049fd12f			5			Salem
+0x1049fd191			5			Salim
+0x1049fd2c0			6			Salmon
+0x1049fd3a5			6			Salomo
+0x1049fd511			7			Salomon
+0x1049fd580			8			Salomone
+0x1049fd6d2			8			Salvador
+0x1049fdedf			9			Salvatore
+0x1049fd72b			8			Salvidor
+0x1049fda9a			3			Sam
+0x1049fdb14			6			Sammie
+0x1049fdcd7			5			Sammy
+0x1049fdd28			7			Sampson
+0x1049fde5f			6			Samson
+0x1049fb143			6			Samuel
+0x1049fb1b2			7			Samuele
+0x1049fb1d8			6			Sancho
+0x1049fb216			6			Sander
+0x1049fb28d			7			Sanders
+0x1049fdee8			9			Sanderson
+0x1049fb305			6			Sandor
+0x1049fb330			6			Sandro
+0x1049fb6ce			5			Sandy
+0x1049fb938			7			Sanford
+0x1049fbb56			6			Sanson
+0x1049fbbde			7			Sansone
+0x1049fbc16			5			Sarge
+0x1049fbc9b			7			Sargent
+0x1049fbcb4			6			Sascha
+0x1049fbcff			5			Sasha
+0x1049fbd70			4			Saul
+0x1049fbd98			7			Sauncho
+0x1049fbdd5			7			Saunder
+0x1049fdef1			8			Saunders
+0x1049fdef9			10			Saunderson
+0x1049fbeec			7			Saundra
+0x1049fbf83			7			Sauveur
+0x1049fc0c0			3			Saw
+0x1049fc310			6			Sawyer
+0x1049fc46d			7			Sawyere
+0x1049fc480			3			Sax
+0x1049fc4a8			4			Saxe
+0x1049fc4e5			5			Saxon
+0x1049fc6fc			3			Say
+0x1049fc7d4			5			Sayer
+0x1049fc810			6			Sayers
+0x1049fc82c			5			Sayre
+0x1049fc967			6			Sayres
+0x1049fdf03			8			Scarface
+0x1049fdf0b			8			Schuyler
+0x1049fc9ac			4			Scot
+0x1049fcae8			5			Scott
+0x1049fcafd			6			Scotti
+0x1049fcc36			7			Scottie
+0x1049fccbc			6			Scotty
+0x1049fce11			6			Seamus
+0x1049fcedf			4			Sean
+0x1049fdf13			9			Sebastian
+0x1049fdf1c			10			Sebastiano
+0x1049fdf26			9			Sebastien
+0x1049fcf57			3			See
+0x1049fcfd6			5			Selby
+0x1049fd1bc			5			Selig
+0x1049fd286			5			Serge
+0x1049fdf2f			8			Sergeant
+0x1049fd490			6			Sergei
+0x1049fd4fc			7			Sergent
+0x1049fd594			6			Sergio
+0x1049fd5bb			4			Seth
+0x1049fd80c			6			Seumas
+0x1049fd892			6			Seward
+0x1049fd94f			7			Seymour
+0x1049fda09			6			Shadow
+0x1049fda7a			4			Shae
+0x1049fdbf0			6			Shaine
+0x1049fdd07			6			Shalom
+0x1049fdde6			6			Shamus
+0x1049fde1d			6			Shanan
+0x1049fde82			5			Shane
+0x1049fdf37			7			Shannan
+0x1049fdf3e			7			Shannon
+0x1049fdf45			7			Shaughn
+0x1049fb0f4			5			Shaun
+0x1049fb16c			4			Shaw
+0x1049fb1c5			5			Shawn
+0x1049fb1f6			4			Shay
+0x1049fb31e			6			Shayne
+0x1049fb33a			4			Shea
+0x1049fb379			5			Sheff
+0x1049fdf4c			7			Sheffie
+0x1049fdf53			9			Sheffield
+0x1049fb405			6			Sheffy
+0x1049fb414			6			Shelby
+0x1049fdf5c			7			Shelden
+0x1049fb431			5			Shell
+0x1049fdf63			7			Shelley
+0x1049fdf6a			7			Shelton
+0x1049fb49a			4			Shem
+0x1049fb57a			4			Shep
+0x1049fdf71			7			Shepard
+0x1049fdf78			8			Shepherd
+0x1049fdf80			8			Sheppard
+0x1049fdf88			8			Shepperd
+0x1049fdf90			8			Sheridan
+0x1049fdf98			8			Sherlock
+0x1049fdfa0			9			Sherlocke
+0x1049fb5e0			5			Sherm
+0x1049fdfa9			7			Sherman
+0x1049fdfb0			7			Shermie
+0x1049fb652			6			Shermy
+0x1049fdfb7			7			Sherwin
+0x1049fdfbe			8			Sherwood
+0x1049fdfc6			8			Sherwynd
+0x1049fb7be			6			Sholom
+0x1049fdfce			8			Shurlock
+0x1049fdfd6			9			Shurlocke
+0x1049fdfdf			8			Shurwood
+0x1049fb899			2			Si
+0x1049fb9ce			5			Sibyl
+0x1049fbad1			3			Sid
+0x1049fbc27			6			Sidnee
+0x1049fbc75			6			Sidney
+0x1049fdfe7			9			Siegfried
+0x1049fbdb2			6			Siffre
+0x1049fbe10			3			Sig
+0x1049fdff0			7			Sigfrid
+0x1049fdff7			8			Sigfried
+0x1049fdfff			9			Sigismond
+0x1049fe008			10			Sigismondo
+0x1049fe012			9			Sigismund
+0x1049fe01b			10			Sigismundo
+0x1049fe025			7			Sigmund
+0x1049fe02c			7			Sigvard
+0x1049fbe96			5			Silas
+0x1049fe033			7			Silvain
+0x1049fbeac			6			Silvan
+0x1049fe03a			7			Silvano
+0x1049fe041			8			Silvanus
+0x1049fe049			9			Silvester
+0x1049fbf1e			6			Silvio
+0x1049fbf9e			3			Sim
+0x1049fbfc2			6			Simeon
+0x1049fe052			8			Simmonds
+0x1049fc0ad			5			Simon
+0x1049fc176			6			Simone
+0x1049fe05a			8			Sinclair
+0x1049fe062			8			Sinclare
+0x1049fc38f			6			Siward
+0x1049fc3b2			5			Skell
+0x1049fc45c			6			Skelly
+0x1049fc53c			4			Skip
+0x1049fc554			5			Skipp
+0x1049fe06a			7			Skipper
+0x1049fe071			7			Skippie
+0x1049fc5dc			6			Skippy
+0x1049fe078			7			Skipton
+0x1049fc602			3			Sky
+0x1049fc661			4			Skye
+0x1049fc8b0			6			Skylar
+0x1049fc8d8			6			Skyler
+0x1049fc918			5			Slade
+0x1049fc925			5			Sloan
+0x1049fc932			6			Sloane
+0x1049fc9d7			3			Sly
+0x1049fca13			5			Smith
+0x1049fca2c			6			Smitty
+0x1049fcb38			3			Sol
+0x1049fcb44			6			Sollie
+0x1049fcbb9			5			Solly
+0x1049fe07f			7			Solomon
+0x1049fe086			8			Somerset
+0x1049fcc50			3			Son
+0x1049fcc6e			6			Sonnie
+0x1049fcd09			5			Sonny
+0x1049fcdb6			6			Spence
+0x1049fe08e			7			Spencer
+0x1049fcdc9			6			Spense
+0x1049fe095			7			Spenser
+0x1049fce00			5			Spike
+0x1049fce8f			6			Stacee
+0x1049fcec1			5			Stacy
+0x1049fe09c			8			Staffard
+0x1049fe0a4			8			Stafford
+0x1049fe0ac			7			Staford
+0x1049fcfa8			4			Stan
+0x1049fe0b3			9			Standford
+0x1049fe0bc			9			Stanfield
+0x1049fe0c5			8			Stanford
+0x1049fe0cd			9			Stanislas
+0x1049fe0d6			10			Stanislaus
+0x1049fe0e0			9			Stanislaw
+0x1049fe0e9			9			Stanleigh
+0x1049fe0f2			7			Stanley
+0x1049fcfbf			6			Stanly
+0x1049fe0f9			7			Stanton
+0x1049fe100			8			Stanwood
+0x1049fd014			6			Stavro
+0x1049fe108			7			Stavros
+0x1049fd052			6			Stearn
+0x1049fe10f			7			Stearne
+0x1049fd094			6			Stefan
+0x1049fe116			7			Stefano
+0x1049fe11d			7			Steffen
+0x1049fe124			7			Stephan
+0x1049fe12b			9			Stephanus
+0x1049fe134			7			Stephen
+0x1049fe13b			8			Sterling
+0x1049fd1a0			5			Stern
+0x1049fd1f2			6			Sterne
+0x1049fd215			5			Steve
+0x1049fd220			6			Steven
+0x1049fd2cf			6			Stevie
+0x1049fd31a			5			Stevy
+0x1049fe143			7			Steward
+0x1049fe14a			7			Stewart
+0x1049fe151			8			Stillman
+0x1049fe159			9			Stillmann
+0x1049fd36c			6			Stinky
+0x1049fe162			8			Stirling
+0x1049fd539			3			Stu
+0x1049fd5dd			6			Stuart
+0x1049fe16a			8			Sullivan
+0x1049fd5f0			5			Sully
+0x1049fd60f			6			Sumner
+0x1049fd621			5			Sunny
+0x1049fe172			9			Sutherlan
+0x1049fe17b			10			Sutherland
+0x1049fd65c			6			Sutton
+0x1049fd688			4			Sven
+0x1049fd69a			5			Svend
+0x1049fd6a6			4			Swen
+0x1049fd6e0			3			Syd
+0x1049fd71a			6			Sydney
+0x1049fd7aa			5			Sylas
+0x1049fd7f5			6			Sylvan
+0x1049fe185			9			Sylvester
+0x1049fd801			5			Syman
+0x1049fd836			5			Symon
+0x1049fd8a3			3			Tab
+0x1049fd923			4			Tabb
+0x1049fd9aa			6			Tabbie
+0x1049fda25			5			Tabby
+0x1049fdae3			5			Taber
+0x1049fdb56			5			Tabor
+0x1049fdb7c			3			Tad
+0x1049fdb88			4			Tadd
+0x1049fdbe4			6			Taddeo
+0x1049fe18e			8			Taddeusz
+0x1049fdc33			6			Tadeas
+0x1049fdc61			5			Tadeo
+0x1049fdc6e			5			Tades
+0x1049fdc7b			5			Tadio
+0x1049fdd3e			6			Tailor
+0x1049fdd90			4			Tait
+0x1049fde0d			5			Taite
+0x1049fe196			7			Talbert
+0x1049fde90			6			Talbot
+0x1049fdeab			6			Tallie
+0x1049fdebd			5			Tally
+0x1049fb00a			3			Tam
+0x1049fb014			5			Tamas
+0x1049fe19d			6			Tammie
+0x1049fb03f			5			Tammy
+0x1049fb05f			3			Tan
+0x1049fb088			4			Tann
+0x1049fe1a3			6			Tanner
+0x1049fe1a9			6			Tanney
+0x1049fe1af			6			Tannie
+0x1049fb0a8			5			Tanny
+0x1049fe1b5			8			Tarrance
+0x1049fb1ea			4			Tate
+0x1049fe1bd			6			Taylor
+0x1049fe1c3			6			Teador
+0x1049fb2ed			3			Ted
+0x1049fb314			4			Tedd
+0x1049fe1c9			6			Teddie
+0x1049fb345			5			Teddy
+0x1049fb369			5			Tedie
+0x1049fe1cf			6			Tedman
+0x1049fe1d5			7			Tedmund
+0x1049fb484			4			Temp
+0x1049fe1dc			6			Temple
+0x1049fe1e2			9			Templeton
+0x1049fe1eb			7			Teodoor
+0x1049fe1f2			6			Teodor
+0x1049fe1f8			9			Teodorico
+0x1049fe201			7			Teodoro
+0x1049fe208			7			Terence
+0x1049fe20f			8			Terencio
+0x1049fe217			8			Terrance
+0x1049fe21f			6			Terrel
+0x1049fe225			7			Terrell
+0x1049fe22c			8			Terrence
+0x1049fb4f8			5			Terri
+0x1049fe234			7			Terrill
+0x1049fb534			5			Terry
+0x1049fe23b			7			Thacher
+0x1049fe242			8			Thaddeus
+0x1049fe24a			7			Thaddus
+0x1049fe251			7			Thadeus
+0x1049fb556			5			Thain
+0x1049fe258			6			Thaine
+0x1049fb5c9			5			Thane
+0x1049fe25e			6			Thatch
+0x1049fe264			8			Thatcher
+0x1049fe26c			7			Thaxter
+0x1049fe273			6			Thayne
+0x1049fe279			8			Thebault
+0x1049fe281			7			Thedric
+0x1049fe288			8			Thedrick
+0x1049fb685			4			Theo
+0x1049fe290			8			Theobald
+0x1049fe298			7			Theodor
+0x1049fe29f			8			Theodore
+0x1049fe2a7			9			Theodoric
+0x1049fe2b0			7			Thibaud
+0x1049fe2b7			7			Thibaut
+0x1049fb6e2			4			Thom
+0x1049fb777			5			Thoma
+0x1049fe2be			6			Thomas
+0x1049fb829			4			Thor
+0x1049fe2c4			6			Thorin
+0x1049fb8de			5			Thorn
+0x1049fe2ca			9			Thorndike
+0x1049fe2d3			7			Thornie
+0x1049fe2da			8			Thornton
+0x1049fe2e2			6			Thorny
+0x1049fe2e8			6			Thorpe
+0x1049fe2ee			9			Thorstein
+0x1049fe2f7			8			Thorsten
+0x1049fe2ff			8			Thorvald
+0x1049fe307			8			Thurstan
+0x1049fe30f			8			Thurston
+0x1049fe317			6			Tibold
+0x1049fe31d			7			Tiebold
+0x1049fe324			7			Tiebout
+0x1049fb8fa			5			Tiler
+0x1049fb90d			3			Tim
+0x1049fe32b			6			Timmie
+0x1049fb98e			5			Timmy
+0x1049fe331			7			Timofei
+0x1049fe338			7			Timoteo
+0x1049fe33f			8			Timothee
+0x1049fe347			9			Timotheus
+0x1049fe350			7			Timothy
+0x1049fe357			7			Tirrell
+0x1049fba2e			4			Tito
+0x1049fbac2			5			Titos
+0x1049fbaf4			5			Titus
+0x1049fbbc7			4			Tobe
+0x1049fe35e			6			Tobiah
+0x1049fe364			6			Tobias
+0x1049fbc39			5			Tobie
+0x1049fbc60			5			Tobin
+0x1049fbc90			5			Tobit
+0x1049fbd36			4			Toby
+0x1049fbdc5			3			Tod
+0x1049fbe1f			4			Todd
+0x1049fe36a			6			Toddie
+0x1049fbe33			5			Toddy
+0x1049fe370			7			Toiboid
+0x1049fbe70			3			Tom
+0x1049fbf72			5			Tomas
+0x1049fe377			6			Tomaso
+0x1049fc0e5			4			Tome
+0x1049fe37d			6			Tomkin
+0x1049fe383			6			Tomlin
+0x1049fe389			6			Tommie
+0x1049fc142			5			Tommy
+0x1049fe38f			6			Tonnie
+0x1049fc1dd			4			Tony
+0x1049fc20a			4			Tore
+0x1049fc2a5			5			Torey
+0x1049fc2b0			5			Torin
+0x1049fc3d1			4			Torr
+0x1049fe395			8			Torrance
+0x1049fc411			5			Torre
+0x1049fe39d			8			Torrence
+0x1049fe3a5			6			Torrey
+0x1049fe3ab			6			Torrin
+0x1049fc424			5			Torry
+0x1049fc48d			4			Town
+0x1049fe3b1			6			Towney
+0x1049fe3b7			6			Townie
+0x1049fe3bd			8			Townsend
+0x1049fc50a			5			Towny
+0x1049fc58f			5			Trace
+0x1049fe3c5			6			Tracey
+0x1049fe3cb			6			Tracie
+0x1049fc610			5			Tracy
+0x1049fe3d1			6			Traver
+0x1049fe3d7			7			Travers
+0x1049fe3de			6			Travis
+0x1049fe3e4			6			Travus
+0x1049fe3ea			6			Trefor
+0x1049fe3f0			7			Tremain
+0x1049fe3f7			8			Tremaine
+0x1049fe3ff			8			Tremayne
+0x1049fc61b			5			Trent
+0x1049fe407			7			Trenton
+0x1049fc6a2			4			Trev
+0x1049fe40e			6			Trevar
+0x1049fe414			6			Trever
+0x1049fe41a			6			Trevor
+0x1049fc78e			4			Trey
+0x1049fc7a5			4			Trip
+0x1049fcb27			5			Tripp
+0x1049fcbae			4			Tris
+0x1049fe420			7			Tristam
+0x1049fe427			7			Tristan
+0x1049fcd61			4			Troy
+0x1049fe42e			7			Trstram
+0x1049fe435			7			Trueman
+0x1049fe43c			8			Trumaine
+0x1049fe444			6			Truman
+0x1049fe44a			7			Trumann
+0x1049fcd7e			4			Tuck
+0x1049fe451			6			Tucker
+0x1049fe457			6			Tuckie
+0x1049fcd8d			5			Tucky
+0x1049fcde4			5			Tudor
+0x1049fce7e			4			Tull
+0x1049fe45d			6			Tulley
+0x1049fcef5			5			Tully
+0x1049fe463			6			Turner
+0x1049fcf28			2			Ty
+0x1049fe469			6			Tybalt
+0x1049fcf8f			3			Tye
+0x1049fd13c			5			Tyler
+0x1049fd172			5			Tymon
+0x1049fe46f			7			Tymothy
+0x1049fd1b0			5			Tynan
+0x1049fe476			6			Tyrone
+0x1049fd1df			5			Tyrus
+0x1049fd1e7			5			Tyson
+0x1049fd55b			5			Udale
+0x1049fd778			5			Udall
+0x1049fd795			5			Udell
+0x1049fd85e			3			Ugo
+0x1049fe47c			7			Ulberto
+0x1049fd8b8			5			Ulick
+0x1049fe483			6			Ulises
+0x1049fd99b			5			Ulric
+0x1049fe489			6			Ulrich
+0x1049fe48f			6			Ulrick
+0x1049fe495			7			Ulysses
+0x1049fe49c			7			Umberto
+0x1049fd9c6			5			Upton
+0x1049fe4a3			6			Urbain
+0x1049fd9f1			5			Urban
+0x1049fe4a9			6			Urbano
+0x1049fe4af			7			Urbanus
+0x1049fda49			3			Uri
+0x1049fda9d			5			Uriah
+0x1049fdb61			5			Uriel
+0x1049fdb95			5			Urson
+0x1049fe4b6			6			Vachel
+0x1049fe4bc			6			Vaclav
+0x1049fdc12			4			Vail
+0x1049fdc94			3			Val
+0x1049fe4c2			8			Valdemar
+0x1049fdcb7			4			Vale
+0x1049fe4ca			9			Valentijn
+0x1049fe4d3			8			Valentin
+0x1049fe4db			9			Valentine
+0x1049fe4e4			9			Valentino
+0x1049fdcee			5			Valle
+0x1049fdddb			3			Van
+0x1049fe4ed			5			Vance
+0x1049fe4f2			5			Vanya
+0x1049fe4f7			6			Vasili
+0x1049fe4fd			7			Vasilis
+0x1049fe504			6			Vasily
+0x1049fe50a			7			Vassili
+0x1049fe511			7			Vassily
+0x1049fe518			7			Vaughan
+0x1049fe51f			6			Vaughn
+0x1049fe525			5			Verge
+0x1049fe52a			6			Vergil
+0x1049fb080			4			Vern
+0x1049fe530			5			Verne
+0x1049fe535			6			Vernen
+0x1049fe53b			6			Verney
+0x1049fe541			6			Vernon
+0x1049fe547			6			Vernor
+0x1049fb110			3			Vic
+0x1049fb11c			4			Vick
+0x1049fe54d			7			Victoir
+0x1049fe554			6			Victor
+0x1049fe55a			7			Vidovic
+0x1049fe561			7			Vidovik
+0x1049fb17d			3			Vin
+0x1049fe568			5			Vince
+0x1049fe56d			7			Vincent
+0x1049fe574			8			Vincents
+0x1049fe57c			8			Vincenty
+0x1049fe584			7			Vincenz
+0x1049fe58b			6			Vinnie
+0x1049fe591			5			Vinny
+0x1049fe596			6			Vinson
+0x1049fe59c			5			Virge
+0x1049fe5a1			6			Virgie
+0x1049fe5a7			6			Virgil
+0x1049fe5ad			8			Virgilio
+0x1049fb196			4			Vite
+0x1049fb254			4			Vito
+0x1049fe5b5			8			Vittorio
+0x1049fb2ba			4			Vlad
+0x1049fe5bd			8			Vladamir
+0x1049fe5c5			8			Vladimir
+0x1049fb3bd			3			Von
+0x1049fb4a6			4			Wade
+0x1049fe5cd			9			Wadsworth
+0x1049fb4d5			4			Wain
+0x1049fe5d6			10			Wainwright
+0x1049fb4f0			4			Wait
+0x1049fe5e0			5			Waite
+0x1049fe5e5			6			Waiter
+0x1049fb54e			4			Wake
+0x1049fe5eb			9			Wakefield
+0x1049fb5a3			4			Wald
+0x1049fe5f4			8			Waldemar
+0x1049fe5fc			6			Walden
+0x1049fe602			5			Waldo
+0x1049fe607			6			Waldon
+0x1049fe60d			6			Walker
+0x1049fe613			7			Wallace
+0x1049fe61a			8			Wallache
+0x1049fe622			6			Wallas
+0x1049fe628			6			Wallie
+0x1049fe62e			6			Wallis
+0x1049fe634			5			Wally
+0x1049fe639			5			Walsh
+0x1049fb5b2			4			Walt
+0x1049fe63e			7			Walther
+0x1049fe645			6			Walton
+0x1049fb5bc			4			Wang
+0x1049fb60f			4			Ward
+0x1049fe64b			5			Warde
+0x1049fe650			6			Warden
+0x1049fb706			4			Ware
+0x1049fe656			6			Waring
+0x1049fe65c			6			Warner
+0x1049fe662			6			Warren
+0x1049fb70f			4			Wash
+0x1049fe668			10			Washington
+0x1049fb7de			3			Wat
+0x1049fe672			8			Waverley
+0x1049fe67a			7			Waverly
+0x1049fb814			3			Way
+0x1049fe681			6			Waylan
+0x1049fe687			7			Wayland
+0x1049fe68e			6			Waylen
+0x1049fe694			6			Waylin
+0x1049fe69a			6			Waylon
+0x1049fe6a0			5			Wayne
+0x1049fb835			3			Web
+0x1049fb83e			4			Webb
+0x1049fe6a5			5			Weber
+0x1049fe6aa			7			Webster
+0x1049fe6b1			6			Weidar
+0x1049fe6b7			6			Weider
+0x1049fe6bd			6			Welbie
+0x1049fe6c3			5			Welby
+0x1049fe6c8			5			Welch
+0x1049fe6cd			5			Wells
+0x1049fe6d2			5			Welsh
+0x1049fe6d7			7			Wendall
+0x1049fe6de			6			Wendel
+0x1049fe6e4			7			Wendell
+0x1049fe6eb			6			Werner
+0x1049fe6f1			7			Wernher
+0x1049fb873			3			Wes
+0x1049fe6f8			6			Wesley
+0x1049fb89b			4			West
+0x1049fe6fe			9			Westbrook
+0x1049fe707			10			Westbrooke
+0x1049fe711			9			Westleigh
+0x1049fe71a			7			Westley
+0x1049fe721			6			Weston
+0x1049fe727			6			Weylin
+0x1049fe72d			7			Wheeler
+0x1049fb8bc			4			Whit
+0x1049fe734			8			Whitaker
+0x1049fe73c			6			Whitby
+0x1049fe742			7			Whitman
+0x1049fe749			7			Whitney
+0x1049fe750			9			Whittaker
+0x1049fe759			5			Wiatt
+0x1049fe75e			7			Wilbert
+0x1049fe765			6			Wilbur
+0x1049fe76b			7			Wilburt
+0x1049fe772			6			Wilden
+0x1049fe778			6			Wildon
+0x1049fe77e			5			Wilek
+0x1049fe783			5			Wiley
+0x1049fe788			7			Wilfred
+0x1049fe78f			7			Wilfrid
+0x1049fe796			7			Wilhelm
+0x1049fb94b			4			Will
+0x1049fe79d			7			Willard
+0x1049fe7a4			7			Willdon
+0x1049fe7ab			6			Willem
+0x1049fe7b1			6			Willey
+0x1049fe7b7			5			Willi
+0x1049fe7bc			7			William
+0x1049fe7c3			6			Willie
+0x1049fe7c9			6			Willis
+0x1049fe7cf			5			Willy
+0x1049fe7d4			6			Wilmar
+0x1049fe7da			6			Wilmer
+0x1049fba0c			4			Wilt
+0x1049fe7e0			6			Wilton
+0x1049fbae6			3			Win
+0x1049fe7e6			7			Windham
+0x1049fe7ed			8			Winfield
+0x1049fe7f5			7			Winfred
+0x1049fe7fc			9			Winifield
+0x1049fbb24			4			Winn
+0x1049fe805			6			Winnie
+0x1049fe80b			5			Winny
+0x1049fe810			7			Winslow
+0x1049fe817			7			Winston
+0x1049fe81e			8			Winthrop
+0x1049fbb45			3			Wit
+0x1049fe826			6			Wittie
+0x1049fe82c			5			Witty
+0x1049fbc4f			4			Wolf
+0x1049fe831			8			Wolfgang
+0x1049fe839			6			Wolfie
+0x1049fe83f			5			Wolfy
+0x1049fbd2c			4			Wood
+0x1049fe844			6			Woodie
+0x1049fe84a			7			Woodman
+0x1049fe851			7			Woodrow
+0x1049fe858			5			Woody
+0x1049fe85d			6			Worden
+0x1049fe863			5			Worth
+0x1049fe868			11			Worthington
+0x1049fe873			6			Worthy
+0x1049fe879			6			Wright
+0x1049fe87f			6			Wyatan
+0x1049fe885			5			Wyatt
+0x1049fbec7			3			Wye
+0x1049fe88a			5			Wylie
+0x1049fbf50			3			Wyn
+0x1049fe88f			7			Wyndham
+0x1049fc068			4			Wynn
+0x1049fe896			6			Xavier
+0x1049fe89c			5			Xenos
+0x1049fe8a1			6			Xerxes
+0x1049fe8a7			5			Xever
+0x1049fe8ac			7			Ximenes
+0x1049fe8b3			7			Ximenez
+0x1049fe8ba			7			Xymenes
+0x1049fc0c3			4			Yale
+0x1049fe8c1			7			Yanaton
+0x1049fe8c8			5			Yance
+0x1049fe8cd			6			Yancey
+0x1049fe8d3			5			Yancy
+0x1049fc0ef			4			Yank
+0x1049fe8d8			6			Yankee
+0x1049fc253			4			Yard
+0x1049fe8de			7			Yardley
+0x1049fe8e5			6			Yehudi
+0x1049fe8eb			7			Yehudit
+0x1049fe8f2			5			Yorgo
+0x1049fe8f7			6			Yorgos
+0x1049fc3e6			4			York
+0x1049fe8fd			5			Yorke
+0x1049fe902			6			Yorker
+0x1049fc44c			3			Yul
+0x1049fc483			4			Yule
+0x1049fe908			5			Yulma
+0x1049fc530			4			Yuma
+0x1049fc5cb			4			Yuri
+0x1049fe90d			5			Yurik
+0x1049fc5f8			4			Yves
+0x1049fc65a			4			Yvon
+0x1049fc6ff			4			Yvor
+0x1049fe912			8			Zaccaria
+0x1049fc898			4			Zach
+0x1049fe91a			8			Zacharia
+0x1049fe922			9			Zachariah
+0x1049fe92b			9			Zacharias
+0x1049fe934			8			Zacharie
+0x1049fe93c			7			Zachary
+0x1049fe943			8			Zacherie
+0x1049fe94b			7			Zachery
+0x1049fcb83			4			Zack
+0x1049fe952			9			Zackariah
+0x1049fcb98			3			Zak
+0x1049fcc2d			4			Zane
+0x1049fe95b			5			Zared
+0x1049fccce			3			Zeb
+0x1049fe960			8			Zebadiah
+0x1049fe968			7			Zebedee
+0x1049fe96f			7			Zebulen
+0x1049fe976			7			Zebulon
+0x1049fe97d			9			Zechariah
+0x1049fccfe			3			Zed
+0x1049fe986			8			Zedekiah
+0x1049fcd3e			4			Zeke
+0x1049fe98e			5			Zelig
+0x1049fceb8			4			Zerk
+0x1049fe993			6			Zollie
+0x1049fe999			5			Zolly
