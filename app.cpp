@@ -80,6 +80,10 @@ void writeFile(int totalAllocationInByte, int totalAllocationTimes, list<alloc_b
     f << "***[Memory Allocations: " << totalAllocationTimes << " Allocations]***\n";
     f << "***[Nodes in Free List: " << freedMBList.size() << " Nodes]***\n\n";
 
+    cout << "***[Memory Allocated Size: " << totalAllocationInByte << " Bytes]***\n";
+    cout << "***[Memory Allocations: " << totalAllocationTimes << " Allocations]***\n";
+    cout << "***[Nodes in Free List: " << freedMBList.size() << " Nodes]***\n\n";
+
     f << "freedMBList\n";
 
     f << "Address\t\t\tNode Size\n";
@@ -120,7 +124,6 @@ void allocateMemory(string &name, list<alloc_block *> *allocMBList, int *totalAl
     mB->bsize = (int)bsize;
     mB->bword = (char *)bword;
     allocMBList->push_back(mB);
-    printf("AAllocMBList address: %p size: %d word: %.*s\n", allocMBList->back()->bword, allocMBList->back()->bsize, allocMBList->back()->bsize, allocMBList->back()->bword);
 
     // add size to totalAllocation for counting the bytes in the heap
     *totalAllocationInByte = *totalAllocationInByte + bsize;
@@ -141,13 +144,10 @@ void compactMemory(list<alloc_block *> *freedMBList)
         // checking consecitive free memory block
         if ((*it1)->bword + (*it1)->bsize == (*it2)->bword)
         {
-            printf("PRE-COMBACTED1 freedMBList address: %p size: %d word: %.*s\n", (*it1)->bword, (*it1)->bsize, (*it1)->bsize, (*it1)->bword);
-            printf("PRE-COMBACTED2 freedMBList address: %p size: %d word: %.*s\n", (*it2)->bword, (*it2)->bsize, (*it2)->bsize, (*it2)->bword);
-
             // merge blocks
             (*it1)->bsize = (*it1)->bsize + (*it2)->bsize;
-            printf("COMBACTED freedMBList address: %p size: %d word: %.*s\n", (*it1)->bword, (*it1)->bsize, (*it1)->bsize, (*it1)->bword);
 
+            // erease the merged node
             freedMBList->erase(it2++);
         }
         else
@@ -182,11 +182,12 @@ void deallocateMemory(int length, int maxLength, int counter, list<alloc_block *
         mB->bsize = (int)(*it)->bsize;
         mB->bword = (char *)(*it)->bword;
         freedMBList->push_back(mB);
-        printf("freedMBList address: %p size: %d word: %.*s\n", freedMBList->back()->bword, freedMBList->back()->bsize, freedMBList->back()->bsize, freedMBList->back()->bword);
 
         // remove from alloc list
         allocMBList->erase(it);
     }
+
+    // compact consective memory in free list
     compactMemory(freedMBList);
 }
 
@@ -206,7 +207,6 @@ void splitMemory(list<alloc_block *>::iterator it, string &name, list<alloc_bloc
     mB->bsize = (int)bsize;
     mB->bword = (char *)(*it)->bword;
     allocMBList->push_back(mB);
-    printf("allocMBList address: %p size: %d word: %.*s\n", allocMBList->back()->bword, allocMBList->back()->bsize, allocMBList->back()->bsize, allocMBList->back()->bword);
 
     // if remaining memory block store it back to freedMBList
     if (remainingSize > 0)
@@ -216,12 +216,12 @@ void splitMemory(list<alloc_block *>::iterator it, string &name, list<alloc_bloc
         mBF->bsize = remainingSize;
         mBF->bword = (char *)(*it)->bword + bsize;
         freedMBList->push_back(mBF);
-        printf("splitted freedMBList address: %p size: %d word: %.*s\n", freedMBList->back()->bword, freedMBList->back()->bsize, freedMBList->back()->bsize, freedMBList->back()->bword);
     }
 
     // delete the old memory block from the list
     freedMBList->erase(it);
 
+    // compact consective memory in free list
     compactMemory(freedMBList);
 
     // set the flag so it's not allocated again in the next if block
