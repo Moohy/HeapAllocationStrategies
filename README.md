@@ -34,7 +34,7 @@ make
     ./app -bf <source file> <destination file>
     ```
 
-## Run Worset Fit allocation strategy
+## Run Worst Fit allocation strategy
 - pass -wr argument as the box below show
 - `<source file>` is the input file
 - `<destination file>` is the output file
