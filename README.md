@@ -35,9 +35,9 @@ make
     ```
 
 ## Run Worst Fit allocation strategy
-- pass -wr argument as the box below show
+- pass -wf argument as the box below show
 - `<source file>` is the input file
 - `<destination file>` is the output file
     ```bash
-    ./app -wr <source file> <destination file>
+    ./app -wf <source file> <destination file>
     ```
