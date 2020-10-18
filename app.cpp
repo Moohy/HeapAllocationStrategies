@@ -76,32 +76,57 @@ void writeFile(int totalAllocationInByte, int totalAllocationTimes, list<alloc_b
 
     std::ofstream f;
     f.open(filename);
+
+    // file writing
     f << "***[Memory Allocated Size: " << totalAllocationInByte << " Bytes]***\n";
     f << "***[Memory Allocations: " << totalAllocationTimes << " Allocations]***\n";
     f << "***[Nodes in Free List: " << freedMBList.size() << " Nodes]***\n\n";
 
+    // standerd output
     cout << "***[Memory Allocated Size: " << totalAllocationInByte << " Bytes]***\n";
     cout << "***[Memory Allocations: " << totalAllocationTimes << " Allocations]***\n";
     cout << "***[Nodes in Free List: " << freedMBList.size() << " Nodes]***\n\n";
 
+    // file writing
     f << "freedMBList\n";
-
     f << "Address\t\t\tNode Size\n";
-    for (list<alloc_block *>::iterator node = freedMBList.begin(); node != freedMBList.end(); ++node)
-        f << (void *)((*node)->bword) << "\t\t\t" << (*node)->bsize << "\n";
 
+    // standerd output
+    cout << "freedMBList\n";
+    cout << "Address\t\t\tNode Size\n";
+    for (list<alloc_block *>::iterator node = freedMBList.begin(); node != freedMBList.end(); ++node)
+    {
+        // file writing
+        f << (void *)((*node)->bword) << "\t\t\t" << (*node)->bsize << "\n";
+        // standerd output
+        cout << (void *)((*node)->bword) << "\t\t\t" << (*node)->bsize << "\n";
+    }
+
+    // file writing
     f << "\n\n";
     f << "allocMBList\n";
     f << "Address\t\t\tNode Size\t\tContent\n";
 
+    // standerd output
+    cout << "\n\n";
+    cout << "allocMBList\n";
+    cout << "Address\t\t\tNode Size\t\tContent\n";
+
     for (list<alloc_block *>::iterator node = allocMBList.begin(); node != allocMBList.end(); ++node)
     {
+        // file writing
         f << (void *)((*node)->bword) << "\t\t\t" << (*node)->bsize << "\t\t\t";
+        // standerd output
+        cout << (void *)((*node)->bword) << "\t\t\t" << (*node)->bsize << "\t\t\t";
 
         char buffer[(*node)->bsize + 1];
         snprintf(buffer, sizeof(buffer),
                  "%s", (*node)->bword);
+
+        // file writing
         f << buffer << "\n";
+        // standerd output
+        cout << buffer << "\n";
     }
 
     f.close();
@@ -117,7 +142,7 @@ void allocateMemory(string &name, list<alloc_block *> *allocMBList, int *totalAl
     bword = sbrk(bsize);
 
     //copy from the name from the file to the specific memory block
-    strcpy((char *)bword, name.c_str());
+    strncpy((char *)bword, name.c_str(), bsize);
 
     // push the newly allocated memory and size to the list
     alloc_block *mB = (alloc_block *)malloc(sizeof(struct alloc_block));
@@ -164,7 +189,7 @@ void deallocateMemory(int length, int maxLength, int counter, list<alloc_block *
         remaining_length = maxLength;
 
     // free maxLength memory each iterationLength iteration
-    for (unsigned int j = 0; j < remaining_length; j++)
+    for (int j = 0; j < remaining_length; j++)
     {
 
         // create iterator
@@ -234,7 +259,7 @@ void firstFit(string &name, list<alloc_block *> *allocMBList, list<alloc_block *
     for (list<alloc_block *>::iterator it = freedMBList->begin(); it != freedMBList->end(); ++it)
     {
         // checking the size of both the name from the file and the allocated memory size in freedMBList
-        if (name.length() <= (*it)->bsize)
+        if (name.length() <= (unsigned)(*it)->bsize)
         {
             splitMemory(it, name, allocMBList, freedMBList, flagMB);
             break;
@@ -260,7 +285,7 @@ void worstFit(string &name, list<alloc_block *> *allocMBList, list<alloc_block *
     }
 
     // checking the size of both the name from the file and the allocated memory size in freedMBList
-    if (name.length() <= max && *temp != NULL)
+    if (name.length() <= (unsigned)max && *temp != NULL)
     {
         splitMemory(temp, name, allocMBList, freedMBList, flagMB);
     }
@@ -277,7 +302,7 @@ void bestFit(string &name, list<alloc_block *> *allocMBList, list<alloc_block *>
     for (list<alloc_block *>::iterator it = freedMBList->begin(); it != freedMBList->end(); ++it)
     {
         // checking the size of both the name from the file and the allocated memory size in freedMBList
-        if (name.length() <= (*it)->bsize)
+        if (name.length() <= (unsigned)(*it)->bsize)
         {
             // first found satisfying size from list
             if (i == -1)

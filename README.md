@@ -3,6 +3,16 @@
 ```bash
 make
 ```
+## app.cpp
+* This file is the main engine for running the strategies.
+
+## alloc_block.h
+* This is the header file for the structure that represents each memory block in the heap.
+
+## max_block.h
+* This is the header file for the structure that represents highest/biggest memory block in the heap. 
+* This header wasn't used but it's there for future enhancement on the time complexity for running worst fit.
+
 ## Requirements
 - List file of strings on each line.
 

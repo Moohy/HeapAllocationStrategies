@@ -1,2 +1,2 @@
 all:
-	g++ -std=c++0x -Wall  -o app app.cpp
+	g++ -std=c++11 -Wall  -o app app.cpp
